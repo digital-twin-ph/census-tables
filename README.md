@@ -29,6 +29,14 @@ match today's boundaries. This repository keeps them so they can be checked.
 - **The licence first.** Each office's terms are read before its counts are added, and stated in `provenance.json`.
   A country whose terms do not allow redistribution is listed with its source, without its counts.
 
+## Reviewed every six months
+
+Each table is reviewed at least every six months (the practitioner, 2026-11-19), and on news of a census between
+reviews: whether a newer census has been taken or published, whether provisional results became final, and whether the
+office corrected its tables or changed its terms. `provenance.json` records `reviewed.last` and `reviewed.next_due`, and
+`REVIEWS.md` what each review found, "no change" included. A table past its date is reported as overdue, never removed:
+an old count stays a count.
+
 ## Status
 
 Started 2026-11-19 as african-census-tables; renamed census-tables the same day, when the scope widened.

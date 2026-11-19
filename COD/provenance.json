@@ -46,5 +46,10 @@
       "regions_sum_to_the_country": "30729443"
     }
   },
-  "units": "counts.csv: the country, 9 regions, and their 44 cities (villes) and sub-regions (sous-régions), as printed. A ville is a unit of the same level as a sous-région: a region's total is the sum of both. units.csv, the mapping to today's provinces, HDX P-codes and geoBoundaries IDs, is not written yet."
+  "units": "counts.csv: the country, 9 regions, and their 44 cities (villes) and sub-regions (sous-régions), as printed. A ville is a unit of the same level as a sous-région: a region's total is the sum of both. units.csv, the mapping to today's provinces, HDX P-codes and geoBoundaries IDs, is not written yet.",
+  "reviewed": {
+    "last": "2026-11-19",
+    "next_due": "2027-05-19",
+    "found": "First transcription. RGPH-2 in its preparatory phase, no enumeration date."
+  }
 }
