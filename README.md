@@ -1,6 +1,8 @@
-# African census tables
+# Census tables
 
-Census counts for African countries, by administrative unit, as each national statistics office published them.
+Census counts for countries of Africa, Asia and South America, by administrative unit, as each national statistics
+office published them. Curated: each table transcribed, checked against its own totals, and published with its
+provenance stated.
 
 Population rasters, health programmes and humanitarian baselines all lean on census counts, and the counts are hard
 to find in a form a person can check: a table in a PDF report, names spelled the office's own way, units that do not
@@ -29,5 +31,13 @@ match today's boundaries. This repository keeps them so they can be checked.
 
 ## Status
 
-Started 2026-11-19. Botswana and Rwanda first, then the twelve other countries already compared with population
-rasters.
+Started 2026-11-19 as african-census-tables; renamed census-tables the same day, when the scope widened.
+
+| Done | Country | Census |
+| --- | --- | --- |
+| 2026-11-19 | DR Congo | 1984, the only census: 9 regions, 44 cities and sub-regions |
+
+**Next, by population, the five largest of each continent**, at the first administrative level and the second where
+the office publishes it: Nigeria, Ethiopia, Egypt, Tanzania, South Africa; India, China, Indonesia, Pakistan,
+Bangladesh; Brazil, Colombia, Argentina, Peru, Venezuela. Then Botswana and Rwanda, from Fieldwork's population
+example.
