@@ -1,0 +1,50 @@
+{
+  "country": "Democratic Republic of the Congo (Zaïre in 1984)",
+  "iso3": "COD",
+  "census": "Recensement scientifique de la population, juillet 1984",
+  "reference_date": "1984-07-01",
+  "the_only_census": "No census has been taken since. The second (RGPH-2) was in its preparatory phase in September 2026, with census mapping under way in Kinshasa and no published date for enumeration.",
+  "source": {
+    "title": "Zaïre. Recensement scientifique de la population, juillet 1984. Totaux définitifs",
+    "publisher": "République du Zaïre, Ministère du Plan et Aménagement du Territoire, Institut National de la Statistique",
+    "with": "UNDTCD projects ZAI/83/019 and ZAI/88/P03",
+    "tables": {
+      "T-01": "Répartition de la population résidante du Zaïre par Région, printed page 12",
+      "T-02": "Répartition de la population résidante du Zaïre par Région et Sous-Région, printed pages 13 to 16"
+    },
+    "copy_read": {
+      "url": "https://ireda.ceped.org/inventaire/ressources/cod-1984-rec-t1_totaux_definitifs.pdf",
+      "held_by": "IREDA, CEPED's inventory of African census and survey documents",
+      "bytes": 3321820,
+      "sha256": "4cb7991846b13e74a13017ac1612499943ab9130d723b568f21b9c8640e4159b",
+      "retrieved": "2026-11-19",
+      "form": "a 2010 scan with a recognised-text layer, 90 pages"
+    }
+  },
+  "licence": {
+    "stated": "none",
+    "read": [
+      "the volume itself: no reproduction or rights notice",
+      "IREDA's pages: no terms of use",
+      "CEPED's legal notice (ceped.org/article/mentions-legales): personal data and the site's illustration photos only"
+    ],
+    "decision": "Published as counts, transcribed and cited, with this provenance stated, by the practitioner's decision of 2026-11-19: \"The tables then become curated with stated provenance.\"",
+    "redistributed": "the counts only, transcribed and cited; the scanned volume is not redistributed"
+  },
+  "transcription": {
+    "by": "read from the recognised-text layer, and from the page image wherever the text layer failed a check",
+    "errors_found_in_the_text_layer": [
+      "national men 5093094 for 15093094",
+      "Mbandaka men 69411 for 69417",
+      "Ituri men 855593 for 853593",
+      "Bandundu total 3169141 and Équateur men 1143196 in T-02, where T-01 and the page image read 3769741 and 1743196",
+      "Zongo, Bukavu and Kananga rows unreadable as text"
+    ],
+    "checks": {
+      "men_plus_women_equals_total": "54 of 54 rows",
+      "cities_and_sub_regions_sum_to_their_region": "9 of 9 regions",
+      "regions_sum_to_the_country": "30729443"
+    }
+  },
+  "units": "counts.csv: the country, 9 regions, and their 44 cities (villes) and sub-regions (sous-régions), as printed. A ville is a unit of the same level as a sous-région: a region's total is the sum of both. units.csv, the mapping to today's provinces, HDX P-codes and geoBoundaries IDs, is not written yet."
+}
