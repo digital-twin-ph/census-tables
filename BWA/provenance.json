@@ -1,0 +1,37 @@
+{
+  "country": "Botswana",
+  "iso3": "BWA",
+  "census": "2022 Population and Housing Census (PHC 2022)",
+  "reference_date": "2022",
+  "source": {
+    "title": "Population Distribution, Structure and Density in Botswana (PHC 2022), March 2024, Table 1",
+    "publisher": "Statistics Botswana",
+    "page": "https://www.statsbots.org.bw/census-2022",
+    "copy_read": {
+      "url": "https://statsbots.org.bw/sites/default/files/publications/Population%20Distribution%20Structure%20and%20Density%20in%20Botswana.pdf",
+      "retrieved": "2026-11-12",
+      "held_by": "not held; read for Fieldwork's population example",
+      "bytes": null,
+      "sha256": null
+    },
+    "note": "Statistics Botswana's census page now lists the paper as 'Population Distribution, Structure, Density and Policy Implications in Botswana', at another address. Not opened; whether its Table 1 is the same is not checked."
+  },
+  "licence": {
+    "stated": "Statistics Botswana's terms of use: use as the user wishes, acknowledging Statistics Botswana as the source of the basic data",
+    "where": "https://www.statsbots.org.bw/terms-use, read 2026-11-20. No open licence is named.",
+    "redistributed": "the district totals of Table 1, with Statistics Botswana named as the source"
+  },
+  "transcription": {
+    "by": "typed from the PDF's Table 1 on 2026-11-12 for Fieldwork's population example; not re-read for this repository",
+    "checks": {
+      "districts_sum_to_the_country": "2359609, the total on Statistics Botswana's census page"
+    },
+    "not_checked": "men and women: this transcription holds totals only. The page itself was not re-read; the copy read was not kept and has no recorded digest."
+  },
+  "units": "counts.csv: the country and its 28 census districts, totals only. units.csv names each district's unit in geoBoundaries gbHumanitarian BWA ADM2; eight names differ and were matched by hand. Their shapeIDs are not recorded: that level is not in the boundaries repository.",
+  "reviewed": {
+    "last": "2026-11-20",
+    "next_due": "2027-05-20",
+    "found": "Added from Fieldwork's population example. The source paper was retitled or replaced on the office's site; re-reading Table 1 from it is open."
+  }
+}

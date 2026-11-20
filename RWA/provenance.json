@@ -1,0 +1,40 @@
+{
+  "country": "Rwanda",
+  "iso3": "RWA",
+  "census": "Fifth Rwanda Population and Housing Census (RPHC5), 2022",
+  "reference_date": "2022-08",
+  "source": {
+    "title": "RPHC5 2022 Main Indicators, Table 1: Resident population by sex, Province, District and population density",
+    "publisher": "National Institute of Statistics of Rwanda (NISR)",
+    "page": "https://statistics.gov.rw/data-sources/censuses/Population-and-Housing-Census/fifth-population-and-housing-census-2022/main-indicators-5th-rwanda-population-and-housing-census-phc",
+    "copy_read": {
+      "url": "https://www.statistics.gov.rw/sites/default/files/documents/2025-02/PHC5-2022_Main_Indicators.xlsx",
+      "bytes": 581274,
+      "sha256": "b73aa381fd3145405251b87b15e5a2926b0038e3b2d2d837b92b81b9630d06f9",
+      "retrieved": "2026-11-13",
+      "held_by": "example-population-models-census/source/ (Fieldwork's population example)",
+      "form": "Excel workbook; sheet 'Table 1'"
+    }
+  },
+  "licence": {
+    "stated": "CC BY 4.0",
+    "where": "https://statistics.gov.rw/terms-use, read 2026-11-20: NISR data and analysis released under CC BY 4.0, unless content carries its own licence; the census pages carry no other",
+    "redistributed": "the counts of Table 1, with attribution to the National Institute of Statistics of Rwanda"
+  },
+  "transcription": {
+    "by": "read from the workbook's cells (B4:E39), not typed",
+    "as_published": "names as the workbook writes them, with a trailing no-break space removed from City of Kigali, Southern Province, Western Province, Northern Province, Eastern Province",
+    "checks": {
+      "men_plus_women_equals_total": "36 of 36 rows",
+      "districts_sum_to_their_province": "5 of 5 provinces",
+      "provinces_sum_to_the_country": "13246394"
+    },
+    "agrees_with": "example-population-models-census/data/rwanda_census_2022_districts.csv: all 30 district totals equal"
+  },
+  "units": "counts.csv: the country, its 4 provinces and the City of Kigali, and 30 districts. units.csv maps each district to geoBoundaries gbOpen RWA ADM2 (RWA-ADM2-39286606), all 30 by the same name.",
+  "reviewed": {
+    "last": "2026-11-20",
+    "next_due": "2027-05-20",
+    "found": "First transcription. RPHC5 (August 2022) is the latest census."
+  }
+}

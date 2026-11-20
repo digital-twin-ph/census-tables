@@ -1,0 +1,29 @@
+unit,geoboundaries_level,geoboundaries_name,geoboundaries_shapeID,matched_by
+Gaborone,gbHumanitarian BWA ADM2,Gaborone,,same name
+Francistown,gbHumanitarian BWA ADM2,Francistown,,same name
+Lobatse,gbHumanitarian BWA ADM2,Lobatse,,same name
+Selibe Phikwe,gbHumanitarian BWA ADM2,Selibe Phikwe,,same name
+Orapa,gbHumanitarian BWA ADM2,Orapa,,same name
+Jwaneng,gbHumanitarian BWA ADM2,Jwaneng,,same name
+Sowa,gbHumanitarian BWA ADM2,Sowa Town,,"read by hand, 2026-11-12"
+Southern,gbHumanitarian BWA ADM2,Southern,,same name
+Barolong,gbHumanitarian BWA ADM2,Barolong,,same name
+Ngwaketse West,gbHumanitarian BWA ADM2,Ngwaketse West,,same name
+South East,gbHumanitarian BWA ADM2,South East,,same name
+Kweneng East,gbHumanitarian BWA ADM2,Kweneng East,,same name
+Kweneng West,gbHumanitarian BWA ADM2,Kweneng West,,same name
+Kgatleng,gbHumanitarian BWA ADM2,Kgatleng,,same name
+Central Serowe /Palapye,gbHumanitarian BWA ADM2,Serowe Palapye,,"read by hand, 2026-11-12"
+Central Mahalapye,gbHumanitarian BWA ADM2,Mahalapye,,"read by hand, 2026-11-12"
+Central Bobonong,gbHumanitarian BWA ADM2,Bobonong,,"read by hand, 2026-11-12"
+Central Boteti,gbHumanitarian BWA ADM2,Boteti,,"read by hand, 2026-11-12"
+Central Tutume,gbHumanitarian BWA ADM2,Tutume,,"read by hand, 2026-11-12"
+North East,gbHumanitarian BWA ADM2,North East,,same name
+Ngamiland East,gbHumanitarian BWA ADM2,Ngamiland East,,same name
+Ngamiland West,gbHumanitarian BWA ADM2,Ngamiland West,,same name
+Chobe,gbHumanitarian BWA ADM2,Chobe,,same name
+Delta,gbHumanitarian BWA ADM2,Ngamiland Delta,,"read by hand, 2026-11-12"
+Ghanzi,gbHumanitarian BWA ADM2,Ghanzi,,same name
+CKGR,gbHumanitarian BWA ADM2,Central Kgalagadi Game Reserve,,"read by hand, 2026-11-12"
+Kgalagadi South,gbHumanitarian BWA ADM2,Kgalagadi South,,same name
+Kgalagadi North,gbHumanitarian BWA ADM2,Kgalagadi North,,same name

@@ -44,8 +44,10 @@ Started 2026-11-19 as african-census-tables; renamed census-tables the same day,
 | Done | Country | Census |
 | --- | --- | --- |
 | 2026-11-19 | DR Congo | 1984, the only census: 9 regions, 44 cities and sub-regions |
+| 2026-11-20 | Rwanda | 2022: 4 provinces and Kigali, 30 districts, by sex |
+| 2026-11-20 | Botswana | 2022: 28 census districts, totals only |
 
 **Next, by population, the five largest of each continent**, at the first administrative level and the second where
 the office publishes it: Nigeria, Ethiopia, Egypt, Tanzania, South Africa; India, China, Indonesia, Pakistan,
-Bangladesh; Brazil, Colombia, Argentina, Peru, Venezuela. Then Botswana and Rwanda, from Fieldwork's population
-example.
+Bangladesh; Brazil, Colombia, Argentina, Peru, Venezuela. Botswana and Rwanda, from Fieldwork's population
+example, were brought forward on 2026-11-20.

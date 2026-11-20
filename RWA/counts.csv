@@ -1,0 +1,37 @@
+level,province,unit,men,women,total,table,cells
+country,,Rwanda,6429326,6817068,13246394,Table 1,B4:E4
+province,,City of Kigali,888882,856673,1745555,Table 1,B5:E5
+district,City of Kigali,Nyarugenge,195780,178539,374319,Table 1,B6:E6
+district,City of Kigali,Gasabo,443987,435518,879505,Table 1,B7:E7
+district,City of Kigali,Kicukiro,249115,242616,491731,Table 1,B8:E8
+province,,Southern Province,1448455,1554244,3002699,Table 1,B9:E9
+district,Southern Province,Nyanza,178645,187073,365718,Table 1,B10:E10
+district,Southern Province,Gisagara,188965,208086,397051,Table 1,B11:E11
+district,Southern Province,Nyaruguru,151980,166146,318126,Table 1,B12:E12
+district,Southern Province,Huye,188859,193041,381900,Table 1,B13:E13
+district,Southern Province,Nyamagabe,176725,194776,371501,Table 1,B14:E14
+district,Southern Province,Ruhango,172096,187025,359121,Table 1,B15:E15
+district,Southern Province,Muhanga,173615,184818,358433,Table 1,B16:E16
+district,Southern Province,Kamonyi,217570,233279,450849,Table 1,B17:E17
+province,,Western Province,1384635,1511849,2896484,Table 1,B18:E18
+district,Western Province,Karongi,178417,195452,373869,Table 1,B19:E19
+district,Western Province,Rutsiro,176498,192682,369180,Table 1,B20:E20
+district,Western Province,Rubavu,267299,279384,546683,Table 1,B21:E21
+district,Western Province,Nyabihu,150072,168975,319047,Table 1,B22:E22
+district,Western Province,Ngororero,171065,196890,367955,Table 1,B23:E23
+district,Western Province,Rusizi,236426,249103,485529,Table 1,B24:E24
+district,Western Province,Nyamasheke,204858,229363,434221,Table 1,B25:E25
+province,,Northern Province,972960,1065551,2038511,Table 1,B26:E26
+district,Northern Province,Rulindo,171849,188295,360144,Table 1,B27:E27
+district,Northern Province,Gakenke,172600,192692,365292,Table 1,B28:E28
+district,Northern Province,Musanze,227340,249182,476522,Table 1,B29:E29
+district,Northern Province,Burera,184782,202947,387729,Table 1,B30:E30
+district,Northern Province,Gicumbi,216389,232435,448824,Table 1,B31:E31
+province,,Eastern Province,1734394,1828751,3563145,Table 1,B32:E32
+district,Eastern Province,Rwamagana,243794,241159,484953,Table 1,B33:E33
+district,Eastern Province,Nyagatare,318740,335121,653861,Table 1,B34:E34
+district,Eastern Province,Gatsibo,264461,286703,551164,Table 1,B35:E35
+district,Eastern Province,Kayonza,221448,235708,457156,Table 1,B36:E36
+district,Eastern Province,Kirehe,221763,239097,460860,Table 1,B37:E37
+district,Eastern Province,Ngoma,192720,211328,404048,Table 1,B38:E38
+district,Eastern Province,Bugesera,271468,279635,551103,Table 1,B39:E39
