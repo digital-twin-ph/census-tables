@@ -36,5 +36,21 @@
     "last": "2026-11-20",
     "next_due": "2027-05-20",
     "found": "First transcription. RPHC5 (August 2022) is the latest census."
+  },
+  "offered": {
+    "table": "districts",
+    "why": "Fieldwork offers the table in the units today's maps use, with geoBoundaries' name for each, so a census relates to a map of the districts without anyone retyping a name. The printed counts (counts.csv) stay here as the source, and every check runs on them."
+  },
+  "districts": {
+    "label": "Its 30 districts, with geoBoundaries' names",
+    "what": "The census districts with the name geoBoundaries gives each, written by scripts/districts_today.py. Counts as printed.",
+    "how": "Each district's name in the NISR workbook is geoBoundaries' RWA ADM2 name (gbOpen 9469f09, in digital-twin-ph/boundaries), all 30; the shapeID is that release's.",
+    "checks": {
+      "every_district_paired_once": "yes",
+      "sums_to_the_country": "yes"
+    },
+    "does_not_establish": [
+      "That geoBoundaries' district lines are NISR's: they are OpenStreetMap's, from Open Data Rwanda."
+    ]
   }
 }

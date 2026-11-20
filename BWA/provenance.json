@@ -33,5 +33,22 @@
     "last": "2026-11-20",
     "next_due": "2027-05-20",
     "found": "Added from Fieldwork's population example. The source paper was retitled or replaced on the office's site; re-reading Table 1 from it is open."
+  },
+  "offered": {
+    "table": "districts",
+    "why": "Fieldwork offers the table in the units today's maps use, with geoBoundaries' name for each, so a census relates to a map of the districts without anyone retyping a name. The printed counts (counts.csv) stay here as the source, and every check runs on them."
+  },
+  "districts": {
+    "label": "Its 28 census districts, with geoBoundaries' names",
+    "what": "The census districts with the name geoBoundaries gives each, written by scripts/districts_today.py. Counts as printed.",
+    "how": "Paired with the 28 units of geoBoundaries' BWA ADM2 file as the population example's district table pairs them (example-population-models-census, data/botswana_census_2022_districts.csv): 20 by the same name; 8 where geoBoundaries spells the district another way: Sowa as Sowa Town, Delta as Ngamiland Delta, CKGR as Central Kgalagadi Game Reserve, and Central Serowe/Palapye, Mahalapye, Bobonong, Boteti and Tutume without 'Central'.",
+    "checks": {
+      "every_district_paired_once": "yes",
+      "sums_to_the_country": "yes"
+    },
+    "does_not_establish": [
+      "That each census district's limits are geoBoundaries' unit's: the pairing is by name, not by shape.",
+      "geoBoundaries' shapeIDs for Botswana: the file the example read carried none, so none is given."
+    ]
   }
 }

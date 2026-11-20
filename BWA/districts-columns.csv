@@ -1,0 +1,4 @@
+variable,label,unit,description
+unit,Census district,,The census district as Statistics Botswana names it
+geoboundaries_name,District (geoBoundaries),,"The district as geoBoundaries' BWA ADM2 file spells it: the name to match a map of the districts on. 20 are the census's own name; 8 differ (Sowa, Delta, CKGR and five Central sub-districts)"
+total,Total,persons,"Population, 2022 Population and Housing Census"

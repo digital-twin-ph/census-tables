@@ -15,3 +15,5 @@ Implications in Botswana*. Whether its Table 1 is the one read is not checked, a
 
 Cite as: Statistics Botswana, Population Distribution, Structure and Density in Botswana (PHC 2022), March 2024,
 Table 1. Data processed by the census-tables project.
+
+- `districts.csv`: the 28 census districts with geoBoundaries' name for each (8 spelled differently), to relate to a map of the districts; `districts-columns.csv`, its dictionary. The counts as printed.

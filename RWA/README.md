@@ -10,3 +10,5 @@ The Fifth Population and Housing Census (RPHC5), August 2022, by NISR, the Natio
 
 Cite as: National Institute of Statistics of Rwanda (NISR), Fifth Rwanda Population and Housing Census 2022, Main
 Indicators, Table 1. CC BY 4.0.
+
+- `districts.csv`: the 30 districts with geoBoundaries' name and ID for each, to relate to a map of the districts; `districts-columns.csv`, its dictionary. The counts as printed.

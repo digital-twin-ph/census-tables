@@ -1,0 +1,8 @@
+variable,label,unit,description
+province,Province,,"The province the district lies in, as the NISR workbook writes it"
+unit,District,,The district's name as the NISR workbook writes it
+geoboundaries_name,District (geoBoundaries),,The district as geoBoundaries' RWA ADM2 spells it (gbOpen 9469f09): the name to match a map of the districts on. The same as the workbook's for all 30
+geoboundaries_id,geoBoundaries ID,,The district's shapeID in that release
+men,Men,persons,"Resident male population, August 2022 census"
+women,Women,persons,"Resident female population, August 2022 census"
+total,Total,persons,"Resident population, both sexes, August 2022 census"
