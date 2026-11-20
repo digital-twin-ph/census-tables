@@ -1,0 +1,8 @@
+variable,label,unit,description
+province,Province,,"The province as Loi organique 15/006 of 25 March 2015 spells it (article 2)"
+geoboundaries_name,Province (geoBoundaries),,"The province as geoBoundaries' COD ADM1 spells it (gbOpen 9469f09, from OpenStreetMap): the name to match a map's provinces on"
+geoboundaries_id,geoBoundaries ID,,The province's shapeID in that release
+men,Men,persons,"Resident men, July 1984 census, summed over the 1984 units placed in the province"
+women,Women,persons,"Resident women, July 1984 census, summed the same way"
+total,Total,persons,"Resident population, July 1984 census, summed the same way. Forty years old: not today's population"
+from_1984,From the 1984 units,,"The 1984 cities and sub-regions summed, as printed; units.csv gives the basis for placing each"

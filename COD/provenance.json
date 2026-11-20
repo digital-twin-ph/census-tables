@@ -46,10 +46,39 @@
       "regions_sum_to_the_country": "30729443"
     }
   },
-  "units": "counts.csv: the country, 9 regions, and their 44 cities (villes) and sub-regions (sous-régions), as printed. A ville is a unit of the same level as a sous-région: a region's total is the sum of both. units.csv, the mapping to today's provinces, HDX P-codes and geoBoundaries IDs, is not written yet.",
+  "units": "counts.csv: the country, 9 regions, and their 44 cities (villes) and sub-regions (sous-régions), as printed. A ville is a unit of the same level as a sous-région: a region's total is the sum of both. units.csv places each of the 44 in one of today's 26 provinces; provinces-2015.csv sums the counts to them. Both are written by scripts/cod_provinces.py.",
   "reviewed": {
     "last": "2026-11-19",
     "next_due": "2027-05-19",
     "found": "First transcription. RGPH-2 in its preparatory phase, no enumeration date."
+  },
+  "provinces_2015": {
+    "what": "The 1984 counts summed to the 26 provinces of 2015, so they can be matched to a map of today's provinces. Derived, not printed: the counts are still those of July 1984.",
+    "sources": {
+      "law": {
+        "title": "Loi organique n° 15/006 du 25 mars 2015 portant fixation des limites des provinces et celles de la ville de Kinshasa",
+        "published": "Journal officiel de la République Démocratique du Congo, numéro spécial, 28 mars 2015",
+        "url": "https://www.leganet.cd/Legislation/JO/2015/Numeros/JOS.28.03.2015.pdf",
+        "bytes": 5540844,
+        "sha256": "c149d23da428232d9c56c4630b3cf42ead6167aeb50772f412380f1ed83a15f4",
+        "retrieved": "2026-11-20",
+        "used_for": "the 26 provinces' names (article 2) and each province's chef-lieu (articles 4 onwards)"
+      },
+      "boundaries": {
+        "what": "geoBoundaries gbOpen COD ADM1 and ADM2 at commit 9469f09, as held in digital-twin-ph/boundaries",
+        "used_for": "each province's spelling and ID, and the province each 1984 city lies in (the ADM2 unit's point inside an ADM1 polygon); each law chef-lieu was checked to lie in the province it heads"
+      }
+    },
+    "how": "A sub-region goes to the province of the same name (Haut-Shaba to Haut-Katanga, Shaba having been renamed Katanga in 1997; Kabinda to Lomami, whose chef-lieu it is; Lulua to Kasaï Central, around Kananga; Tshilenge to Kasaï Oriental, around Mbuji-Mayi). A city goes to the province it lies in. Kinshasa's four sub-regions and the whole of Bas-Zaïre go to Kinshasa and Kongo Central.",
+    "checks": {
+      "every_1984_unit_placed_once": "44 of 44",
+      "provinces": "26, each a geoBoundaries ADM1 unit",
+      "sums_to_the_country": "men 15093094, women 15636349, total 30729443"
+    },
+    "does_not_establish": [
+      "That each 1984 sub-region's limits are the 2015 province's. The law draws limits along rivers and lines, not by former units, and any territory moved between units since 1984 moves its people with it here only if the move followed unit lines.",
+      "Where the land of the Plateaux district (Bolobo, Kwamouth, Mushie, Yumbi: Mai-Ndombe province today) was counted in 1984. Bandundu region printed three sub-regions; if any of it was then in Kwilu, Kwilu here is too high and Mai-Ndombe too low by those people.",
+      "That the law and geoBoundaries agree beyond the chefs-lieux: geoBoundaries' lines are OpenStreetMap's, not the law's."
+    ]
   }
 }

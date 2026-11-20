@@ -1,0 +1,45 @@
+level,region,unit,province,geoboundaries_name,geoboundaries_id,basis
+sous-region,KINSHASA,LUKUNGA,Kinshasa,Kinshasa,28894549B68389240291046,"part of the ville de Kinshasa, unchanged"
+sous-region,KINSHASA,FUNA,Kinshasa,Kinshasa,28894549B68389240291046,"part of the ville de Kinshasa, unchanged"
+sous-region,KINSHASA,MONT-AMBA,Kinshasa,Kinshasa,28894549B68389240291046,"part of the ville de Kinshasa, unchanged"
+sous-region,KINSHASA,TSHANGU,Kinshasa,Kinshasa,28894549B68389240291046,"part of the ville de Kinshasa, unchanged"
+ville,BAS-ZAIRE,MATADI,Kongo Central,Kongo-Central,28894549B38138050967839,city; the province's chef-lieu in Loi organique 15/006
+ville,BAS-ZAIRE,BOMA,Kongo Central,Kongo-Central,28894549B38138050967839,city; its point lies in the province in geoBoundaries ADM1
+sous-region,BAS-ZAIRE,BAS-FLEUVE,Kongo Central,Kongo-Central,28894549B38138050967839,the whole Bas-Zaïre region became Kongo Central (Bas-Congo renamed)
+sous-region,BAS-ZAIRE,CATARACTES,Kongo Central,Kongo-Central,28894549B38138050967839,the whole Bas-Zaïre region became Kongo Central (Bas-Congo renamed)
+sous-region,BAS-ZAIRE,LUKAYA,Kongo Central,Kongo-Central,28894549B38138050967839,the whole Bas-Zaïre region became Kongo Central (Bas-Congo renamed)
+ville,BANDUNDU,BANDUNDU,Kwilu,Kwilu,28894549B48772399836497,city; the province's chef-lieu in Loi organique 15/006
+sous-region,BANDUNDU,MAI-NDOMBE,Mai-Ndombe,Mai-Ndombe,28894549B55201873792787,same name as the province
+sous-region,BANDUNDU,KWILU,Kwilu,Kwilu,28894549B48772399836497,same name as the province
+ville,BANDUNDU,KIKWIT,Kwilu,Kwilu,28894549B48772399836497,city; its point lies in the province in geoBoundaries ADM1
+sous-region,BANDUNDU,KWANGO,Kwango,Kwango,28894549B46890622863620,same name as the province
+ville,EQUATEUR,MBANDAKA,Equateur,Équateur,28894549B37294008176905,city; the province's chef-lieu in Loi organique 15/006
+sous-region,EQUATEUR,EQUATEUR,Equateur,Équateur,28894549B37294008176905,same name as the province
+sous-region,EQUATEUR,SUD-UBANGI,Sud-Ubangi,Sud-Ubangi,28894549B79448475719999,same name as the province
+ville,EQUATEUR,ZONGO,Sud-Ubangi,Sud-Ubangi,28894549B79448475719999,city; its point lies in the province in geoBoundaries ADM1
+sous-region,EQUATEUR,NORD-UBANGI,Nord-Ubangi,Nord-Ubangi,28894549B30663222433478,same name as the province
+sous-region,EQUATEUR,MONGALA,Mongala,Mongala,28894549B51646896581942,same name as the province
+sous-region,EQUATEUR,TSHUAPA,Tshuapa,Tshuapa,28894549B79800095019512,same name as the province
+ville,HAUT-ZAIRE,KISANGANI,Tshopo,Tshopo,28894549B99726016901645,city; the province's chef-lieu in Loi organique 15/006
+sous-region,HAUT-ZAIRE,TSHOPO,Tshopo,Tshopo,28894549B99726016901645,same name as the province
+sous-region,HAUT-ZAIRE,BAS-UELE,Bas-Uele,Lower Uele,28894549B47695765788779,same name as the province
+sous-region,HAUT-ZAIRE,HAUT-UELE,Haut-Uele,Upper Uele,28894549B55881681467015,same name as the province
+sous-region,HAUT-ZAIRE,ITURI,Ituri,Ituri,28894549B71118016098951,same name as the province
+ville,KIVU,BUKAVU,Sud-Kivu,South Kivu,28894549B54646848790483,city; the province's chef-lieu in Loi organique 15/006
+sous-region,KIVU,MANIEMA,Maniema,Maniema,28894549B38684068732321,same name as the province
+sous-region,KIVU,NORD-KIVU,Nord-Kivu,North Kivu,28894549B19306184040235,same name as the province
+sous-region,KIVU,SUD-KIVU,Sud-Kivu,South Kivu,28894549B54646848790483,same name as the province
+ville,SHABA,LUBUMBASHI,Haut-Katanga,Haut-Katanga,28894549B50925261891635,city; its point lies in the province in geoBoundaries ADM1; the chef-lieu is not named in the text read
+ville,SHABA,LIKASI,Haut-Katanga,Haut-Katanga,28894549B50925261891635,city; its point lies in the province in geoBoundaries ADM1
+ville,SHABA,KOLWEZI,Lualaba,Lualaba,28894549B83017556697567,city; the province's chef-lieu in Loi organique 15/006
+sous-region,SHABA,LUALABA,Lualaba,Lualaba,28894549B83017556697567,same name as the province
+sous-region,SHABA,HAUT-LOMAMI,Haut-Lomami,Haut-Lomami,28894549B30623489313038,same name as the province
+sous-region,SHABA,TANGANIKA,Tanganyika,Tanganyika,28894549B79924508589254,"same name as the province, spelled Tanganika in 1984"
+sous-region,SHABA,HAUT-SHABA,Haut-Katanga,Haut-Katanga,28894549B50925261891635,Shaba was renamed Katanga in 1997: Haut-Shaba is the district of Haut-Katanga
+ville,KASAI-ORIENTAL,MBUJI-MAYI,Kasaï Oriental,Kasai-Oriental,28894549B87743923989415,city; the province's chef-lieu in Loi organique 15/006
+sous-region,KASAI-ORIENTAL,TSHILENGE,Kasaï Oriental,Kasai-Oriental,28894549B87743923989415,"its territory of Tshilenge lies in the province in geoBoundaries ADM1, whose chef-lieu Mbuji-Mayi it surrounds"
+sous-region,KASAI-ORIENTAL,SANKURU,Sankuru,Sankuru,28894549B87845660721216,same name as the province
+sous-region,KASAI-ORIENTAL,KABINDA,Lomami,Lomami,28894549B21546057795066,"Kabinda is Lomami's chef-lieu in Loi organique 15/006, and Kabinda and Mwene-Ditu lie in Lomami in geoBoundaries ADM1"
+ville,KASAI-OCCIDENTAL,KANANGA,Kasaï Central,Central Kasai,28894549B61915221715888,city; the province's chef-lieu in Loi organique 15/006
+sous-region,KASAI-OCCIDENTAL,LULUA,Kasaï Central,Central Kasai,28894549B61915221715888,"the sub-region around Kananga, Kasaï Central's chef-lieu"
+sous-region,KASAI-OCCIDENTAL,KASAI,Kasaï,Kasai,28894549B67590087528803,same name as the province
