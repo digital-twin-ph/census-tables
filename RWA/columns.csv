@@ -1,0 +1,9 @@
+variable,label,unit,description
+level,Level,,"country, province (including the City of Kigali) or district"
+province,Province,,The province a district lies in; empty for the country and the provinces
+unit,Unit,,The unit's name as the NISR workbook writes it
+men,Men,persons,"Resident male population, August 2022 census"
+women,Women,persons,"Resident female population, August 2022 census"
+total,Total,persons,"Resident population, both sexes, August 2022 census"
+table,Table,,The workbook sheet the row was read from
+cells,Cells,,The workbook cells the row was read from

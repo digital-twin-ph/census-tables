@@ -15,6 +15,7 @@ match today's boundaries. This repository keeps them so they can be checked.
   counts.csv        the counts as published: one row per unit, the office's own names and codes
   units.csv         each unit mapped to an HDX P-code and a geoBoundaries ID, where one exists
   provenance.json   the office, the report, the table and page, the census year, the licence, the total checked
+  columns.csv       the data dictionary: each column of counts.csv, its label, unit and what it holds
 ```
 
 ## The rules

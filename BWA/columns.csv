@@ -1,0 +1,5 @@
+variable,label,unit,description
+level,Level,,country or census district
+unit,Unit,,The census district as Statistics Botswana names it
+total,Total,persons,"Population, 2022 Population and Housing Census"
+table,Table,,"Where the row was read: Table 1 of the dissemination paper, or the office's census page for the national total"

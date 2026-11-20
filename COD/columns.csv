@@ -1,0 +1,10 @@
+variable,label,unit,description
+level,Level,,"The unit's level as the 1984 volume prints it: pays (the country), region, ville (city) or sous-region (sub-region). A ville and a sous-region are of the same level; a region is the sum of both"
+region,Region,,The 1984 region a unit lies in; empty for the country and the regions themselves
+unit,Unit,,The unit's name as printed in the 1984 volume
+men,Men,persons,"Resident men, July 1984 census"
+women,Women,persons,"Resident women, July 1984 census"
+total,Total,persons,"Resident population, July 1984 census; men plus women"
+table,Table,,The table of the Totaux definitifs the row was read from: T-01 or T-02
+printed_page,Printed page,,The page number printed in the volume
+read_from,Read from,,"How the row was read: the scan's text layer or its page image, and any correction made"
