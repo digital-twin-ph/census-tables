@@ -53,6 +53,7 @@
     "found": "First transcription. RGPH-2 in its preparatory phase, no enumeration date."
   },
   "provinces_2015": {
+    "label": "Summed to today's 26 provinces (2015)",
     "what": "The 1984 counts summed to the 26 provinces of 2015, so they can be matched to a map of today's provinces. Derived, not printed: the counts are still those of July 1984.",
     "sources": {
       "law": {
