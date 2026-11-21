@@ -60,6 +60,8 @@
     "what": "The 14 districts of 2015 with geoBoundaries' name and ID for each, written by scripts/levels_today.py. Counts as printed.",
     "how": "Each district's name in Table 2 is geoBoundaries' SLE ADM2 name, all 14.",
     "boundaries": {
+      "level": "ADM2",
+      "boundary": "SLE-ADM2",
       "what": "geoBoundaries gbOpen SLE ADM2 (Government of Sierra Leone, OCHA ROWCA, 2017, CC BY 3.0 IGO) and ADM3 (openAfrica, 2016, CC BY 4.0) at commit 9469f09, the simplified files, read and not kept here",
       "files": [
         {
@@ -89,6 +91,8 @@
     "what": "The 164 units in Table 3's chiefdom position with geoBoundaries' name and ID for each, written by scripts/levels_today.py. Counts as printed.",
     "how": "Each geoBoundaries ADM3 unit is placed in the ADM2 district its polygon lies in, and each printed unit matched by name within its district, ignoring case, spaces and punctuation. 41 are spelled differently (geoBoundaries cuts names at 15 characters; Bo City is Bo Town, Central 1 is Central I) and are paired by a list in the script.",
     "boundaries": {
+      "level": "ADM3",
+      "boundary": "SLE-ADM3",
       "what": "geoBoundaries gbOpen SLE ADM2 (Government of Sierra Leone, OCHA ROWCA, 2017, CC BY 3.0 IGO) and ADM3 (openAfrica, 2016, CC BY 4.0) at commit 9469f09, the simplified files, read and not kept here",
       "files": [
         {

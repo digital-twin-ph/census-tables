@@ -61,6 +61,8 @@
     "what": "The 47 counties, each the sum of its printed sub-counties, with geoBoundaries' name and ID, written by scripts/levels_today.py. Derived: the workbook prints no county totals but Tharaka Nithi's.",
     "how": "The sub-counties are summed by the county the workbook names beside them; four printed \"-\" add nothing. Each county is geoBoundaries' KEN ADM1 name, ignoring case, spaces and hyphens; Tharaka Nithi is geoBoundaries' \"Tharaka\".",
     "boundaries": {
+      "level": "ADM1",
+      "boundary": "KEN-ADM1",
       "what": "geoBoundaries gbOpen KEN ADM1 (RCMRD GeoPortal, 2020, Public Domain) at commit 9469f09, the simplified files, read and not kept here",
       "files": [
         {

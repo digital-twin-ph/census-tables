@@ -71,6 +71,8 @@
     "what": "The 36 states and the FCT with the name geoBoundaries gives each, written by scripts/nigeria_today.py. Counts as printed.",
     "how": "The volume prints \"JIGAWA STATE\"; geoBoundaries writes \"Jigawa\". Each printed name, without \" STATE\" and in title case, is geoBoundaries' NGA ADM1 name; ABUJA FCT is \"Abuja Federal Capital Territory\".",
     "boundaries": {
+      "level": "ADM1",
+      "boundary": "NGA-ADM1",
       "what": "geoBoundaries gbOpen NGA ADM1 and ADM2 at commit 9469f09 (GRID3, 2022, CC BY 4.0), the simplified files, read and not kept here",
       "files": [
         {
@@ -100,6 +102,8 @@
     "what": "The 774 Local Government Areas with the name geoBoundaries gives each, and their state, written by scripts/nigeria_today.py. Counts as printed. Taraba's disputed-areas row (19,964 persons) is not an LGA and is left out; it stays in counts.csv.",
     "how": "geoBoundaries' ADM2 file does not say which state an LGA lies in, and some LGA names occur in two states. Each ADM2 unit is placed in the ADM1 state its polygon lies in, and each printed LGA matched by name within its state, ignoring case, spaces and punctuation. 31 are spelled differently in the two sources and are paired by a list in the script (Egbado North and South are geoBoundaries' Yewa North and South). Two, Tsafe (Zamfara) and Akoko South East (Ondo), have polygons that fall over a state line in the simplified files and are matched by their unique name.",
     "boundaries": {
+      "level": "ADM2",
+      "boundary": "NGA-ADM2",
       "what": "geoBoundaries gbOpen NGA ADM1 and ADM2 at commit 9469f09 (GRID3, 2022, CC BY 4.0), the simplified files, read and not kept here",
       "files": [
         {

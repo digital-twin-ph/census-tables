@@ -50,6 +50,8 @@
     "what": "The 28 districts, each with the city geoBoundaries draws inside it added, and geoBoundaries' name and ID, written by scripts/levels_today.py. Derived: a district with a city is the sum of two printed rows.",
     "how": "Table A1 counts Mzuzu, Lilongwe, Zomba and Blantyre cities apart from the districts. geoBoundaries' MWI ADM2 has 28 units, the districts, by the same names, with no city of its own, so each city's count is added to the district it lies in: Mzuzu City in Mzimba, the other three in the district of the same name. Each was checked by an approximate city-centre point lying in that district's polygon.",
     "boundaries": {
+      "level": "ADM2",
+      "boundary": "MWI-ADM2",
       "what": "geoBoundaries gbOpen MWI ADM2 (National Statistics Office of Malawi, OCHA ROSEA, 2020, CC BY 3.0 IGO) at commit 9469f09, the simplified files, read and not kept here",
       "files": [
         {
