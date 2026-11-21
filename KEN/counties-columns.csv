@@ -1,0 +1,8 @@
+variable,label,unit,description
+unit,County,,The county as the workbook names it beside its sub-counties
+sub_counties,Sub-counties summed,,"How many printed sub-county rows were added to make the county; four, printed ""-"" (Lake Baringo, two Mau Forest rows, Tinderet Forest), add nothing"
+geoboundaries_name,County (geoBoundaries),,"The county as geoBoundaries' KEN ADM1 spells it (gbOpen 9469f09): the census's name for 46; Tharaka Nithi is ""Tharaka"""
+geoboundaries_id,geoBoundaries ID,,The county's shapeID in that release
+men,Men,persons,"Male population, 2019 census, the sum of the county's sub-counties"
+women,Women,persons,"Female population, 2019 census, likewise"
+total,Total,persons,"Population, 2019 census, likewise; it includes intersex persons, so it can exceed men plus women"

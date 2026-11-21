@@ -48,5 +48,36 @@
     "last": "2026-11-20",
     "next_due": "2027-05-20",
     "found": "First transcription, from an archived HDX copy uploaded by an account named for KNBS."
+  },
+  "offered": {
+    "tables": [
+      "counties",
+      "counts"
+    ],
+    "why": "Fieldwork offers each level as its own table, with geoBoundaries' name for each unit, so the census relates to a map without anyone retyping a name. The printed counts (counts.csv) stay here as the source, and every check runs on them. geoBoundaries' KEN ADM2 holds the 290 constituencies, not the census's sub-counties, so the sub-counties are offered as printed, with names as KNBS spells them."
+  },
+  "counties": {
+    "label": "Its 47 counties, summed, with geoBoundaries' names",
+    "what": "The 47 counties, each the sum of its printed sub-counties, with geoBoundaries' name and ID, written by scripts/levels_today.py. Derived: the workbook prints no county totals but Tharaka Nithi's.",
+    "how": "The sub-counties are summed by the county the workbook names beside them; four printed \"-\" add nothing. Each county is geoBoundaries' KEN ADM1 name, ignoring case, spaces and hyphens; Tharaka Nithi is geoBoundaries' \"Tharaka\".",
+    "boundaries": {
+      "what": "geoBoundaries gbOpen KEN ADM1 (RCMRD GeoPortal, 2020, Public Domain) at commit 9469f09, the simplified files, read and not kept here",
+      "files": [
+        {
+          "name": "geoBoundaries-KEN-ADM1_simplified.geojson",
+          "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/KEN/ADM1/geoBoundaries-KEN-ADM1_simplified.geojson",
+          "bytes": 861584,
+          "retrieved": "2026-11-21"
+        }
+      ]
+    },
+    "checks": {
+      "every_county_paired_once": "yes",
+      "sums_to_the_country": "yes, 47,564,296, KNBS's national figure",
+      "tharaka_nithi_as_printed": "yes"
+    },
+    "does_not_establish": [
+      "That a county total is KNBS's: KNBS's own county table was not read; these are sums of its sub-county rows."
+    ]
   }
 }

@@ -1,0 +1,8 @@
+variable,label,unit,description
+province,Province,,"The province the district lies in, as Table 2 prints it"
+unit,District,,The district as Table 2 prints it
+geoboundaries_name,District (geoBoundaries),,The district as geoBoundaries' SLE ADM2 spells it (gbOpen 9469f09): the same as the census's for all 14
+geoboundaries_id,geoBoundaries ID,,The district's shapeID in that release
+men,Men,persons,"Male population, 2015 census (December 2015)"
+women,Women,persons,"Female population, 2015 census"
+total,Total,persons,"Population, both sexes, 2015 census"

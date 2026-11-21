@@ -37,5 +37,35 @@
     "last": "2026-11-20",
     "next_due": "2027-05-20",
     "found": "First transcription, from HDX's copy (uploaded by Health Cluster). The 2018 PHC is the latest census."
+  },
+  "offered": {
+    "tables": [
+      "districts",
+      "counts"
+    ],
+    "why": "Fieldwork offers each level as its own table, with geoBoundaries' name for each unit, so the census relates to a map without anyone retyping a name. The printed counts (counts.csv) stay here as the source, and every check runs on them. The districts table adds each city to the district geoBoundaries draws it in; the counts as printed keep the four cities as units of their own."
+  },
+  "districts": {
+    "label": "Its 28 districts with their cities, with geoBoundaries' names",
+    "what": "The 28 districts, each with the city geoBoundaries draws inside it added, and geoBoundaries' name and ID, written by scripts/levels_today.py. Derived: a district with a city is the sum of two printed rows.",
+    "how": "Table A1 counts Mzuzu, Lilongwe, Zomba and Blantyre cities apart from the districts. geoBoundaries' MWI ADM2 has 28 units, the districts, by the same names, with no city of its own, so each city's count is added to the district it lies in: Mzuzu City in Mzimba, the other three in the district of the same name. Each was checked by an approximate city-centre point lying in that district's polygon.",
+    "boundaries": {
+      "what": "geoBoundaries gbOpen MWI ADM2 (National Statistics Office of Malawi, OCHA ROSEA, 2020, CC BY 3.0 IGO) at commit 9469f09, the simplified files, read and not kept here",
+      "files": [
+        {
+          "name": "geoBoundaries-MWI-ADM2_simplified.geojson",
+          "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/MWI/ADM2/geoBoundaries-MWI-ADM2_simplified.geojson",
+          "bytes": 808529,
+          "retrieved": "2026-11-21"
+        }
+      ]
+    },
+    "checks": {
+      "every_district_paired_once": "yes",
+      "sums_to_the_country": "yes, with the cities"
+    },
+    "does_not_establish": [
+      "That a city's boundary lies wholly inside one district: only its centre was placed."
+    ]
   }
 }

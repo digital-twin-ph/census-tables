@@ -1,0 +1,9 @@
+variable,label,unit,description
+province,Province,,"The province, as Table 3 prints it"
+district,District,,"The district the unit lies in, as Table 3 prints it"
+unit,Chiefdom,,"The unit in Table 3's chiefdom position as printed: a chiefdom, a city, or an area of the Western Area"
+geoboundaries_name,Chiefdom (geoBoundaries),,"The unit as geoBoundaries' SLE ADM3 spells it (gbOpen 9469f09), names cut at 15 characters: the name to match a map of the chiefdoms on. 41 are spelled differently; empty for Kenema's Koya, which has no unit of its own there"
+geoboundaries_id,geoBoundaries ID,,The unit's shapeID in that release
+men,Men,persons,"Male population, 2015 census (December 2015)"
+women,Women,persons,"Female population, 2015 census"
+total,Total,persons,"Population, both sexes, 2015 census"

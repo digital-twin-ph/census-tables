@@ -1,0 +1,9 @@
+variable,label,unit,description
+region,Region,,"The region the district lies in, as Table A1 prints it"
+unit,District,,The district as Table A1 prints it
+with_city,City added,,"The city counted apart in Table A1 whose count is added here, because geoBoundaries draws it inside this district: Mzuzu City in Mzimba, and Lilongwe, Zomba and Blantyre cities in their districts. Empty for the other 24"
+geoboundaries_name,District (geoBoundaries),,The district as geoBoundaries' MWI ADM2 spells it (gbOpen 9469f09): the same as the census's for all 28
+geoboundaries_id,geoBoundaries ID,,The district's shapeID in that release
+men,Men,persons,"Male population, 2018 census, with the city added where with_city names one"
+women,Women,persons,"Female population, 2018 census, likewise"
+total,Total,persons,"Population, both sexes, 2018 census, likewise"

@@ -12,6 +12,10 @@ The copy read is not from KNBS's own site. It is a workbook on HDX, uploaded by 
   and no other county rows, so none is written here: the sub-counties sum to 47,564,296, KNBS's national figure, as a
   check. It holds no household or intersex counts, despite its title.
 - `columns.csv`: what each column holds.
+- `counties.csv`: the 47 counties, each the sum of its sub-counties, with geoBoundaries' name and ID (Tharaka Nithi is
+  geoBoundaries' "Tharaka"). Derived, written by `scripts/levels_today.py` from geoBoundaries gbOpen KEN ADM1 (9469f09);
+  `counties-columns.csv`, its dictionary. geoBoundaries' ADM2 holds the 290 constituencies, not the 349 sub-counties,
+  so the sub-counties have no geoBoundaries names here.
 - `provenance.json`: the workbook, its digest, the licence (HDX's label, Public Domain / CC0, set by the uploading
   account; KNBS's site says "All Rights Reserved" and gives no terms), every correction, and the checks:
   - men plus women equals the total on 45 of 346 rows. On the other 301 the total is larger, by 1 to 62
