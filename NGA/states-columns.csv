@@ -1,0 +1,7 @@
+variable,label,unit,description
+unit,State,,"The state as Priority Table Volume III prints it, e.g. JIGAWA STATE, ABUJA FCT"
+geoboundaries_name,State (geoBoundaries),,The state as geoBoundaries' NGA ADM1 spells it (gbOpen 9469f09): the name to match a map of the states on
+geoboundaries_id,geoBoundaries ID,,The state's shapeID in that release
+men,Men,persons,"Male population, 2006 census (March 21-27, 2006)"
+women,Women,persons,"Female population, 2006 census"
+total,Total,persons,"Population, both sexes, 2006 census; men plus women"

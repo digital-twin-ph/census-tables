@@ -1,0 +1,10 @@
+variable,label,unit,description
+state,State,,"The state the LGA lies in, as the volume prints it"
+state_geoboundaries,State (geoBoundaries),,That state as geoBoundaries' NGA ADM1 spells it
+senatorial_district,Senatorial district,,"The letter (A, B or C) the table prints"
+unit,LGA,,The Local Government Area as printed; the FCT's six are its Area Councils
+geoboundaries_name,LGA (geoBoundaries),,The LGA as geoBoundaries' NGA ADM2 spells it (gbOpen 9469f09): the name to match a map of the LGAs on. 31 are spelled differently from the volume
+geoboundaries_id,geoBoundaries ID,,The LGA's shapeID in that release
+men,Men,persons,"Male population, 2006 census (March 21-27, 2006)"
+women,Women,persons,"Female population, 2006 census"
+total,Total,persons,"Population, both sexes, 2006 census; men plus women"

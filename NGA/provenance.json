@@ -58,5 +58,72 @@
     "last": "2026-11-20",
     "next_due": "2027-05-20",
     "found": "First transcription. The 2006 census is the latest."
+  },
+  "offered": {
+    "tables": [
+      "states",
+      "lgas"
+    ],
+    "why": "Fieldwork offers each level as its own table, with geoBoundaries' name for each unit, so the census relates to a map of the states or of the LGAs without anyone retyping a name. The printed counts (counts.csv) stay here as the source, and every check runs on them."
+  },
+  "states": {
+    "label": "Its 37 states, with geoBoundaries' names",
+    "what": "The 36 states and the FCT with the name geoBoundaries gives each, written by scripts/nigeria_today.py. Counts as printed.",
+    "how": "The volume prints \"JIGAWA STATE\"; geoBoundaries writes \"Jigawa\". Each printed name, without \" STATE\" and in title case, is geoBoundaries' NGA ADM1 name; ABUJA FCT is \"Abuja Federal Capital Territory\".",
+    "boundaries": {
+      "what": "geoBoundaries gbOpen NGA ADM1 and ADM2 at commit 9469f09 (GRID3, 2022, CC BY 4.0), the simplified files, read and not kept here",
+      "files": [
+        {
+          "name": "geoBoundaries-NGA-ADM1_simplified.geojson",
+          "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NGA/ADM1/geoBoundaries-NGA-ADM1_simplified.geojson",
+          "bytes": 827817,
+          "retrieved": "2026-11-21"
+        },
+        {
+          "name": "geoBoundaries-NGA-ADM2_simplified.geojson",
+          "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NGA/ADM2/geoBoundaries-NGA-ADM2_simplified.geojson",
+          "bytes": 3717494,
+          "retrieved": "2026-11-21"
+        }
+      ]
+    },
+    "checks": {
+      "every_state_paired_once": "yes",
+      "sums_to_the_country": "yes"
+    },
+    "does_not_establish": [
+      "That geoBoundaries' state lines are the census's: they are GRID3's, 2022."
+    ]
+  },
+  "lgas": {
+    "label": "Its 774 LGAs, with geoBoundaries' names",
+    "what": "The 774 Local Government Areas with the name geoBoundaries gives each, and their state, written by scripts/nigeria_today.py. Counts as printed. Taraba's disputed-areas row (19,964 persons) is not an LGA and is left out; it stays in counts.csv.",
+    "how": "geoBoundaries' ADM2 file does not say which state an LGA lies in, and some LGA names occur in two states. Each ADM2 unit is placed in the ADM1 state its polygon lies in, and each printed LGA matched by name within its state, ignoring case, spaces and punctuation. 31 are spelled differently in the two sources and are paired by a list in the script (Egbado North and South are geoBoundaries' Yewa North and South). Two, Tsafe (Zamfara) and Akoko South East (Ondo), have polygons that fall over a state line in the simplified files and are matched by their unique name.",
+    "boundaries": {
+      "what": "geoBoundaries gbOpen NGA ADM1 and ADM2 at commit 9469f09 (GRID3, 2022, CC BY 4.0), the simplified files, read and not kept here",
+      "files": [
+        {
+          "name": "geoBoundaries-NGA-ADM1_simplified.geojson",
+          "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NGA/ADM1/geoBoundaries-NGA-ADM1_simplified.geojson",
+          "bytes": 827817,
+          "retrieved": "2026-11-21"
+        },
+        {
+          "name": "geoBoundaries-NGA-ADM2_simplified.geojson",
+          "url": "https://github.com/wmgeolab/geoBoundaries/raw/9469f09/releaseData/gbOpen/NGA/ADM2/geoBoundaries-NGA-ADM2_simplified.geojson",
+          "bytes": 3717494,
+          "retrieved": "2026-11-21"
+        }
+      ]
+    },
+    "checks": {
+      "every_lga_paired_once": "yes",
+      "every_unit_paired_once": "yes",
+      "each_state_sums_with_its_lgas": "yes, Taraba with its disputed areas"
+    },
+    "does_not_establish": [
+      "That geoBoundaries' LGA lines are the 2006 census's: they are GRID3's, 2022.",
+      "That a pairing by spelling is the same place in every case: the 31 were read from the two lists, state by state."
+    ]
   }
 }

@@ -8,6 +8,13 @@ Nigeria's latest census. **These counts are twenty years old.** A rate built on 
   2010). Each LGA carries its state and its senatorial district: the letter the table prints (A, B, C) and the name its
   legend gives. One more row, Taraba's "* DISPUTED AREAS", is kept as printed. Read from the PDF's text layer, not typed.
 - `columns.csv`: the data dictionary.
+- `states.csv`: the 37 states with geoBoundaries' name and ID for each, to relate to a map of the states
+  (geoBoundaries writes "Jigawa" where the volume prints "JIGAWA STATE"); `states-columns.csv`, its dictionary.
+- `lgas.csv`: the 774 LGAs with their state and geoBoundaries' name and ID for each, to relate to a map of the LGAs;
+  31 are spelled differently in the two (Egbado North is geoBoundaries' Yewa North); `lgas-columns.csv`, its
+  dictionary. Taraba's disputed-areas row is not an LGA and is not in it. Both are written by
+  `scripts/nigeria_today.py` from geoBoundaries gbOpen NGA ADM1 and ADM2 (9469f09, GRID3, CC BY 4.0). The counts as
+  printed.
 - `provenance.json`: the volume, where it was read, its digest, the licence (none stated), what was kept as printed,
   and the checks.
 
@@ -18,6 +25,8 @@ Nigeria's latest census. **These counts are twenty years old.** A rate built on 
   volume's list gives (774 in all).
 - Each state total equals the state's row in the volume's table by states (printed page 9), and the states sum to that
   table's NIGERIA row: 71,345,488 men, 69,086,302 women, 140,431,790 in all.
+- In `states.csv` and `lgas.csv`, every printed unit is paired with one geoBoundaries unit and every unit with one
+  printed unit, and the counts are the printed ones: the states sum to the country, and each state's LGAs to the state.
 - No senatorial-district totals are printed, so the LGAs cannot be checked against them.
 
 No number needed correcting. Kept as printed: misnumbered serials in Taraba, Benue and Akwa Ibom, and three legends
