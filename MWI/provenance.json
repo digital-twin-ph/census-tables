@@ -1,0 +1,41 @@
+{
+  "country": "Malawi",
+  "iso3": "MWI",
+  "census": "2018 Malawi Population and Housing Census (2018 PHC)",
+  "reference_date": "2018-09",
+  "source": {
+    "title": "2018 Malawi Population and Housing Census, Series A. Population Tables, Table A1: Population of Malawi by Sex at National, Regional and District Levels, 2008 and 2018",
+    "publisher": "National Statistical Office (NSO), Malawi",
+    "page": "https://www.nsomalawi.mw/census/2018",
+    "copy_read": {
+      "url": "https://data.humdata.org/dataset/142fecf6-cfc3-4a32-8277-3a601a46337d/resource/964bae74-a069-4fe5-aad7-4b0931582bbd/download/series-a.-population-tables.xlsx",
+      "held_by": "HDX (Humanitarian Data Exchange), dataset 'Malawi - Population and Housing Census 2018' (https://data.humdata.org/dataset/malawi-population-and-housing-census-2018), uploaded by Health Cluster, not by the NSO: HDX lists Health Cluster as both contributor and source, added 09 February 2023",
+      "bytes": 563872,
+      "sha256": "bec11f083d966b40f6f1b5eab4618085639a77457cdfd82238b8c5d7b2d2c751",
+      "retrieved": "2026-11-20",
+      "form": "Excel workbook; sheet 'A1', values (no formulas)"
+    },
+    "note": "Not compared with a copy from the NSO's own site: the NSO census page renders its content by script and its publication list could not be read as HTML. The reference date is the enumeration period, 3 to 23 September 2018, as HDX's dataset description gives it."
+  },
+  "licence": {
+    "stated": "none stated by the NSO; HDX labels the dataset 'Creative Commons Attribution International (CC BY)'",
+    "where": "HDX dataset page (https://data.humdata.org/dataset/142fecf6-cfc3-4a32-8277-3a601a46337d), read 2026-11-20: the label is HDX's, set by the uploader (Health Cluster), not the NSO's. NSO site (www.nsomalawi.mw: home, /census/2018, /about, /faq), read 2026-11-20: the pages render their content by script, and the HTML holds only menus and the footer 'Copyright © 2026 National Statistical Office of Malawi. All Rights Reserved'; no terms-of-use page found (/terms-of-use and /terms return 404). The workbook carries no notice.",
+    "redistributed": "the 2018 counts of Table A1, transcribed and cited, with attribution to the National Statistical Office of Malawi; the workbook is not redistributed"
+  },
+  "transcription": {
+    "by": "read from the workbook's cells (B5:D43) with Fieldwork's xlsx reader, not typed; each value checked against the sheet's XML",
+    "as_published": "names as the workbook writes them, with a leading space removed from Neno. The 2008 columns (E:G) are left out: this repository holds the latest census.",
+    "corrections": "none",
+    "checks": {
+      "men_plus_women_equals_total": "36 of 36 rows",
+      "districts_and_cities_sum_to_their_region": "3 of 3 regions, men, women and total",
+      "regions_sum_to_the_country": "17563749 (men 8521460, women 9042289), as printed"
+    }
+  },
+  "units": "counts.csv: the country, its 3 regions (Northern, Central, Southern), 28 districts and 4 cities (Mzuzu City, Lilongwe City, Zomba City, Blantyre City), as printed. A city is counted apart from the district of the same name (Lilongwe City apart from Lilongwe): a region's total is the sum of its districts and cities.",
+  "reviewed": {
+    "last": "2026-11-20",
+    "next_due": "2027-05-20",
+    "found": "First transcription, from HDX's copy (uploaded by Health Cluster). The 2018 PHC is the latest census."
+  }
+}

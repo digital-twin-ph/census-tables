@@ -1,0 +1,10 @@
+variable,label,unit,description
+level,Level,,"country, province, district or chiefdom. Table 2 heads its four regions ""Province""; Table 3 lists units under each district in the place its title calls ""chiefdom"", including four cities (Kenema City, Koidu/New, Makeni City, Bo City) and the areas of the Western Area (Koya, Mountain, Waterloo, York Rural; Central 1 to West 3)"
+province,Province,,"The province a district or chiefdom lies in, as Table 2 writes it (Eastern, Northern, Southern, Western); empty for the country and the provinces"
+district,District,,"The 2015 district a chiefdom lies in, as Table 2 writes it (Table 3 writes the districts in capitals, and Bo as BO-SOUTH); empty above the chiefdoms"
+unit,Unit,,The unit's name as printed
+men,Men,persons,"Male population (total population: household and institutional), census reference night of 4 to 5 December 2015"
+women,Women,persons,"Female population (total population: household and institutional), census reference night of 4 to 5 December 2015"
+total,Total,persons,"Total population, both sexes, census reference night of 4 to 5 December 2015"
+table,Table,,"The table of the Summary of Final Results the row was read from: Table 2 (country, provinces, districts) or Table 3 (chiefdoms)"
+printed_page,Printed page,,"The page number printed in the volume. Each table runs across a two-page spread; the page given is the left-hand one, which holds the columns read (total, male, female)"

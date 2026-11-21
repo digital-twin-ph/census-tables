@@ -1,0 +1,184 @@
+level,province,district,unit,men,women,total,table,printed_page
+country,,,Total country,3490978,3601135,7092113,Table 2,30
+province,,,Eastern,814441,827929,1642370,Table 2,30
+province,,,Northern,1224828,1283373,2508201,Table 2,30
+province,,,Southern,702151,739157,1441308,Table 2,30
+province,,,Western,749558,750676,1500234,Table 2,30
+district,Eastern,,Kailahun,260586,265793,526379,Table 2,30
+district,Eastern,,Kenema,301104,308787,609891,Table 2,30
+district,Eastern,,Kono,252751,253349,506100,Table 2,30
+district,Northern,,Bombali,296683,309861,606544,Table 2,30
+district,Northern,,Kambia,165541,179933,345474,Table 2,30
+district,Northern,,Koinadugu,204498,204874,409372,Table 2,30
+district,Northern,,Port Loko,294954,320422,615376,Table 2,30
+district,Northern,,Tonkolili,263152,268283,531435,Table 2,30
+district,Southern,,Bo,280569,294909,575478,Table 2,30
+district,Southern,,Bonthe,99014,101767,200781,Table 2,30
+district,Southern,,Moyamba,153699,164889,318588,Table 2,30
+district,Southern,,Pujehun,168869,177592,346461,Table 2,30
+district,Western,,Western Area Rural,221351,222919,444270,Table 2,30
+district,Western,,Western Area Urban,528207,527757,1055964,Table 2,30
+chiefdom,Eastern,Kailahun,Dea,6715,6699,13414,Table 3,32
+chiefdom,Eastern,Kailahun,Jawie,24938,26013,50951,Table 3,32
+chiefdom,Eastern,Kailahun,Kissi Kama,10201,10220,20421,Table 3,32
+chiefdom,Eastern,Kailahun,Kissi Teng,22965,22184,45149,Table 3,32
+chiefdom,Eastern,Kailahun,Kissi Tongi,25820,25130,50950,Table 3,32
+chiefdom,Eastern,Kailahun,Kpeje Bongre,12026,13143,25169,Table 3,32
+chiefdom,Eastern,Kailahun,Kpeje West,14135,13409,27544,Table 3,32
+chiefdom,Eastern,Kailahun,Luawa,38665,42379,81044,Table 3,32
+chiefdom,Eastern,Kailahun,Malema,18980,18115,37095,Table 3,32
+chiefdom,Eastern,Kailahun,Mandu,14791,16193,30984,Table 3,32
+chiefdom,Eastern,Kailahun,Njaluahun,30951,30265,61216,Table 3,32
+chiefdom,Eastern,Kailahun,Penguia,13193,13079,26272,Table 3,32
+chiefdom,Eastern,Kailahun,Upper Bambara,12793,14055,26848,Table 3,32
+chiefdom,Eastern,Kailahun,Yawei,14413,14909,29322,Table 3,32
+chiefdom,Eastern,Kenema,Dama,14721,16030,30751,Table 3,32
+chiefdom,Eastern,Kenema,Dodo,11738,11120,22858,Table 3,32
+chiefdom,Eastern,Kenema,Gaura,8723,9494,18217,Table 3,32
+chiefdom,Eastern,Kenema,Gorama Mende,21609,21750,43359,Table 3,32
+chiefdom,Eastern,Kenema,Kandu Lekpeama,9274,8955,18229,Table 3,32
+chiefdom,Eastern,Kenema,Koya,6732,6750,13482,Table 3,32
+chiefdom,Eastern,Kenema,Langrama,1673,1911,3584,Table 3,32
+chiefdom,Eastern,Kenema,Lower Bambara,39206,37075,76281,Table 3,32
+chiefdom,Eastern,Kenema,Malegohun,10195,10349,20544,Table 3,34
+chiefdom,Eastern,Kenema,Niawa,3661,4154,7815,Table 3,34
+chiefdom,Eastern,Kenema,Nomo,2838,2653,5491,Table 3,34
+chiefdom,Eastern,Kenema,Nongowa,22018,23544,45562,Table 3,34
+chiefdom,Eastern,Kenema,Simbaru,8642,8755,17397,Table 3,34
+chiefdom,Eastern,Kenema,Small Bo,14133,15365,29498,Table 3,34
+chiefdom,Eastern,Kenema,Tunkia,17848,18206,36054,Table 3,34
+chiefdom,Eastern,Kenema,Wandor,10275,10051,20326,Table 3,34
+chiefdom,Eastern,Kenema,Kenema City,97818,102625,200443,Table 3,34
+chiefdom,Eastern,Kono,Fiama,7563,7892,15455,Table 3,34
+chiefdom,Eastern,Kono,Gbane,12155,12249,24404,Table 3,34
+chiefdom,Eastern,Kono,Gbane Kandor,5662,6241,11903,Table 3,34
+chiefdom,Eastern,Kono,Gbense,7854,8010,15864,Table 3,34
+chiefdom,Eastern,Kono,Gorama Kono,9240,9054,18294,Table 3,34
+chiefdom,Eastern,Kono,Kamara,10218,9194,19412,Table 3,34
+chiefdom,Eastern,Kono,Lei,13012,13954,26966,Table 3,34
+chiefdom,Eastern,Kono,Mafindor,6687,7016,13703,Table 3,34
+chiefdom,Eastern,Kono,Nimikoro,31918,29307,61225,Table 3,34
+chiefdom,Eastern,Kono,Nimiyama,14505,13663,28168,Table 3,34
+chiefdom,Eastern,Kono,Sandor,44249,45630,89879,Table 3,34
+chiefdom,Eastern,Kono,Soa,19087,20163,39250,Table 3,34
+chiefdom,Eastern,Kono,Tankoro,4333,4168,8501,Table 3,34
+chiefdom,Eastern,Kono,Toli,2410,2636,5046,Table 3,34
+chiefdom,Eastern,Kono,Koidu/New,63858,64172,128030,Table 3,34
+chiefdom,Northern,Bombali,Biriwa,22720,24585,47305,Table 3,34
+chiefdom,Northern,Bombali,Bombali Sebora,17785,18628,36413,Table 3,34
+chiefdom,Northern,Bombali,Gbanti-Kamaranka,14011,14480,28491,Table 3,36
+chiefdom,Northern,Bombali,Gbendembu Ngowahun,18498,20302,38800,Table 3,36
+chiefdom,Northern,Bombali,Libeisaygahun,7798,8401,16199,Table 3,36
+chiefdom,Northern,Bombali,Magbaimba Ndorhahun,6347,6341,12688,Table 3,36
+chiefdom,Northern,Bombali,Makari Gbanti,39798,41547,81345,Table 3,36
+chiefdom,Northern,Bombali,Paki Masabong,9487,10393,19880,Table 3,36
+chiefdom,Northern,Bombali,Safroko Limba,14683,16573,31256,Table 3,36
+chiefdom,Northern,Bombali,Sanda Loko,22274,22801,45075,Table 3,36
+chiefdom,Northern,Bombali,Sanda Tendaren,13178,13050,26228,Table 3,36
+chiefdom,Northern,Bombali,Sella Limba,28497,29904,58401,Table 3,36
+chiefdom,Northern,Bombali,Tambakka,19468,19025,38493,Table 3,36
+chiefdom,Northern,Bombali,Makeni City,62139,63831,125970,Table 3,36
+chiefdom,Northern,Kambia,Bramaia,17365,19399,36764,Table 3,36
+chiefdom,Northern,Kambia,Gbinle-Dixing,11140,12293,23433,Table 3,36
+chiefdom,Northern,Kambia,Magbema,44339,47826,92165,Table 3,36
+chiefdom,Northern,Kambia,Mambolo,17911,20041,37952,Table 3,36
+chiefdom,Northern,Kambia,Masungbala,14793,17004,31797,Table 3,36
+chiefdom,Northern,Kambia,Samu,31004,33786,64790,Table 3,36
+chiefdom,Northern,Kambia,Tonko Limba,28989,29584,58573,Table 3,36
+chiefdom,Northern,Koinadugu,Dembelia Sinkunia,10879,10570,21449,Table 3,36
+chiefdom,Northern,Koinadugu,Diang,14699,14364,29063,Table 3,36
+chiefdom,Northern,Koinadugu,Follosaba Dembelia,10450,10469,20919,Table 3,36
+chiefdom,Northern,Koinadugu,Kasunko,11734,13062,24796,Table 3,36
+chiefdom,Northern,Koinadugu,Mongo,23553,24283,47836,Table 3,36
+chiefdom,Northern,Koinadugu,Neya,21741,20963,42704,Table 3,36
+chiefdom,Northern,Koinadugu,Nieni,38813,39386,78199,Table 3,36
+chiefdom,Northern,Koinadugu,Sengbe,18625,19391,38016,Table 3,36
+chiefdom,Northern,Koinadugu,Sulima,18686,16953,35639,Table 3,38
+chiefdom,Northern,Koinadugu,Wara Wara Bafodia,17320,17286,34606,Table 3,38
+chiefdom,Northern,Koinadugu,Wara Wara Yagala,17998,18147,36145,Table 3,38
+chiefdom,Northern,Port Loko,BKM,19179,21000,40179,Table 3,38
+chiefdom,Northern,Port Loko,Buya Romende,16083,18198,34281,Table 3,38
+chiefdom,Northern,Port Loko,Dibia,7252,8267,15519,Table 3,38
+chiefdom,Northern,Port Loko,Kaffu Bullom,59160,61330,120490,Table 3,38
+chiefdom,Northern,Port Loko,Koya,40119,45058,85177,Table 3,38
+chiefdom,Northern,Port Loko,Lokomasama,37331,40945,78276,Table 3,38
+chiefdom,Northern,Port Loko,Maforki,41416,45348,86764,Table 3,38
+chiefdom,Northern,Port Loko,Marampa,28737,30586,59323,Table 3,38
+chiefdom,Northern,Port Loko,Masimera,19324,21519,40843,Table 3,38
+chiefdom,Northern,Port Loko,Sanda Magbolontor,11161,12570,23731,Table 3,38
+chiefdom,Northern,Port Loko,TMS,15192,15601,30793,Table 3,38
+chiefdom,Northern,Tonkolili,Gbonkolenken,33497,34208,67705,Table 3,38
+chiefdom,Northern,Tonkolili,Kafe Simira,18467,18203,36670,Table 3,38
+chiefdom,Northern,Tonkolili,Kalansogoia,17976,17888,35864,Table 3,38
+chiefdom,Northern,Tonkolili,Kholifa Mabang,7996,8670,16666,Table 3,38
+chiefdom,Northern,Tonkolili,Kolifa Rowalla,32821,33307,66128,Table 3,38
+chiefdom,Northern,Tonkolili,Kunike Barina,13166,12079,25245,Table 3,38
+chiefdom,Northern,Tonkolili,Kunike Sanda,37519,36896,74415,Table 3,38
+chiefdom,Northern,Tonkolili,Malal Mara,15091,15862,30953,Table 3,38
+chiefdom,Northern,Tonkolili,Sambaya,15690,16303,31993,Table 3,38
+chiefdom,Northern,Tonkolili,Tane,16309,16976,33285,Table 3,38
+chiefdom,Northern,Tonkolili,Yoni,54620,57891,112511,Table 3,38
+chiefdom,Southern,Bo,Badjia,3982,4153,8135,Table 3,40
+chiefdom,Southern,Bo,Bagbo,12803,13081,25884,Table 3,40
+chiefdom,Southern,Bo,Bagbwe,10444,10482,20926,Table 3,40
+chiefdom,Southern,Bo,Baoma,22482,23353,45835,Table 3,40
+chiefdom,Southern,Bo,Bumpe Ngawo,21718,22561,44279,Table 3,40
+chiefdom,Southern,Bo,Gbo,2676,2727,5403,Table 3,40
+chiefdom,Southern,Bo,Jaiama-Bongor,15199,16099,31298,Table 3,40
+chiefdom,Southern,Bo,Kakua,24377,26697,51074,Table 3,40
+chiefdom,Southern,Bo,Komboya,7692,7931,15623,Table 3,40
+chiefdom,Southern,Bo,Lugbu,12509,12944,25453,Table 3,40
+chiefdom,Southern,Bo,Niawa Lenga,6789,7166,13955,Table 3,40
+chiefdom,Southern,Bo,Selenga,4368,4807,9175,Table 3,40
+chiefdom,Southern,Bo,Tikonko,26116,27090,53206,Table 3,40
+chiefdom,Southern,Bo,Valunia,18177,17381,35558,Table 3,40
+chiefdom,Southern,Bo,Wunde,7239,8066,15305,Table 3,40
+chiefdom,Southern,Bo,Bo City,83998,90371,174369,Table 3,40
+chiefdom,Southern,Bonthe,Bendu Cha,3500,3668,7168,Table 3,40
+chiefdom,Southern,Bonthe,Bum,11841,12498,24339,Table 3,40
+chiefdom,Southern,Bonthe,Dema,3749,3662,7411,Table 3,40
+chiefdom,Southern,Bonthe,Imperi,17019,16375,33394,Table 3,40
+chiefdom,Southern,Bonthe,Jong,16511,17305,33816,Table 3,40
+chiefdom,Southern,Bonthe,Kpanga Kemo,5057,5381,10438,Table 3,40
+chiefdom,Southern,Bonthe,Kwamebai Krim,6975,7314,14289,Table 3,40
+chiefdom,Southern,Bonthe,Nongoba Bullom,10009,10051,20060,Table 3,40
+chiefdom,Southern,Bonthe,Sittia,10522,10825,21347,Table 3,40
+chiefdom,Southern,Bonthe,Sogbini,5236,5627,10863,Table 3,40
+chiefdom,Southern,Bonthe,Yawbeko,3670,3911,7581,Table 3,40
+chiefdom,Southern,Moyamba,Bagruwa,13705,13918,27623,Table 3,42
+chiefdom,Southern,Moyamba,Bumpeh,17826,19619,37445,Table 3,42
+chiefdom,Southern,Moyamba,Dasse,6369,6848,13217,Table 3,42
+chiefdom,Southern,Moyamba,Fakunya,13133,14513,27646,Table 3,42
+chiefdom,Southern,Moyamba,Kagboro,16811,18051,34862,Table 3,42
+chiefdom,Southern,Moyamba,Kaiyamba,12240,13509,25749,Table 3,42
+chiefdom,Southern,Moyamba,Kamajei,4934,5231,10165,Table 3,42
+chiefdom,Southern,Moyamba,Kongbora,4979,5349,10328,Table 3,42
+chiefdom,Southern,Moyamba,Kori,14797,15717,30514,Table 3,42
+chiefdom,Southern,Moyamba,Kowa,4642,5110,9752,Table 3,42
+chiefdom,Southern,Moyamba,Lower Banta,18129,19188,37317,Table 3,42
+chiefdom,Southern,Moyamba,Ribbi,15730,17435,33165,Table 3,42
+chiefdom,Southern,Moyamba,Timdale,5155,5137,10292,Table 3,42
+chiefdom,Southern,Moyamba,Upper Banta,5249,5264,10513,Table 3,42
+chiefdom,Southern,Pujehun,Barri,17697,19208,36905,Table 3,42
+chiefdom,Southern,Pujehun,Gallinas Peri,26713,27978,54691,Table 3,42
+chiefdom,Southern,Pujehun,Kpaka,7721,8747,16468,Table 3,42
+chiefdom,Southern,Pujehun,Kpanga-Kabonde,23908,25432,49340,Table 3,42
+chiefdom,Southern,Pujehun,Makpele,15425,15655,31080,Table 3,42
+chiefdom,Southern,Pujehun,Malen,25164,24099,49263,Table 3,42
+chiefdom,Southern,Pujehun,Mano Sakrim,6084,6809,12893,Table 3,42
+chiefdom,Southern,Pujehun,Panga Krim,4296,4673,8969,Table 3,42
+chiefdom,Southern,Pujehun,Pejeh,6576,7024,13600,Table 3,42
+chiefdom,Southern,Pujehun,Soro Gbema,20291,22001,42292,Table 3,42
+chiefdom,Southern,Pujehun,Sowa,8428,8708,17136,Table 3,42
+chiefdom,Western,Western Area Rural,Koya,34381,36042,70423,Table 3,44
+chiefdom,Western,Western Area Rural,Mountain,16014,14474,30488,Table 3,44
+chiefdom,Western,Western Area Rural,Waterloo,104978,108800,213778,Table 3,44
+chiefdom,Western,Western Area Rural,York Rural,65978,63603,129581,Table 3,44
+chiefdom,Western,Western Area Urban,Central 1,32023,30476,62499,Table 3,44
+chiefdom,Western,Western Area Urban,Central 2,11623,9790,21413,Table 3,44
+chiefdom,Western,Western Area Urban,East 1,30380,30864,61244,Table 3,44
+chiefdom,Western,Western Area Urban,East 2,45336,44194,89530,Table 3,44
+chiefdom,Western,Western Area Urban,East 3,222544,226028,448572,Table 3,44
+chiefdom,Western,Western Area Urban,West 1,26564,27417,53981,Table 3,44
+chiefdom,Western,Western Area Urban,West 2,64657,65492,130149,Table 3,44
+chiefdom,Western,Western Area Urban,West 3,95080,93496,188576,Table 3,44

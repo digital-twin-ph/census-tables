@@ -1,0 +1,12 @@
+variable,label,unit,description
+level,Level,,"country, state (the 36 states and ABUJA FCT, which the volume lists with the states), lga (Local Government Area; the FCT's six are its Area Councils) or disputed areas (one row in Taraba State, printed with an asterisk and no footnote)"
+state,State,,"The state an LGA lies in, as its total row prints it; empty for the country and the states"
+senatorial_district,Senatorial district,,"The letter (A, B or C) the table prints in its Senatorial District column; 0 on the Taraba disputed-areas row, as printed"
+senatorial_district_name,Senatorial district name,,"The name the legend under each state's table gives the letter, as printed; three legends are cut short in print (Jigawa C, Cross River C, Akwa Ibom C, the last empty)"
+s_no,Serial number,,"The table's S/No., as printed; it skips and misprints in Taraba, Benue and Akwa Ibom (see provenance.json)"
+unit,Unit,,The unit's name as printed
+men,Men,persons,"Male population, 2006 census (March 21-27, 2006)"
+women,Women,persons,"Female population, 2006 census"
+total,Total,persons,"Population, both sexes (Both Sexes; Persons on the Oyo page), 2006 census; men plus women"
+table,Table,,The table of Priority Table Volume III the row was read from
+printed_page,Printed page,,The page number printed in the volume

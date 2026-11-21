@@ -1,0 +1,11 @@
+variable,label,unit,description
+level,Level,,"país (Brasil), UF (Unidade da Federação: the 26 states and the Distrito Federal) or município"
+uf,UF,,"The UF a município lies in, as the workbook abbreviates it (column UF); empty for the country and the UFs"
+unit,Unit,,"The unit's name as the workbook writes it: Brasil; the UF's abbreviation (the workbook gives no full names); the município's name (NOME DO MUNICÍPIO)"
+uf_code,COD. UF,,The UF's 2-digit IBGE code; empty for the country
+ibge_code,Código IBGE do município,,"The município's 7-digit IBGE code: COD. UF followed by COD. MUNIC (5 digits); empty for the country and the UFs"
+collected,POP. COLETADA,persons,"Population collected (enumerated) in the 2022 census"
+imputed,POP. IMPUTADA,persons,"Population imputed by IBGE, 2022 census"
+total,POP. TOTAL,persons,"Total population, collected plus imputed, 2022 census"
+table,Table,,The workbook sheet the row was read from
+cells,Cells,,The workbook cells the row was read from

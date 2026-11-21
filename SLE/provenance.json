@@ -1,0 +1,51 @@
+{
+  "country": "Sierra Leone",
+  "iso3": "SLE",
+  "census": "2015 Population and Housing Census",
+  "reference_date": "2015-12-04",
+  "reference_note": "The volume gives the night of 4 to 5 December 2015 as census reference night; enumeration ran from 5 to 18 December 2015.",
+  "source": {
+    "title": "2015 Population and Housing Census: Summary of Final Results. Planning a Better Future",
+    "publisher": "Statistics Sierra Leone (Stats SL), Freetown, December 2016",
+    "page": "https://www.statistics.sl/index.php/census/census-2015.html",
+    "tables": {
+      "Table 1": "Distribution of total population by type of population, district and sex, printed page 28 (used for checking only)",
+      "Table 2": "Distribution of total population by region, district, sex and area of residence, printed page 30",
+      "Table 3": "Distribution of total population by region, district, chiefdom, area of residence and sex, printed pages 32 to 44"
+    },
+    "copy_read": {
+      "url": "https://www.statistics.sl/images/StatisticsSL/Documents/final-results_-2015_population_and_housing_census.pdf",
+      "bytes": 9251915,
+      "sha256": "028610d3100eefab7620b71c139e91f719528c3bb5de5802496b4eefa31c8d63",
+      "retrieved": "2026-11-20",
+      "form": "a born-digital PDF (Adobe InDesign), 97 PDF pages, each a two-page spread; read with pdftotext -layout"
+    }
+  },
+  "licence": {
+    "stated": "Statistics Sierra Leone's Open License Agreement: a \"non-exclusive, worldwide, royalty-free license to copy, modify, translate, publish, adapt, distribute\", for commercial and non-commercial use, on condition of the notice it prescribes. Not a named standard licence.",
+    "where": "https://www.statistics.sl/index.php/open-license-agreement.html, linked from the footer of statistics.sl, read 2026-11-20. It covers data files, graphs, maps and text Stats SL owns; it does not name census reports. The volume itself prints \"Copyright © 2016 Statistics Sierra Leone\".",
+    "notice": "Source: STATISTICS SIERRA LEONE. Contains information licensed under STATISTICS SIERRA LEONE's Open License Agreement.",
+    "redistributed": "the counts of Tables 2 and 3 (total, male, female), with the notice above; the volume is not redistributed"
+  },
+  "transcription": {
+    "by": "read from the PDF's text layer (pdftotext -layout), not typed; the page images of printed pages 40 to 45 were viewed where a check failed",
+    "as_published": "names as printed. The country row is the table's \"Total country\". Province and district names, and each chiefdom's parent, are Table 2's spellings; Table 3 prints the same districts in capitals and Bo as BO-SOUTH. Chiefdom names as Table 3 prints them, including Koidu/New, BKM and TMS.",
+    "corrections": "none: the text layer read every number of Tables 1 to 3 cleanly, and every row it gave agrees with the page image where viewed",
+    "checks": {
+      "men_plus_women_equals_total": "183 of 183 rows of counts.csv; also every row of Tables 1 and 3",
+      "districts_sum_to_their_province": "4 of 4 provinces",
+      "provinces_sum_to_the_country": "7092113 (men 3490978, women 3601135), as printed",
+      "tables_agree": "the country and the 14 districts are equal in Tables 1, 2 and 3; the 4 provinces are equal in Tables 2 and 3",
+      "chiefdoms_sum_to_their_district": "12 of 14 districts. Fails, as printed (the page images show the same rows as the text layer, so this is the table, not the text layer): Bonthe, 11 chiefdoms printed, sum short of the district by 10075 (men 4925, women 5150), all of it in the urban columns; Pujehun, 11 chiefdoms printed, sum short by 13824 (men 6566, women 7258), all of it in the rural columns. Each district looks to lack one printed row; which unit it is the volume does not say, and no row has been added."
+    },
+    "printed_errors_outside_the_columns_read": [
+      "Table 3, printed page 44: in Western Area Urban and its eight areas, the urban Female column repeats the urban Male column (e.g. Western Area Urban 528207 and 528207, where the all-residence female is 527757). The page image shows the same. counts.csv reads the all-residence columns, which add up."
+    ]
+  },
+  "units": "counts.csv: the country (Total country), its 4 provinces (Eastern, Northern, Southern, and Western, the Western Area), its 14 districts of 2015, and 164 units in Table 3's chiefdom position: chiefdoms, four cities (Kenema City, Koidu/New, Makeni City, Bo City), the 4 areas of Western Area Rural and the 8 of Western Area Urban. These are the units of 2015: Sierra Leone created two more districts in 2017 (16 now), so the 14 districts here are not today's. Fieldwork's Sierra Leone measles example uses the 2021 Mid-Term Census, not this one.",
+  "reviewed": {
+    "last": "2026-11-20",
+    "next_due": "2027-05-20",
+    "found": "First transcription. A Mid-Term Census followed in 2021; this folder does not hold it. Bonthe and Pujehun each lack one chiefdom row in Table 3 as printed."
+  }
+}

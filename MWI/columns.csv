@@ -1,0 +1,9 @@
+variable,label,unit,description
+level,Level,,"country, region, district or city; the table prints the four cities in its district column, after the districts of their region"
+region,Region,,The region a district or city lies in; empty for the country and the regions
+unit,Unit,,The unit's name as the NSO workbook writes it
+men,Male,persons,"Male population, 2018 Population and Housing Census (the workbook's 2018 Male column)"
+women,Female,persons,"Female population, 2018 Population and Housing Census (the workbook's 2018 Female column)"
+total,Total,persons,"Population, both sexes, 2018 Population and Housing Census (the workbook's 2018 Total column)"
+table,Table,,The workbook sheet the row was read from
+cells,Cells,,"The workbook cells the row was read from (B Total, C Male, D Female)"

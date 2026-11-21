@@ -47,6 +47,11 @@ Started 2026-11-19 as african-census-tables; renamed census-tables the same day,
 | 2026-11-19 | DR Congo | 1984, the only census: 9 regions, 44 cities and sub-regions |
 | 2026-11-20 | Rwanda | 2022: 4 provinces and Kigali, 30 districts, by sex |
 | 2026-11-20 | Botswana | 2022: 28 census districts, totals only |
+| 2026-11-20 | Brazil | 2022: 27 federal units, 5,570 municipalities, collected, imputed and total (IBGE, first results) |
+| 2026-11-20 | Kenya | 2019: 349 sub-counties by sex, and Tharaka Nithi's county row; the workbook prints no other county rows |
+| 2026-11-20 | Malawi | 2018: 3 regions, 28 districts, 4 cities, by sex |
+| 2026-11-20 | Nigeria | 2006, the latest census: 36 states and the FCT, 774 LGAs with their senatorial districts, by sex |
+| 2026-11-20 | Sierra Leone | 2015: 4 provinces, the 14 districts of 2015, 164 chiefdoms and areas, by sex |
 
 **Next, by population, the five largest of each continent**, at the first administrative level and the second where
 the office publishes it: Nigeria, Ethiopia, Egypt, Tanzania, South Africa; India, China, Indonesia, Pakistan,

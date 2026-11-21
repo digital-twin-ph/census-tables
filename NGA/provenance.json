@@ -1,0 +1,62 @@
+{
+  "country": "Nigeria",
+  "iso3": "NGA",
+  "census": "2006 Population and Housing Census",
+  "reference_date": "2006-03-21",
+  "the_latest_census": "The 2006 census is Nigeria's latest. The volume's preface (printed page 3) records the provisional result in Official Gazette No. 4, Vol. 94 of 19 January 2007 and the final result in Gazette No. 2, Vol. 96 of 2 February 2009, and says \"the questions on how many we are in Nigeria should now be satisfactorily put to rest\". That the results were disputed is not cited here: no open page saying so was read for this transcription.",
+  "source": {
+    "title": "Federal Republic of Nigeria, 2006 Population and Housing Census, Priority Table Volume III: Population Distribution by Sex, State, LGA & Senatorial District",
+    "publisher": "National Population Commission, Abuja, Nigeria, April 2010",
+    "tables": {
+      "2006 Census population distribution by states": "printed page 9: each state and the FCT, the six zones, northern and southern zones, and NIGERIA, with 1991 total, 2006 male, female and both sexes, land size, growth rate and density",
+      "2006 Census population distribution by LGA": "printed pages 20 to 61, one page per state and the FCT: each LGA's senatorial district (a letter, named in a legend under the table), land size, male, female and both sexes, and the state total"
+    },
+    "page": "https://catalog.ihsn.org/catalog/3340",
+    "catalogue_entry": "IHSN Survey Catalog, study NGA_2006_PHC_v01_M, Downloads: \"Priority Table Volume III\", file \"Vol 03 Table DSx LGAPop by SDistrict-PDF\", author National Population Commission, dated 2010-04-01",
+    "copy_read": {
+      "url": "https://catalog.ihsn.org//catalog/3340/download/48521",
+      "held_by": "research_notes/census-downloads/NGA/vol03-table-dsx-lgapop-by-sdistrict.pdf",
+      "bytes": 7394260,
+      "sha256": "01d7d8dda8c9359a126b56add6376a823857a935483718db582efe226de7a52e",
+      "retrieved": "2026-11-20",
+      "form": "PDF made by Microsoft Office Word 2007 (2010-09-23), 64 pages, A4 landscape; a born-digital text layer, not a scan"
+    }
+  },
+  "licence": {
+    "stated": "none stated",
+    "where": [
+      "https://catalog.ihsn.org/catalog/3340, read 2026-11-20: no licence; a citation requirement (primary investigator, survey title, reference number, source and download date) and a disclaimer that the collector, distributor and funder \"bear no responsibility for use of the data\"",
+      "https://catalog.ihsn.org/catalog/3340/related-materials, read 2026-11-20: the volume's entry states no licence or terms",
+      "https://catalog.ihsn.org/catalog/3340/get-microdata, read 2026-11-20: \"Data Access Not Available\", no licence",
+      "the footer \"© IHSN Survey Catalog, All Rights Reserved\" on each page is the catalogue site's own, not stated for the volume",
+      "the volume itself: no copyright, reproduction or rights notice"
+    ],
+    "redistributed": "the counts only, transcribed and cited as the catalogue's citation requirement asks; the PDF is not redistributed"
+  },
+  "transcription": {
+    "by": "read from the PDF's text layer (pdftotext -layout), every number taken from it, not typed; pages 20, 32, 48, 56 and 58 also checked against the rendered page image",
+    "as_published": "names, spellings and serial numbers as printed, upper case as printed. Joined where the print wraps a name over two lines: Oyo S/No. 6 IBADAN CENTRAL [IBADAN NORTH EAST], and the Adamawa total row ADAMAWA STATE. The FCT's total row prints ABUJA FCT (heading ABUJA – FCT).",
+    "corrections": "none: no number in the text layer was garbled, and every row passed the checks as read",
+    "as_printed_and_kept": [
+      "Serial numbers: Taraba runs 1 to 15 then 17 (16 LGAs, as the volume's list of states gives); Benue runs 1 to 19 then 21 to 24 (23 LGAs); Akwa Ibom prints 234 for 23 (OKOBO) and 256 for 25 (ORON), and has no 26 (31 LGAs, the last numbered 32). Checked on the page image for Taraba and Akwa Ibom: the misprints are in the print, not the text layer.",
+      "Taraba State prints a row \"* DISPUTED AREAS\" with senatorial district 0, no land size and no footnote for the asterisk: 10106 men, 9858 women, 19964 total. It is counted in the state total; it is kept as its own row (level: disputed areas), not as an LGA.",
+      "Legends cut short in print (checked on the page image): Jigawa \"C = Jigawa Noth We\", Cross River \"C = Cross River\", Akwa Ibom \"C =\" with no name. The letter is kept; the name as printed, empty for Akwa Ibom C.",
+      "Lagos legend prints \"C = Lagos Weast\"; kept as printed.",
+      "Oyo's page heads its last column Persons, the others Both Sexes."
+    ],
+    "checks": {
+      "men_plus_women_equals_total": "813 of 813 rows (the country, 36 states and the FCT, 774 LGAs, and Taraba's disputed areas)",
+      "lgas_per_state_match_the_volumes_list": "37 of 37 (36 states and the FCT): each state's LGA rows equal the Number of LGAs on printed page 8; 774 in all",
+      "lgas_sum_to_their_state": "37 of 37, men, women and total each, as printed on the state's total row (Taraba's with its disputed-areas row)",
+      "state_totals_agree_with_page_9": "37 of 37: each total row on pages 20 to 61 equals the state's row on printed page 9",
+      "states_sum_to_the_country": "men 71345488, women 69086302, total 140431790: equal to the NIGERIA row on printed page 9",
+      "lgas_sum_to_their_senatorial_district": "not checkable: the table prints no senatorial-district totals. The letters give 109 districts: three in each state, one (A) in the FCT."
+    }
+  },
+  "units": "counts.csv: the country (printed page 9), 36 states and the FCT (each state page's total row), and 774 LGAs with their state and senatorial district, plus one row of disputed areas in Taraba State. The six zones on page 9 are not transcribed.",
+  "reviewed": {
+    "last": "2026-11-20",
+    "next_due": "2027-05-20",
+    "found": "First transcription. The 2006 census is the latest."
+  }
+}

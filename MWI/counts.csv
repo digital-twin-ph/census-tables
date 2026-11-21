@@ -1,0 +1,37 @@
+level,region,unit,men,women,total,table,cells
+country,,Malawi,8521460,9042289,17563749,A1,B5:D5
+region,,Northern,1114497,1175283,2289780,A1,B7:D7
+district,Northern,Chitipa,114392,120535,234927,A1,B8:D8
+district,Northern,Karonga,176197,188831,365028,A1,B9:D9
+district,Northern,Nkhata Bay,139341,145340,284681,A1,B10:D10
+district,Northern,Rumphi,112652,116509,229161,A1,B11:D11
+district,Northern,Mzimba,455867,484317,940184,A1,B12:D12
+district,Northern,Likoma,7200,7327,14527,A1,B13:D13
+city,Northern,Mzuzu City,108848,112424,221272,A1,B14:D14
+region,,Central,3679556,3843784,7523340,A1,B16:D16
+district,Central,Kasungu,417295,425658,842953,A1,B17:D17
+district,Central,Nkhotakota,192615,200462,393077,A1,B18:D18
+district,Central,Ntchisi,154843,162226,317069,A1,B19:D19
+district,Central,Dowa,378160,394409,772569,A1,B20:D20
+district,Central,Salima,231931,246415,478346,A1,B21:D21
+district,Central,Lilongwe,795428,842155,1637583,A1,B22:D22
+district,Central,Mchinji,296786,305519,602305,A1,B23:D23
+district,Central,Dedza,395882,434630,830512,A1,B24:D24
+district,Central,Ntcheu,319415,340193,659608,A1,B25:D25
+city,Central,Lilongwe City,497201,492117,989318,A1,B26:D26
+region,,Southern,3727407,4023222,7750629,A1,B28:D28
+district,Southern,Mangochi,545500,603111,1148611,A1,B29:D29
+district,Southern,Machinga,350742,384696,735438,A1,B30:D30
+district,Southern,Zomba,356718,390006,746724,A1,B31:D31
+district,Southern,Chiradzulu,169679,187196,356875,A1,B32:D32
+district,Southern,Blantyre,218464,232756,451220,A1,B33:D33
+district,Southern,Mwanza,63534,67415,130949,A1,B34:D34
+district,Southern,Thyolo,340759,380697,721456,A1,B35:D35
+district,Southern,Mulanje,325115,358992,684107,A1,B36:D36
+district,Southern,Phalombe,207006,222444,429450,A1,B37:D37
+district,Southern,Chikwawa,276890,287794,564684,A1,B38:D38
+district,Southern,Nsanje,143578,155590,299168,A1,B39:D39
+district,Southern,Balaka,209274,229105,438379,A1,B40:D40
+district,Southern,Neno,67357,70934,138291,A1,B41:D41
+city,Southern,Zomba City,51619,53394,105013,A1,B42:D42
+city,Southern,Blantyre City,401172,399092,800264,A1,B43:D43

@@ -1,0 +1,814 @@
+level,state,senatorial_district,senatorial_district_name,s_no,unit,men,women,total,table,printed_page
+country,,,,,NIGERIA,71345488,69086302,140431790,2006 Census population distribution by states,9
+state,,,,,JIGAWA STATE,2198076,2162926,4361002,2006 Census population distribution by LGA,20
+state,,,,,KADUNA STATE,3090438,3023065,6113503,2006 Census population distribution by LGA,21
+state,,,,,KANO STATE,4947952,4453336,9401288,2006 Census population distribution by LGA,22
+state,,,,,KATSINA STATE,2948279,2853305,5801584,2006 Census population distribution by LGA,23
+state,,,,,KEBBI STATE,1631629,1624912,3256541,2006 Census population distribution by LGA,24
+state,,,,,SOKOTO STATE,1863713,1838963,3702676,2006 Census population distribution by LGA,25
+state,,,,,ZAMFARA STATE,1641623,1637250,3278873,2006 Census population distribution by LGA,26
+state,,,,,ADAMAWA STATE,1607270,1571680,3178950,2006 Census population distribution by LGA,28
+state,,,,,BAUCHI STATE,2369266,2283800,4653066,2006 Census population distribution by LGA,29
+state,,,,,BORNO STATE,2163358,2007746,4171104,2006 Census population distribution by LGA,30
+state,,,,,GOMBE STATE,1244228,1120812,2365040,2006 Census population distribution by LGA,31
+state,,,,,TARABA STATE,1171931,1122869,2294800,2006 Census population distribution by LGA,32
+state,,,,,YOBE STATE,1205034,1116305,2321339,2006 Census population distribution by LGA,33
+state,,,,,BENUE STATE,2144043,2109598,4253641,2006 Census population distribution by LGA,35
+state,,,,,ABUJA FCT,733172,673067,1406239,2006 Census population distribution by LGA,36
+state,,,,,KOGI STATE,1672903,1641140,3314043,2006 Census population distribution by LGA,37
+state,,,,,KWARA STATE,1193783,1171570,2365353,2006 Census population distribution by LGA,38
+state,,,,,NASARAWA STATE,943801,925576,1869377,2006 Census population distribution by LGA,39
+state,,,,,NIGER STATE,2004350,1950422,3954772,2006 Census population distribution by LGA,40
+state,,,,,PLATEAU STATE,1598998,1607533,3206531,2006 Census population distribution by LGA,41
+state,,,,,EKITI STATE,1215487,1183470,2398957,2006 Census population distribution by LGA,43
+state,,,,,LAGOS STATE,4719125,4394480,9113605,2006 Census population distribution by LGA,44
+state,,,,,OGUN STATE,1864907,1886233,3751140,2006 Census population distribution by LGA,45
+state,,,,,ONDO STATE,1745057,1715820,3460877,2006 Census population distribution by LGA,46
+state,,,,,OSUN STATE,1734149,1682810,3416959,2006 Census population distribution by LGA,47
+state,,,,,OYO STATE,2802432,2778462,5580894,2006 Census population distribution by LGA,48
+state,,,,,ABIA STATE,1430298,1415082,2845380,2006 Census population distribution by LGA,50
+state,,,,,ANAMBRA STATE,2117984,2059844,4177828,2006 Census population distribution by LGA,51
+state,,,,,EBONYI STATE,1064156,1112791,2176947,2006 Census population distribution by LGA,52
+state,,,,,ENUGU STATE,1596042,1671795,3267837,2006 Census population distribution by LGA,53
+state,,,,,IMO STATE,1976471,1951092,3927563,2006 Census population distribution by LGA,54
+state,,,,,AKWA IBOM STATE,1983202,1918849,3902051,2006 Census population distribution by LGA,56
+state,,,,,BAYELSA STATE,874083,830432,1704515,2006 Census population distribution by LGA,57
+state,,,,,CROSS RIVER STATE,1471967,1421021,2892988,2006 Census population distribution by LGA,58
+state,,,,,DELTA STATE,2069309,2043136,4112445,2006 Census population distribution by LGA,59
+state,,,,,EDO STATE,1633946,1599420,3233366,2006 Census population distribution by LGA,60
+state,,,,,RIVERS STATE,2673026,2525690,5198716,2006 Census population distribution by LGA,61
+lga,JIGAWA STATE,B,Jigawa North East,1,AUYO,67409,64859,132268,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,2,BABURA,106373,106582,212955,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,B,Jigawa North East,3,BIRINIWA,73864,68151,142015,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,A,Jigawa South West,4,BIRNIN KUDU,153997,160111,314108,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,A,Jigawa South West,5,BUJI,48984,48300,97284,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,A,Jigawa South West,6,DUTSE,125773,125362,251135,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,7,GAGARAWA,41529,40624,82153,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,8,GARKI,74730,75531,150261,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,9,GUMEL,54865,51506,106371,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,B,Jigawa North East,10,GURI,58426,54937,113363,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,A,Jigawa South West,11,GWARAM,137785,133583,271368,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,12,GWIWA,64760,63970,128730,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,B,Jigawa North East,13,HADEJIA,54171,50115,104286,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,A,Jigawa South West,14,JAHUN,113694,116188,229882,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,B,Jigawa North East,15,KAFIN HAUSA,135012,132272,267284,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,B,Jigawa North East,16,KAUGAMA,64592,64389,128981,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,17,KAZAURE,82513,78648,161161,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,B,Jigawa North East,18,KIRI KASAMMA,98430,94153,192583,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,A,Jigawa South West,19,KIYAWA,87862,85090,172952,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,20,MAIGATARI,89722,87335,177057,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,B,Jigawa North East,21,MALAM MADORI,85165,79626,164791,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,A,Jigawa South West,22,MIGA,63067,64809,127876,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,23,RINGIM,95581,96826,192407,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,24,RONI,39618,37796,77414,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,25,SULE-TANKARKAR,65985,68828,134813,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,26,TAURA,66107,65754,131861,2006 Census population distribution by LGA,20
+lga,JIGAWA STATE,C,Jigawa Noth We,27,YANKWASHI,48062,47581,95643,2006 Census population distribution by LGA,20
+lga,KADUNA STATE,B,Kaduna Central,1,BIRNIN-GWARI,130919,127662,258581,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,B,Kaduna Central,2,CHIKUN,187433,184839,372272,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,B,Kaduna Central,3,GIWA,145608,146776,292384,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,B,Kaduna Central,4,IGABI,217414,213339,430753,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,A,Kaduna North,5,IKARA,95598,99125,194723,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,C,Kaduna South,6,JABA,77415,78558,155973,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,C,Kaduna South,7,JEMA'A,140724,137478,278202,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,C,Kaduna South,8,KACHIA,127624,124944,252568,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,B,Kaduna Central,9,KADUNA NORTH,187075,177500,364575,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,B,Kaduna Central,10,KADUNA SOUTH,204969,197762,402731,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,C,Kaduna South,11,KAGARKO,121041,118017,239058,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,B,Kaduna Central,12,KAJURU,54506,55304,109810,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,C,Kaduna South,13,KAURA,88565,86061,174626,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,C,Kaduna South,14,KAURU,111119,110157,221276,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,A,Kaduna North,15,KUBAU,141528,139176,280704,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,A,Kaduna North,16,KUDAN,71704,67252,138956,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,A,Kaduna North,17,LERE,170396,169344,339740,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,A,Kaduna North,18,MAKARFI,73292,73282,146574,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,A,Kaduna North,19,SABON-GARI,149111,142247,291358,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,C,Kaduna South,20,SANGA,76482,75003,151485,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,A,Kaduna North,21,SOBA,145145,146028,291173,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,C,Kaduna South,22,ZANGON-KATAF,161870,157121,318991,2006 Census population distribution by LGA,21
+lga,KADUNA STATE,A,Kaduna North,23,ZARIA,210900,196090,406990,2006 Census population distribution by LGA,21
+lga,KANO STATE,C,Kano South,1,AJINGI,86605,86005,172610,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,2,ALBASU,94862,92777,187639,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,3,BAGWAI,83511,78022,161533,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,4,BEBEJI,97351,94565,191916,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,5,BICHI,139346,138963,278309,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,6,BUNKURE,87185,87282,174467,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,7,DALA,237943,180816,418759,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,8,DAMBATTA,105538,104936,210474,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,9,DAWAKIN KUDU,116109,109388,225497,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,10,DAWAKIN TOFA,126390,119807,246197,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,11,DOGUWA,77849,72796,150645,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,12,FAGGE,111859,88236,200095,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,13,GABASAWA,107869,103335,211204,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,14,GARKO,82025,79941,161966,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,15,GARUM MALLAM,71515,47107,118622,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,16,GAYA,105199,102220,207419,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,17,GEZAWA,143380,138948,282328,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,18,GWALE,219201,138626,357827,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,19,GWARZO,94669,88955,183624,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,20,KABO,83156,70002,153158,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,21,KANO MUNICIPAL,219636,151607,371243,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,22,KARAYE,71727,72318,144045,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,23,KIBIYA,70942,67676,138618,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,24,KIRU,140565,126603,267168,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,25,KUMBOTSO,166171,128220,294391,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,26,KUNCHI,55221,54949,110170,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,27,KURA,76921,66173,143094,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,28,MADOBI,71095,66590,137685,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,29,MAKODA,110014,110080,220094,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,30,MINJIBIR,108218,111393,219611,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,31,NASARAWA,323740,272671,596411,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,32,RANO,75997,72279,148276,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,33,RIMIN GADO,53245,50126,103371,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,34,ROGO,113104,114503,227607,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,35,SHANONO,68466,70662,139128,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,36,SUMAILA,125162,125217,250379,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,37,TAKAI,100269,102370,202639,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,38,TARAUNI,122069,99775,221844,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,39,TOFA,49870,48733,98603,2006 Census population distribution by LGA,22
+lga,KANO STATE,B,Kano North,40,TSANYAWA,80638,77092,157730,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,41,TUDUN WADA,113791,114867,228658,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,42,UNGOGO,192372,173365,365737,2006 Census population distribution by LGA,22
+lga,KANO STATE,A,Kano Central,43,WARAWA,66800,65058,131858,2006 Census population distribution by LGA,22
+lga,KANO STATE,C,Kano South,44,WUDIL,100357,88282,188639,2006 Census population distribution by LGA,22
+lga,KATSINA STATE,B,Katsina South,1,BAKORI,72714,76802,149516,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,2,BATAGARAWA,96693,92366,189059,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,3,BATSARI,104279,103595,207874,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,4,BAURE,102127,100814,202941,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,5,BINDAWA,76925,74077,151002,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,6,CHARANCHI,70040,66949,136989,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,7,DAN MUSA,58031,55159,113190,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,B,Katsina South,8,DANDUME,74222,71101,145323,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,B,Katsina South,9,DANJA,63663,61818,125481,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,10,DAURA,115576,109308,224884,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,11,DUTSI,61430,59472,120902,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,12,DUTSIN-MA,88202,81627,169829,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,B,Katsina South,13,FASKARI,97963,96437,194400,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,B,Katsina South,14,FUNTUA,117789,107367,225156,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,15,INGAWA,86061,83087,169148,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,16,JIBIA,85149,82286,167435,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,B,Katsina South,17,KAFUR,104620,104740,209360,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,18,KAITA,93190,89215,182405,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,B,Katsina South,19,KANKARA,121815,121444,243259,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,20,KANKIA,77061,74334,151395,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,21,KATSINA,168906,149226,318132,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,22,KURFI,59021,57679,116700,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,23,KUSADA,50930,47418,98348,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,24,MAI'ADUA,103107,98693,201800,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,B,Katsina South,25,MALUMFASHI,92420,90471,182891,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,26,MANI,88007,88294,176301,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,27,MASHI,84105,86965,171070,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,B,Katsina South,28,MATAZU,57587,56227,113814,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,B,Katsina South,29,MUSAWA,85788,84218,170006,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,30,RIMI,77059,77033,154092,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,B,Katsina South,31,SABUWA,72106,68573,140679,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,C,Katsina Central,32,SAFANA,93410,91797,185207,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,33,SANDAMU,68512,68432,136944,2006 Census population distribution by LGA,23
+lga,KATSINA STATE,A,Katsina North,34,ZANGO,79771,76281,156052,2006 Census population distribution by LGA,23
+lga,KEBBI STATE,B,Kebbi Central,1,ALEIRO,34368,32710,67078,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,A,Kebbi North,2,AREWA-DANDI,94825,94903,189728,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,A,Kebbi North,3,ARGUNGU,99658,100590,200248,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,A,Kebbi North,4,AUGIE,58185,58183,116368,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,A,Kebbi North,5,BAGUDO,118733,119281,238014,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,B,Kebbi Central,6,BIRNIN KEBBI,135426,133194,268620,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,B,Kebbi Central,7,BUNZA,61309,62238,123547,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,A,Kebbi North,8,DANDI,72907,73304,146211,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,C,Kebbi South,9,FAKAI,60441,59331,119772,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,B,Kebbi Central,10,GWANDU,74610,76467,151077,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,B,Kebbi Central,11,JEGA,98936,98821,197757,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,B,Kebbi Central,12,KALGO,42262,42666,84928,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,B,Kebbi Central,13,KOKO/BESSE,78419,76399,154818,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,B,Kebbi Central,14,MAIYAMA,85728,88031,173759,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,C,Kebbi South,15,NGASKI,62480,63622,126102,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,C,Kebbi South,16,SAKABA,46194,45534,91728,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,C,Kebbi South,17,SHANGA,63478,63664,127142,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,A,Kebbi North,18,SURU,72912,75562,148474,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,C,Kebbi South,19,WASAGU/DANKO,131388,133883,265271,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,C,Kebbi South,20,YAURI,53016,47548,100564,2006 Census population distribution by LGA,24
+lga,KEBBI STATE,C,Kebbi South,21,ZURU,86354,78981,165335,2006 Census population distribution by LGA,24
+lga,SOKOTO STATE,B,Sokoto North,1,BINJI,52949,51325,104274,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,C,Sokoto South,2,BODINGA,87844,86458,174302,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,C,Sokoto South,3,DANGE-SHUNI,97709,95734,193443,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,A,Sokoto East,4,GADA,122232,126819,249051,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,A,Sokoto East,5,GORONYO,90639,91479,182118,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,B,Sokoto North,6,GUDU,48125,47275,95400,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,A,Sokoto East,7,GWADABAWA,116300,115269,231569,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,A,Sokoto East,8,ILLELA,74949,75184,150133,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,A,Sokoto East,9,ISA,73474,76794,150268,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,C,Sokoto South,10,KEBBE,62338,60816,123154,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,B,Sokoto North,11,KWARE,66778,67306,134084,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,A,Sokoto East,12,RABAH,75001,74151,149152,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,A,Sokoto East,13,SABON BIRNI,99397,108073,207470,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,C,Sokoto South,14,SHAGARI,79438,77469,156907,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,B,Sokoto North,15,SILAME,53091,51510,104601,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,B,Sokoto North,16,SOKOTO NORTH,124134,108878,233012,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,B,Sokoto North,17,SOKOTO SOUTH,103207,94479,197686,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,C,Sokoto South,18,TAMBUWAL,113495,112422,225917,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,B,Sokoto North,19,TANGAZA,55309,59461,114770,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,C,Sokoto South,20,TURETA,34567,33847,68414,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,B,Sokoto North,21,WAMAKKO,91466,87780,179246,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,A,Sokoto East,22,WURNO,81854,80549,162403,2006 Census population distribution by LGA,25
+lga,SOKOTO STATE,C,Sokoto South,23,YABO,59417,55885,115302,2006 Census population distribution by LGA,25
+lga,ZAMFARA STATE,C,Zamfara West,1,ANKA,72456,71181,143637,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,C,Zamfara West,2,BAKURA,92369,94772,187141,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,A,Zamfara North,3,BIRNIN MAGAJI,90824,93259,184083,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,C,Zamfara West,4,BUKKUYUM,108812,107536,216348,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,B,Zamfara Central,5,BUNGUDU,128831,129813,258644,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,C,Zamfara West,6,GUMMI,102686,104035,206721,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,B,Zamfara Central,7,GUSAU,198682,185030,383712,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,A,Zamfara North,8,KAURA NAMODA,145548,139815,285363,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,C,Zamfara West,9,MARADUN,106403,101160,207563,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,B,Zamfara Central,10,MARU,146920,146221,293141,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,A,Zamfara North,11,SHINKAFI,66512,69452,135964,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,C,Zamfara West,12,TALATA MAFARA,107516,108134,215650,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,B,Zamfara Central,13,TSAFE,129010,137919,266929,2006 Census population distribution by LGA,26
+lga,ZAMFARA STATE,A,Zamfara North,14,ZURMI,145054,148923,293977,2006 Census population distribution by LGA,26
+lga,ADAMAWA STATE,B,Adamawa South,1,DEMSA,89511,88896,178407,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,C,Adamawa Central,2,FUFORE,105626,103834,209460,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,B,Adamawa South,3,GANYE,85798,84150,169948,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,C,Adamawa Central,4,GIREI,66906,62949,129855,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,C,Adamawa Central,5,GOMBI,74399,73388,147787,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,B,Adamawa South,6,GUYUK,89440,87065,176505,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,C,Adamawa Central,7,HONG,83736,85447,169183,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,B,Adamawa South,8,JADA,82882,85563,168445,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,B,Adamawa South,9,LAMURDE,56495,54759,111254,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,A,Adamawa North,10,MADAGALI,67134,68008,135142,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,A,Adamawa North,11,MAIHA,55622,54553,110175,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,B,Adamawa South,12,MAYO-BELWA,75399,77404,152803,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,A,Adamawa North,13,MICHIKA,75036,80202,155238,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,A,Adamawa North,14,MUBI NORTH,78059,73456,151515,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,A,Adamawa North,15,MUBI SOUTH,66553,63403,129956,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,B,Adamawa South,16,NUMAN,47512,44037,91549,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,B,Adamawa South,17,SHELLENG,75143,73347,148490,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,C,Adamawa Central,18,SONG,97228,97960,195188,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,B,Adamawa South,19,TOUNGO,26598,25581,52179,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,C,Adamawa Central,20,YOLA NORTH,108379,91295,199674,2006 Census population distribution by LGA,28
+lga,ADAMAWA STATE,C,Adamawa Central,21,YOLA SOUTH,99814,96383,196197,2006 Census population distribution by LGA,28
+lga,BAUCHI STATE,A,Bauchi South,1,ALKALERI,166936,161348,328284,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,A,Bauchi South,2,BAUCHI,252420,241310,493730,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,A,Bauchi South,3,BOGORO,41776,42033,83809,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,B,Bauchi Central,4,DAMBAN,75978,74234,150212,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,B,Bauchi Central,5,DARAZO,126741,123205,249946,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,A,Bauchi South,6,DASS,46695,43419,90114,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,C,Bauchi North,7,GAMAWA,145510,138901,284411,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,B,Bauchi Central,8,GANJUWA,140402,138069,278471,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,C,Bauchi North,9,GIADE,79628,76394,156022,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,C,Bauchi North,10,ITAS/GADAU,114808,113719,228527,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,C,Bauchi North,11,JAMA'ARE,60941,56541,117482,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,C,Bauchi North,12,KATAGUM,152552,140468,293020,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,A,Bauchi South,13,KIRFI,75337,70299,145636,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,B,Bauchi Central,14,MISAU,135704,125706,261410,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,B,Bauchi Central,15,NINGI,196528,189469,385997,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,C,Bauchi North,16,SHIRA,118888,115111,233999,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,A,Bauchi South,17,TAFAWA-BALEWA,110372,110938,221310,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,A,Bauchi South,18,TORO,172921,173079,346000,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,B,Bauchi Central,19,WARJI,58054,56929,114983,2006 Census population distribution by LGA,29
+lga,BAUCHI STATE,C,Bauchi North,20,ZAKI,97075,92628,189703,2006 Census population distribution by LGA,29
+lga,BORNO STATE,A,Borno North,1,ABADAM,53749,46316,100065,2006 Census population distribution by LGA,30
+lga,BORNO STATE,C,Borno South,2,ASKIRA/UBA,72676,70637,143313,2006 Census population distribution by LGA,30
+lga,BORNO STATE,B,Borno Central,3,BAMA,136524,133595,270119,2006 Census population distribution by LGA,30
+lga,BORNO STATE,C,Borno South,4,BAYO,39287,39791,79078,2006 Census population distribution by LGA,30
+lga,BORNO STATE,A,Borno North,5,BIU,90609,85151,175760,2006 Census population distribution by LGA,30
+lga,BORNO STATE,C,Borno South,6,CHIBOK,33952,32381,66333,2006 Census population distribution by LGA,30
+lga,BORNO STATE,C,Borno South,7,DAMBOA,125873,107327,233200,2006 Census population distribution by LGA,30
+lga,BORNO STATE,B,Borno Central,8,DIKWA,55160,49882,105042,2006 Census population distribution by LGA,30
+lga,BORNO STATE,A,Borno North,9,GUBIO,78893,72393,151286,2006 Census population distribution by LGA,30
+lga,BORNO STATE,A,Borno North,10,GUZAMALA,50254,45737,95991,2006 Census population distribution by LGA,30
+lga,BORNO STATE,B,Borno Central,11,GWOZA,143407,133161,276568,2006 Census population distribution by LGA,30
+lga,BORNO STATE,C,Borno South,12,HAWUL,59611,61122,120733,2006 Census population distribution by LGA,30
+lga,BORNO STATE,B,Borno Central,13,JERE,107714,101393,209107,2006 Census population distribution by LGA,30
+lga,BORNO STATE,C,Borno South,14,KAGA,47150,42846,89996,2006 Census population distribution by LGA,30
+lga,BORNO STATE,B,Borno Central,15,KALA/BALGE,31260,29574,60834,2006 Census population distribution by LGA,30
+lga,BORNO STATE,B,Borno Central,16,KONDUGA,80017,77305,157322,2006 Census population distribution by LGA,30
+lga,BORNO STATE,A,Borno North,17,KUKAWA,109287,94056,203343,2006 Census population distribution by LGA,30
+lga,BORNO STATE,C,Borno South,18,KWAYA KUSAR,29007,27697,56704,2006 Census population distribution by LGA,30
+lga,BORNO STATE,B,Borno Central,19,MAFA,53351,50249,103600,2006 Census population distribution by LGA,30
+lga,BORNO STATE,A,Borno North,20,MAGUMERI,72510,67747,140257,2006 Census population distribution by LGA,30
+lga,BORNO STATE,B,Borno Central,21,MAIDUGURI,282409,257607,540016,2006 Census population distribution by LGA,30
+lga,BORNO STATE,A,Borno North,22,MARTE,67777,61632,129409,2006 Census population distribution by LGA,30
+lga,BORNO STATE,A,Borno North,23,MOBBAR,61426,55207,116633,2006 Census population distribution by LGA,30
+lga,BORNO STATE,A,Borno North,24,MONGUNO,57146,52688,109834,2006 Census population distribution by LGA,30
+lga,BORNO STATE,B,Borno Central,25,NGALA,122127,114371,236498,2006 Census population distribution by LGA,30
+lga,BORNO STATE,A,Borno North,26,NGANZAI,50822,48252,99074,2006 Census population distribution by LGA,30
+lga,BORNO STATE,C,Borno South,27,SHANI,51360,49629,100989,2006 Census population distribution by LGA,30
+lga,GOMBE STATE,A,Gombe Central,1,AKKO,177515,159920,337435,2006 Census population distribution by LGA,31
+lga,GOMBE STATE,B,Gombe South,2,BALANGA,108494,102996,211490,2006 Census population distribution by LGA,31
+lga,GOMBE STATE,B,Gombe South,3,BILLIRI,103201,99479,202680,2006 Census population distribution by LGA,31
+lga,GOMBE STATE,C,Gombe North,4,DUKKU,107583,100075,207658,2006 Census population distribution by LGA,31
+lga,GOMBE STATE,C,Gombe North,5,FUNAKAYE,132054,105633,237687,2006 Census population distribution by LGA,31
+lga,GOMBE STATE,C,Gombe North,6,GOMBE,146721,120123,266844,2006 Census population distribution by LGA,31
+lga,GOMBE STATE,B,Gombe South,7,KALTUNGO,80177,80215,160392,2006 Census population distribution by LGA,31
+lga,GOMBE STATE,C,Gombe North,8,KWAMI,99778,94217,193995,2006 Census population distribution by LGA,31
+lga,GOMBE STATE,C,Gombe North,9,NAFADA (BAJOGA),79009,61176,140185,2006 Census population distribution by LGA,31
+lga,GOMBE STATE,B,Gombe South,10,SHOMGOM,76450,74498,150948,2006 Census population distribution by LGA,31
+lga,GOMBE STATE,A,Gombe Central,11,YAMALTU/DEBA,133246,122480,255726,2006 Census population distribution by LGA,31
+lga,TARABA STATE,C,Taraba North,1,ARDO-KOLA,44533,43251,87784,2006 Census population distribution by LGA,32
+lga,TARABA STATE,B,Taraba Central,2,BALI,107979,103045,211024,2006 Census population distribution by LGA,32
+lga,TARABA STATE,A,Taraba South,3,DONGA,67582,65523,133105,2006 Census population distribution by LGA,32
+lga,TARABA STATE,B,Taraba Central,4,GASHAKA,45587,41579,87166,2006 Census population distribution by LGA,32
+lga,TARABA STATE,B,Taraba Central,5,GASSOL,126856,118230,245086,2006 Census population distribution by LGA,32
+lga,TARABA STATE,A,Taraba South,6,IBI,42654,41648,84302,2006 Census population distribution by LGA,32
+lga,TARABA STATE,C,Taraba North,7,JALINGO,71997,68321,140318,2006 Census population distribution by LGA,32
+lga,TARABA STATE,C,Taraba North,8,KARIM-LAMIDO,98315,95609,193924,2006 Census population distribution by LGA,32
+lga,TARABA STATE,B,Taraba Central,9,KURMI,46383,44899,91282,2006 Census population distribution by LGA,32
+lga,TARABA STATE,C,Taraba North,10,LAU,48582,46608,95190,2006 Census population distribution by LGA,32
+lga,TARABA STATE,B,Taraba Central,11,SARDAUNA,112060,112297,224357,2006 Census population distribution by LGA,32
+lga,TARABA STATE,A,Taraba South,12,TAKUM,68062,66514,134576,2006 Census population distribution by LGA,32
+lga,TARABA STATE,A,Taraba South,13,USSA,46558,44331,90889,2006 Census population distribution by LGA,32
+lga,TARABA STATE,A,Taraba South,14,WUKARI,124285,113998,238283,2006 Census population distribution by LGA,32
+lga,TARABA STATE,C,Taraba North,15,YORRO,45633,44232,89865,2006 Census population distribution by LGA,32
+lga,TARABA STATE,C,Taraba North,17,ZING,64759,62926,127685,2006 Census population distribution by LGA,32
+disputed areas,TARABA STATE,0,,,* DISPUTED AREAS,10106,9858,19964,2006 Census population distribution by LGA,32
+lga,YOBE STATE,B,Yobe North,1,BADE,73709,66095,139804,2006 Census population distribution by LGA,33
+lga,YOBE STATE,A,Yobe East,2,BURSARI,56381,53311,109692,2006 Census population distribution by LGA,33
+lga,YOBE STATE,A,Yobe East,3,DAMATURU,48361,39345,87706,2006 Census population distribution by LGA,33
+lga,YOBE STATE,C,Yobe South,4,FIKA,69175,67561,136736,2006 Census population distribution by LGA,33
+lga,YOBE STATE,C,Yobe South,5,FUNE,150896,151058,301954,2006 Census population distribution by LGA,33
+lga,YOBE STATE,A,Yobe East,6,GEIDAM,82482,73258,155740,2006 Census population distribution by LGA,33
+lga,YOBE STATE,A,Yobe East,7,GUJBA,72310,57487,129797,2006 Census population distribution by LGA,33
+lga,YOBE STATE,A,Yobe East,8,GULANI,51686,51830,103516,2006 Census population distribution by LGA,33
+lga,YOBE STATE,B,Yobe North,9,JAKUSKO,120728,111730,232458,2006 Census population distribution by LGA,33
+lga,YOBE STATE,B,Yobe North,10,KARASUWA,55385,50129,105514,2006 Census population distribution by LGA,33
+lga,YOBE STATE,B,Yobe North,11,MACHINA,31771,29223,60994,2006 Census population distribution by LGA,33
+lga,YOBE STATE,C,Yobe South,12,NANGERE,44470,43047,87517,2006 Census population distribution by LGA,33
+lga,YOBE STATE,B,Yobe North,13,NGURU,80827,69872,150699,2006 Census population distribution by LGA,33
+lga,YOBE STATE,C,Yobe South,14,POTISKUM,105388,99478,204866,2006 Census population distribution by LGA,33
+lga,YOBE STATE,A,Yobe East,15,TARMUA,40612,37055,77667,2006 Census population distribution by LGA,33
+lga,YOBE STATE,A,Yobe East,16,YUNUSARI,64918,61022,125940,2006 Census population distribution by LGA,33
+lga,YOBE STATE,B,Yobe North,17,YUSUFARI,55935,54804,110739,2006 Census population distribution by LGA,33
+lga,BENUE STATE,C,Benue South,1,ADO,92367,92022,184389,2006 Census population distribution by LGA,35
+lga,BENUE STATE,C,Benue South,2,AGATU,58478,57119,115597,2006 Census population distribution by LGA,35
+lga,BENUE STATE,C,Benue South,3,APA,48658,48122,96780,2006 Census population distribution by LGA,35
+lga,BENUE STATE,B,Benue North West,4,BURUKU,103655,102560,206215,2006 Census population distribution by LGA,35
+lga,BENUE STATE,B,Benue North West,5,GBOKO,180669,180656,361325,2006 Census population distribution by LGA,35
+lga,BENUE STATE,B,Benue North West,6,GUMA,97318,96846,194164,2006 Census population distribution by LGA,35
+lga,BENUE STATE,B,Benue North West,7,GWER EAST,85287,83373,168660,2006 Census population distribution by LGA,35
+lga,BENUE STATE,B,Benue North West,8,GWER WEST,61764,60549,122313,2006 Census population distribution by LGA,35
+lga,BENUE STATE,A,Benue North East,9,KATSINA-ALA,114093,111378,225471,2006 Census population distribution by LGA,35
+lga,BENUE STATE,A,Benue North East,10,KONSHISHA,114192,112300,226492,2006 Census population distribution by LGA,35
+lga,BENUE STATE,A,Benue North East,11,KWANDE,125442,123200,248642,2006 Census population distribution by LGA,35
+lga,BENUE STATE,A,Benue North East,12,LOGO,86069,83501,169570,2006 Census population distribution by LGA,35
+lga,BENUE STATE,B,Benue North West,13,MAKURDI,154138,146239,300377,2006 Census population distribution by LGA,35
+lga,BENUE STATE,C,Benue South,14,OBI,49143,49564,98707,2006 Census population distribution by LGA,35
+lga,BENUE STATE,C,Benue South,15,OGBADIBO,64847,66141,130988,2006 Census population distribution by LGA,35
+lga,BENUE STATE,C,Benue South,16,OHIMINI,35876,34812,70688,2006 Census population distribution by LGA,35
+lga,BENUE STATE,C,Benue South,17,OJU,84220,84271,168491,2006 Census population distribution by LGA,35
+lga,BENUE STATE,C,Benue South,18,OKPOKWU,89193,86403,175596,2006 Census population distribution by LGA,35
+lga,BENUE STATE,C,Benue South,19,OTURKPO,136612,129799,266411,2006 Census population distribution by LGA,35
+lga,BENUE STATE,B,Benue North West,21,TARKA,39783,39497,79280,2006 Census population distribution by LGA,35
+lga,BENUE STATE,A,Benue North East,22,UKUM,108728,108255,216983,2006 Census population distribution by LGA,35
+lga,BENUE STATE,A,Benue North East,23,USHONGO,96062,95873,191935,2006 Census population distribution by LGA,35
+lga,BENUE STATE,A,Benue North East,24,VANDEIKYA,117449,117118,234567,2006 Census population distribution by LGA,35
+lga,ABUJA FCT,A,Abuja FCT,1,ABAJI,28860,29782,58642,2006 Census population distribution by LGA,36
+lga,ABUJA FCT,A,Abuja FCT,2,ABUJA MUNICIPAL (AMAC),415951,360347,776298,2006 Census population distribution by LGA,36
+lga,ABUJA FCT,A,Abuja FCT,3,BWARI,115346,113928,229274,2006 Census population distribution by LGA,36
+lga,ABUJA FCT,A,Abuja FCT,4,GWAGWALADA,80182,78436,158618,2006 Census population distribution by LGA,36
+lga,ABUJA FCT,A,Abuja FCT,5,KUJE,49420,47813,97233,2006 Census population distribution by LGA,36
+lga,ABUJA FCT,A,Abuja FCT,6,KWALI,43413,42761,86174,2006 Census population distribution by LGA,36
+lga,KOGI STATE,A,Kogi Central,1,ADAVI,108891,108328,217219,2006 Census population distribution by LGA,37
+lga,KOGI STATE,A,Kogi Central,2,AJAOKUTA,62995,59437,122432,2006 Census population distribution by LGA,37
+lga,KOGI STATE,B,Kogi East,3,ANKPA,133705,132471,266176,2006 Census population distribution by LGA,37
+lga,KOGI STATE,B,Kogi East,4,BASSA,70293,69394,139687,2006 Census population distribution by LGA,37
+lga,KOGI STATE,B,Kogi East,5,DEKINA,131394,129574,260968,2006 Census population distribution by LGA,37
+lga,KOGI STATE,B,Kogi East,6,IBAJI,64423,63149,127572,2006 Census population distribution by LGA,37
+lga,KOGI STATE,B,Kogi East,7,IDAH,40141,39614,79755,2006 Census population distribution by LGA,37
+lga,KOGI STATE,B,Kogi East,8,IGALAMELA-ODOLU,74489,72559,147048,2006 Census population distribution by LGA,37
+lga,KOGI STATE,C,Kogi West,9,IJUMU,59582,59011,118593,2006 Census population distribution by LGA,37
+lga,KOGI STATE,C,Kogi West,10,KABBA/BUNU,72639,71940,144579,2006 Census population distribution by LGA,37
+lga,KOGI STATE,C,Kogi West,11,KOGI,58864,56236,115100,2006 Census population distribution by LGA,37
+lga,KOGI STATE,C,Kogi West,12,LOKOJA,101145,95498,196643,2006 Census population distribution by LGA,37
+lga,KOGI STATE,C,Kogi West,13,MOPA-MURO,22311,21449,43760,2006 Census population distribution by LGA,37
+lga,KOGI STATE,B,Kogi East,14,OFU,96671,94809,191480,2006 Census population distribution by LGA,37
+lga,KOGI STATE,A,Kogi Central,15,OGORI/MAGONGO,20051,19756,39807,2006 Census population distribution by LGA,37
+lga,KOGI STATE,A,Kogi Central,16,OKEHI,112879,110695,223574,2006 Census population distribution by LGA,37
+lga,KOGI STATE,A,Kogi Central,17,OKENE,163935,161688,325623,2006 Census population distribution by LGA,37
+lga,KOGI STATE,B,Kogi East,18,OLAMABOLO,78439,80051,158490,2006 Census population distribution by LGA,37
+lga,KOGI STATE,B,Kogi East,19,OMALA,54366,53602,107968,2006 Census population distribution by LGA,37
+lga,KOGI STATE,C,Kogi West,20,YAGBA EAST,74619,73022,147641,2006 Census population distribution by LGA,37
+lga,KOGI STATE,C,Kogi West,21,YAGBA WEST,71071,68857,139928,2006 Census population distribution by LGA,37
+lga,KWARA STATE,B,Kwara Central,1,ASA,62751,61917,124668,2006 Census population distribution by LGA,38
+lga,KWARA STATE,A,Kwara North,2,BARUTEN,104727,101952,206679,2006 Census population distribution by LGA,38
+lga,KWARA STATE,A,Kwara North,3,EDU,104040,97602,201642,2006 Census population distribution by LGA,38
+lga,KWARA STATE,C,Kwara South,4,EKITI,27611,26788,54399,2006 Census population distribution by LGA,38
+lga,KWARA STATE,C,Kwara South,5,IFELODUN,103650,101325,204975,2006 Census population distribution by LGA,38
+lga,KWARA STATE,B,Kwara Central,6,ILORIN EAST,104801,102661,207462,2006 Census population distribution by LGA,38
+lga,KWARA STATE,B,Kwara Central,7,ILORIN SOUTH,103606,105645,209251,2006 Census population distribution by LGA,38
+lga,KWARA STATE,B,Kwara Central,8,ILORIN WEST,180387,184834,365221,2006 Census population distribution by LGA,38
+lga,KWARA STATE,C,Kwara South,9,IREPODUN,73554,74040,147594,2006 Census population distribution by LGA,38
+lga,KWARA STATE,C,Kwara South,10,ISIN,30088,29393,59481,2006 Census population distribution by LGA,38
+lga,KWARA STATE,A,Kwara North,11,KAIAMA,64901,59114,124015,2006 Census population distribution by LGA,38
+lga,KWARA STATE,A,Kwara North,12,MORO,54860,53855,108715,2006 Census population distribution by LGA,38
+lga,KWARA STATE,C,Kwara South,13,OFFA,44813,44162,88975,2006 Census population distribution by LGA,38
+lga,KWARA STATE,C,Kwara South,14,OKE-ERO,28358,28612,56970,2006 Census population distribution by LGA,38
+lga,KWARA STATE,C,Kwara South,15,OYUN,47890,46564,94454,2006 Census population distribution by LGA,38
+lga,KWARA STATE,A,Kwara North,16,PATEGI,57746,53106,110852,2006 Census population distribution by LGA,38
+lga,NASARAWA STATE,A,Nasarawa North,1,AKWANGA,56135,55767,111902,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,C,Nasarawa South,2,AWE,57326,55757,113083,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,C,Nasarawa South,3,DOMA,71395,67596,138991,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,B,Nasarawa West,4,KARU,109515,106715,216230,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,C,Nasarawa South,5,KEANA,40873,40928,81801,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,B,Nasarawa West,6,KEFFI,47527,45023,92550,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,B,Nasarawa West,7,KOKONA,54379,54179,108558,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,C,Nasarawa South,8,LAFIA,165631,164291,329922,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,B,Nasarawa West,9,NASARAWA,95105,92115,187220,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,A,Nasarawa North,10,NASARAWA-EGGON,74543,73862,148405,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,C,Nasarawa South,11,OBI,74675,74302,148977,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,B,Nasarawa West,12,TOTO,59884,59167,119051,2006 Census population distribution by LGA,39
+lga,NASARAWA STATE,A,Nasarawa North,13,WAMBA,36813,35874,72687,2006 Census population distribution by LGA,39
+lga,NIGER STATE,C,Niger South,1,AGAIE,66703,65395,132098,2006 Census population distribution by LGA,40
+lga,NIGER STATE,B,Niger North,2,AGWARA,29293,28054,57347,2006 Census population distribution by LGA,40
+lga,NIGER STATE,C,Niger South,3,BIDA,93741,91812,185553,2006 Census population distribution by LGA,40
+lga,NIGER STATE,B,Niger North,4,BORGU,87327,85508,172835,2006 Census population distribution by LGA,40
+lga,NIGER STATE,A,Niger East,5,BOSSO,75033,73103,148136,2006 Census population distribution by LGA,40
+lga,NIGER STATE,A,Niger East,6,CHANCHAGA,105265,96886,202151,2006 Census population distribution by LGA,40
+lga,NIGER STATE,C,Niger South,7,EDATI,80615,79203,159818,2006 Census population distribution by LGA,40
+lga,NIGER STATE,C,Niger South,8,GBAKO,63871,62974,126845,2006 Census population distribution by LGA,40
+lga,NIGER STATE,A,Niger East,9,GURARA,45153,45726,90879,2006 Census population distribution by LGA,40
+lga,NIGER STATE,C,Niger South,10,KATCHA,60526,60367,120893,2006 Census population distribution by LGA,40
+lga,NIGER STATE,B,Niger North,11,KONTAGORA,77782,74186,151968,2006 Census population distribution by LGA,40
+lga,NIGER STATE,C,Niger South,12,LAPAI,59974,57047,117021,2006 Census population distribution by LGA,40
+lga,NIGER STATE,C,Niger South,13,LAVUN,107146,102631,209777,2006 Census population distribution by LGA,40
+lga,NIGER STATE,B,Niger North,14,MAGAMA,90740,90730,181470,2006 Census population distribution by LGA,40
+lga,NIGER STATE,B,Niger North,15,MARIGA,100899,98701,199600,2006 Census population distribution by LGA,40
+lga,NIGER STATE,B,Niger North,16,MASHEGU,107909,107288,215197,2006 Census population distribution by LGA,40
+lga,NIGER STATE,C,Niger South,17,MOKWA,123467,119391,242858,2006 Census population distribution by LGA,40
+lga,NIGER STATE,A,Niger East,18,MUYA,52584,50877,103461,2006 Census population distribution by LGA,40
+lga,NIGER STATE,A,Niger East,19,PAIKORO,79399,78779,158178,2006 Census population distribution by LGA,40
+lga,NIGER STATE,A,Niger East,20,RAFI,94395,91723,186118,2006 Census population distribution by LGA,40
+lga,NIGER STATE,B,Niger North,21,RIJAU,88875,87324,176199,2006 Census population distribution by LGA,40
+lga,NIGER STATE,A,Niger East,22,SHIRORO,118640,117025,235665,2006 Census population distribution by LGA,40
+lga,NIGER STATE,A,Niger East,23,SULEJA,112030,103045,215075,2006 Census population distribution by LGA,40
+lga,NIGER STATE,A,Niger East,24,TAFA,41524,42350,83874,2006 Census population distribution by LGA,40
+lga,NIGER STATE,B,Niger North,25,WUSHISHI,41459,40297,81756,2006 Census population distribution by LGA,40
+lga,PLATEAU STATE,C,Plateau North,1,BARIKIN LADI,90913,88892,179805,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,C,Plateau North,2,BASSA,94725,95109,189834,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,B,Plateau Central,3,BOKKOS,88560,90990,179550,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,C,Plateau North,4,JOS EAST,44980,43321,88301,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,C,Plateau North,5,JOS NORTH,220856,216361,437217,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,C,Plateau North,6,JOS SOUTH,157067,154325,311392,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,B,Plateau Central,7,KANAM,81162,86457,167619,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,B,Plateau Central,8,KANKE,61376,62892,124268,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,A,Plateau South,9,LANGTANG NORTH,70203,72113,142316,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,A,Plateau South,10,LANGTANG SOUTH,53111,52062,105173,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,B,Plateau Central,11,MANGU,148590,151930,300520,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,A,Plateau South,12,MIKANG,47584,48804,96388,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,B,Plateau Central,13,PANKSHIN,95376,94738,190114,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,A,Plateau South,14,QUA'AN PAN,96800,100476,197276,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,C,Plateau North,15,RIYOM,66248,65530,131778,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,A,Plateau South,16,SHENDAM,101951,103168,205119,2006 Census population distribution by LGA,41
+lga,PLATEAU STATE,A,Plateau South,17,WASE,79496,80365,159861,2006 Census population distribution by LGA,41
+lga,EKITI STATE,C,Ekiti South,1,ADO EKITI,162563,151127,313690,2006 Census population distribution by LGA,43
+lga,EKITI STATE,C,Ekiti South,2,AIYEKIRE (GBONYIN),75342,72657,147999,2006 Census population distribution by LGA,43
+lga,EKITI STATE,B,Ekiti Central,3,EFON,43587,43600,87187,2006 Census population distribution by LGA,43
+lga,EKITI STATE,C,Ekiti South,4,EKITI EAST,70022,68318,138340,2006 Census population distribution by LGA,43
+lga,EKITI STATE,C,Ekiti South,5,EKITI SOUTH WEST,83416,81671,165087,2006 Census population distribution by LGA,43
+lga,EKITI STATE,B,Ekiti Central,6,EKITI WEST,91241,88359,179600,2006 Census population distribution by LGA,43
+lga,EKITI STATE,C,Ekiti South,7,EMURE,47767,46497,94264,2006 Census population distribution by LGA,43
+lga,EKITI STATE,A,Ekiti North,8,IDO-OSI,81461,78540,160001,2006 Census population distribution by LGA,43
+lga,EKITI STATE,B,Ekiti Central,9,IJERO,112363,109510,221873,2006 Census population distribution by LGA,43
+lga,EKITI STATE,C,Ekiti South,10,IKERE,69252,79306,148558,2006 Census population distribution by LGA,43
+lga,EKITI STATE,A,Ekiti North,11,IKOLE,86873,83541,170414,2006 Census population distribution by LGA,43
+lga,EKITI STATE,A,Ekiti North,12,ILEJEMEJI,22010,21449,43459,2006 Census population distribution by LGA,43
+lga,EKITI STATE,B,Ekiti Central,13,IREPODUN/IFELODUN,66289,65041,131330,2006 Census population distribution by LGA,43
+lga,EKITI STATE,C,Ekiti South,14,ISE/ORUN,57743,56208,113951,2006 Census population distribution by LGA,43
+lga,EKITI STATE,A,Ekiti North,15,MOBA,75747,69661,145408,2006 Census population distribution by LGA,43
+lga,EKITI STATE,A,Ekiti North,16,OYE,69811,67985,137796,2006 Census population distribution by LGA,43
+lga,LAGOS STATE,C,Lagos Weast,1,AGEGE,238456,223287,461743,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,C,Lagos Weast,2,AJEROMI-IFELODUN,352273,335043,687316,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,C,Lagos Weast,3,ALIMOSHO,665750,653821,1319571,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,C,Lagos Weast,4,AMUWO-ODOFIN,173742,155233,328975,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,A,Lagos Central,5,APAPA,123163,99823,222986,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,C,Lagos Weast,6,BADAGRY,119821,117910,237731,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,B,Lagos East,7,EPE,91925,89809,181734,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,A,Lagos Central,8,ETI-OSA,158858,124933,283791,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,B,Lagos East,9,IBEJU/LEKKI,60729,57064,117793,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,C,Lagos Weast,10,IFAKO-IJAYE,219109,208628,427737,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,C,Lagos Weast,11,IKEJA,171782,145832,317614,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,B,Lagos East,12,IKORODU,268463,259454,527917,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,B,Lagos East,13,KOSOFE,358935,323837,682772,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,A,Lagos Central,14,LAGOS ISLAND,110042,102658,212700,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,A,Lagos Central,15,LAGOS MAINLAND,170568,156132,326700,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,C,Lagos Weast,16,MUSHIN,326873,304984,631857,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,C,Lagos Weast,17,OJO,315401,293772,609173,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,C,Lagos Weast,18,OSHODI-ISOLO,325207,303854,629061,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,B,Lagos East,19,SHOMOLU,207519,196050,403569,2006 Census population distribution by LGA,44
+lga,LAGOS STATE,A,Lagos Central,20,SURULERE,260509,242356,502865,2006 Census population distribution by LGA,44
+lga,OGUN STATE,A,Ogun Central,1,ABEOKUTA NORTH,96463,102330,198793,2006 Census population distribution by LGA,45
+lga,OGUN STATE,A,Ogun Central,2,ABEOKUTA SOUTH,119977,130318,250295,2006 Census population distribution by LGA,45
+lga,OGUN STATE,C,Ogun West,3,ADO-ODO/OTA,261523,265719,527242,2006 Census population distribution by LGA,45
+lga,OGUN STATE,C,Ogun West,4,EGBADO NORTH,89880,93964,183844,2006 Census population distribution by LGA,45
+lga,OGUN STATE,C,Ogun West,5,EGBADO SOUTH,81666,86670,168336,2006 Census population distribution by LGA,45
+lga,OGUN STATE,A,Ogun Central,6,EWEKORO,28212,26881,55093,2006 Census population distribution by LGA,45
+lga,OGUN STATE,A,Ogun Central,7,IFO,269206,269964,539170,2006 Census population distribution by LGA,45
+lga,OGUN STATE,B,Ogun East,8,IJEBU EAST,56981,52340,109321,2006 Census population distribution by LGA,45
+lga,OGUN STATE,B,Ogun East,9,IJEBU NORTH,141074,139446,280520,2006 Census population distribution by LGA,45
+lga,OGUN STATE,B,Ogun East,10,IJEBU NORTH EAST,34581,34219,68800,2006 Census population distribution by LGA,45
+lga,OGUN STATE,B,Ogun East,11,IJEBU ODE,76466,80695,157161,2006 Census population distribution by LGA,45
+lga,OGUN STATE,B,Ogun East,12,IKENNE,60607,58510,119117,2006 Census population distribution by LGA,45
+lga,OGUN STATE,C,Ogun West,13,IMEKO-AFON,41850,41102,82952,2006 Census population distribution by LGA,45
+lga,OGUN STATE,C,Ogun West,14,IPOKIA,74649,75738,150387,2006 Census population distribution by LGA,45
+lga,OGUN STATE,A,Ogun Central,15,OBAFEMI-OWODE,118574,116497,235071,2006 Census population distribution by LGA,45
+lga,OGUN STATE,A,Ogun Central,16,ODEDA,55200,54322,109522,2006 Census population distribution by LGA,45
+lga,OGUN STATE,B,Ogun East,17,ODOGBOLU,63838,61819,125657,2006 Census population distribution by LGA,45
+lga,OGUN STATE,B,Ogun East,18,OGUN WATERSIDE,37412,36810,74222,2006 Census population distribution by LGA,45
+lga,OGUN STATE,B,Ogun East,19,REMO NORTH,29893,29859,59752,2006 Census population distribution by LGA,45
+lga,OGUN STATE,B,Ogun East,20,SHAGAMU,126855,129030,255885,2006 Census population distribution by LGA,45
+lga,ONDO STATE,A,Ondo North,1,AKOKO NORTH EAST,92456,86636,179092,2006 Census population distribution by LGA,46
+lga,ONDO STATE,A,Ondo North,2,AKOKO NORTH WEST,107076,104791,211867,2006 Census population distribution by LGA,46
+lga,ONDO STATE,A,Ondo North,3,AKOKO SOUTH EAST,42175,40268,82443,2006 Census population distribution by LGA,46
+lga,ONDO STATE,A,Ondo North,4,AKOKO SOUTH WEST,114733,113650,228383,2006 Census population distribution by LGA,46
+lga,ONDO STATE,B,Ondo Central,5,AKURE NORTH,66526,64239,130765,2006 Census population distribution by LGA,46
+lga,ONDO STATE,B,Ondo Central,6,AKURE SOUTH,178672,181596,360268,2006 Census population distribution by LGA,46
+lga,ONDO STATE,C,Ondo South,7,ESE-ODO,79812,78444,158256,2006 Census population distribution by LGA,46
+lga,ONDO STATE,B,Ondo Central,8,IDANRE,67531,62264,129795,2006 Census population distribution by LGA,46
+lga,ONDO STATE,B,Ondo Central,9,IFEDORE,89574,86798,176372,2006 Census population distribution by LGA,46
+lga,ONDO STATE,C,Ondo South,10,ILAJE,146859,142979,289838,2006 Census population distribution by LGA,46
+lga,ONDO STATE,C,Ondo South,11,ILE-OLUJI-OKEIGBO,87104,84772,171876,2006 Census population distribution by LGA,46
+lga,ONDO STATE,C,Ondo South,12,IRELE,72861,71275,144136,2006 Census population distribution by LGA,46
+lga,ONDO STATE,C,Ondo South,13,ODIGBO,116299,115988,232287,2006 Census population distribution by LGA,46
+lga,ONDO STATE,C,Ondo South,14,OKITIPUPA,117594,116544,234138,2006 Census population distribution by LGA,46
+lga,ONDO STATE,B,Ondo Central,15,ONDO EAST,38851,37241,76092,2006 Census population distribution by LGA,46
+lga,ONDO STATE,B,Ondo Central,16,ONDO WEST,141759,147109,288868,2006 Census population distribution by LGA,46
+lga,ONDO STATE,A,Ondo North,17,OSE,73119,71020,144139,2006 Census population distribution by LGA,46
+lga,ONDO STATE,A,Ondo North,18,OWO,112056,110206,222262,2006 Census population distribution by LGA,46
+lga,OSUN STATE,C,Osun West,1,AIYEDADE,76032,73537,149569,2006 Census population distribution by LGA,47
+lga,OSUN STATE,C,Osun West,2,AIYEDIRE,38299,38010,76309,2006 Census population distribution by LGA,47
+lga,OSUN STATE,B,Osun East,3,ATAKUMOSA EAST,38945,37160,76105,2006 Census population distribution by LGA,47
+lga,OSUN STATE,B,Osun East,4,ATAKUMOSA WEST,34859,33491,68350,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,5,BOLUWADURO,36045,34909,70954,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,6,BORIPE,71052,67690,138742,2006 Census population distribution by LGA,47
+lga,OSUN STATE,C,Osun West,7,EDE NORTH,42282,41536,83818,2006 Census population distribution by LGA,47
+lga,OSUN STATE,C,Osun West,8,EDE SOUTH,38233,37256,75489,2006 Census population distribution by LGA,47
+lga,OSUN STATE,C,Osun West,9,EGBEDORE,37302,36667,73969,2006 Census population distribution by LGA,47
+lga,OSUN STATE,C,Osun West,10,EJIGBO,67437,65078,132515,2006 Census population distribution by LGA,47
+lga,OSUN STATE,B,Osun East,11,IFE CENTRAL,88403,78801,167204,2006 Census population distribution by LGA,47
+lga,OSUN STATE,B,Osun East,12,IFE EAST,95106,93508,188614,2006 Census population distribution by LGA,47
+lga,OSUN STATE,B,Osun East,13,IFE NORTH,76852,76422,153274,2006 Census population distribution by LGA,47
+lga,OSUN STATE,B,Osun East,14,IFE SOUTH,68450,66040,134490,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,15,IFEDAYO,19227,18281,37508,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,16,IFELODUN,48567,47877,96444,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,17,ILA,31488,30566,62054,2006 Census population distribution by LGA,47
+lga,OSUN STATE,B,Osun East,18,ILESHA EAST,52721,52695,105416,2006 Census population distribution by LGA,47
+lga,OSUN STATE,B,Osun East,19,ILESHA WEST,52985,53824,106809,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,20,IREPODUN,60553,59037,119590,2006 Census population distribution by LGA,47
+lga,OSUN STATE,C,Osun West,21,IREWOLE,71730,71076,142806,2006 Census population distribution by LGA,47
+lga,OSUN STATE,C,Osun West,22,ISOKAN,51304,50756,102060,2006 Census population distribution by LGA,47
+lga,OSUN STATE,C,Osun West,23,IWO,96419,94929,191348,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,24,OBOKUN,59587,57263,116850,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,25,ODO-OTIN,67956,64122,132078,2006 Census population distribution by LGA,47
+lga,OSUN STATE,C,Osun West,26,OLA-OLUWA,39233,36994,76227,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,27,OLORUNDA,66684,64965,131649,2006 Census population distribution by LGA,47
+lga,OSUN STATE,B,Osun East,28,ORIADE,75213,73166,148379,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,29,OROLU,52790,50042,102832,2006 Census population distribution by LGA,47
+lga,OSUN STATE,A,Osun Central,30,OSOGBO,78395,77112,155507,2006 Census population distribution by LGA,47
+lga,OYO STATE,A,Oyo Central,1,AFIJIO,66434,65750,132184,2006 Census population distribution by LGA,48
+lga,OYO STATE,A,Oyo Central,2,AKINYELE,105594,106217,211811,2006 Census population distribution by LGA,48
+lga,OYO STATE,A,Oyo Central,3,ATIBA,84266,83980,168246,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,4,ATIGBO,56747,53218,109965,2006 Census population distribution by LGA,48
+lga,OYO STATE,A,Oyo Central,5,EGBEDA,137527,146116,283643,2006 Census population distribution by LGA,48
+lga,OYO STATE,C,Oyo South,6,IBADAN CENTRAL [IBADAN NORTH EAST],163844,167600,331444,2006 Census population distribution by LGA,48
+lga,OYO STATE,C,Oyo South,7,IBADAN NORTH,152608,155511,308119,2006 Census population distribution by LGA,48
+lga,OYO STATE,C,Oyo South,8,IBADAN NORTH WEST,75410,78619,154029,2006 Census population distribution by LGA,48
+lga,OYO STATE,C,Oyo South,9,IBADAN SOUTH EAST,130334,136123,266457,2006 Census population distribution by LGA,48
+lga,OYO STATE,C,Oyo South,10,IBADAN SOUTH WEST,139622,143476,283098,2006 Census population distribution by LGA,48
+lga,OYO STATE,C,Oyo South,11,IBARAPA CENTRAL,52094,51149,103243,2006 Census population distribution by LGA,48
+lga,OYO STATE,C,Oyo South,12,IBARAPA EAST,59315,57867,117182,2006 Census population distribution by LGA,48
+lga,OYO STATE,C,Oyo South,13,IBARAPA NORTH,51272,49021,100293,2006 Census population distribution by LGA,48
+lga,OYO STATE,C,Oyo South,14,IDO,52465,51622,104087,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,15,IREPO,62601,58639,121240,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,16,ISEYIN,129268,126351,255619,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,17,ITESIWAJU,65820,61571,127391,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,18,IWAJOWA,52472,50375,102847,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,19,KAJOLA,101188,99340,200528,2006 Census population distribution by LGA,48
+lga,OYO STATE,A,Oyo Central,20,LAGELU,74220,73913,148133,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,21,OGBOMOSHO NORTH,103418,95441,198859,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,22,OGBOMOSHO SOUTH,50862,49517,100379,2006 Census population distribution by LGA,48
+lga,OYO STATE,A,Oyo Central,23,OGO OLUWA,33403,31795,65198,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,24,OLORUNSOGO,41795,39544,81339,2006 Census population distribution by LGA,48
+lga,OYO STATE,A,Oyo Central,25,OLUYOLE,102371,101090,203461,2006 Census population distribution by LGA,48
+lga,OYO STATE,A,Oyo Central,26,ONA-ARA,130615,134956,265571,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,27,ORELOPE,52996,51008,104004,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,28,ORI IRE,76465,72943,149408,2006 Census population distribution by LGA,48
+lga,OYO STATE,A,Oyo Central,29,OYO EAST,62147,61948,124095,2006 Census population distribution by LGA,48
+lga,OYO STATE,A,Oyo Central,30,OYO WEST,68897,67560,136457,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,31,SAKI EAST,56014,52943,108957,2006 Census population distribution by LGA,48
+lga,OYO STATE,B,Oyo North,32,SAKI WEST,138677,134591,273268,2006 Census population distribution by LGA,48
+lga,OYO STATE,A,Oyo Central,33,SURULERE,71671,68668,140339,2006 Census population distribution by LGA,48
+lga,ABIA STATE,C,Abia South,1,ABA NORTH,53016,53828,106844,2006 Census population distribution by LGA,50
+lga,ABIA STATE,C,Abia South,2,ABA SOUTH,220541,206880,427421,2006 Census population distribution by LGA,50
+lga,ABIA STATE,A,Abia North,3,AROCHUKWU,85695,83644,169339,2006 Census population distribution by LGA,50
+lga,ABIA STATE,A,Abia North,4,BENDE,95675,96946,192621,2006 Census population distribution by LGA,50
+lga,ABIA STATE,B,Abia Central,5,IKWUANO,70509,67388,137897,2006 Census population distribution by LGA,50
+lga,ABIA STATE,B,Abia Central,6,ISIALA-NGWA NORTH,76261,77822,154083,2006 Census population distribution by LGA,50
+lga,ABIA STATE,B,Abia Central,7,ISIALA-NGWA SOUTH,67205,69445,136650,2006 Census population distribution by LGA,50
+lga,ABIA STATE,A,Abia North,8,ISIUKWUATO,56660,59134,115794,2006 Census population distribution by LGA,50
+lga,ABIA STATE,C,Abia South,9,OBI NGWA,89593,92301,181894,2006 Census population distribution by LGA,50
+lga,ABIA STATE,A,Abia North,10,OHAFIA,124416,121571,245987,2006 Census population distribution by LGA,50
+lga,ABIA STATE,B,Abia Central,11,OSISIOMA NGWA,110790,109872,220662,2006 Census population distribution by LGA,50
+lga,ABIA STATE,C,Abia South,12,UGWUNAGBO,42801,42570,85371,2006 Census population distribution by LGA,50
+lga,ABIA STATE,C,Abia South,13,UKWA EAST,29410,28729,58139,2006 Census population distribution by LGA,50
+lga,ABIA STATE,C,Abia South,14,UKWA WEST,44149,43218,87367,2006 Census population distribution by LGA,50
+lga,ABIA STATE,B,Abia Central,15,UMUAHIA NORTH,112595,110539,223134,2006 Census population distribution by LGA,50
+lga,ABIA STATE,B,Abia Central,16,UMUAHIA SOUTH,68950,70108,139058,2006 Census population distribution by LGA,50
+lga,ABIA STATE,A,Abia North,17,UMU-NNEOCHI,82032,81087,163119,2006 Census population distribution by LGA,50
+lga,ANAMBRA STATE,C,Anambra South,1,AGUATA,187262,182710,369972,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,A,Anambra North,2,ANAMBRA EAST,77539,74610,152149,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,A,Anambra North,3,ANAMBRA WEST,85833,81470,167303,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,B,Anambra Central,4,ANAOCHA,142961,141254,284215,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,B,Anambra Central,5,AWKA NORTH,57219,54973,112192,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,B,Anambra Central,6,AWKA SOUTH,96902,92752,189654,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,A,Anambra North,7,AYAMELUM,81065,77087,158152,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,B,Anambra Central,8,DUNUKOFIA,49476,47041,96517,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,C,Anambra South,9,EKWUSIGO,80053,78376,158429,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,B,Anambra Central,10,IDEMILI NORTH,219223,211782,431005,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,B,Anambra Central,11,IDEMILI SOUTH,105830,100986,206816,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,C,Anambra South,12,IHIALA,152200,150077,302277,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,B,Anambra Central,13,NJIKOKA,73869,74525,148394,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,C,Anambra South,14,NNEWI NORTH,77517,77926,155443,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,C,Anambra South,15,NNEWI SOUTH,118532,114830,233362,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,A,Anambra North,16,OGBARU,115678,107639,223317,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,A,Anambra North,17,ONITSHA NORTH,61588,64330,125918,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,A,Anambra North,18,ONITSHA SOUTH,71348,65843,137191,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,C,Anambra South,19,ORUMBA NORTH,84996,87777,172773,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,C,Anambra South,20,ORUMBA SOUTH,93199,91349,184548,2006 Census population distribution by LGA,51
+lga,ANAMBRA STATE,A,Anambra North,21,OYI,85694,82507,168201,2006 Census population distribution by LGA,51
+lga,EBONYI STATE,A,Ebonyi North,1,ABAKALIKI,72518,77165,149683,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,C,Ebonyi South,2,AFIKPO NORTH,80632,76017,156649,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,C,Ebonyi South,3,AFIKPO SOUTH,79093,78449,157542,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,A,Ebonyi North,4,EBONYI,60388,66838,127226,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,B,Ebonyi Central,5,EZZA NORTH,70341,75808,146149,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,B,Ebonyi Central,6,EZZA SOUTH,66373,67252,133625,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,B,Ebonyi Central,7,IKWO,99855,115114,214969,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,B,Ebonyi Central,8,ISHIELU,72671,79910,152581,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,C,Ebonyi South,9,IVO,62049,59314,121363,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,A,Ebonyi North,10,IZZI,112832,123847,236679,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,C,Ebonyi South,11,OHAOZARA,75093,73224,148317,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,A,Ebonyi North,12,OHAUKWU,94479,101076,195555,2006 Census population distribution by LGA,52
+lga,EBONYI STATE,C,Ebonyi South,13,ONICHA,117832,118777,236609,2006 Census population distribution by LGA,52
+lga,ENUGU STATE,B,Enugu West,1,ANINRI,66225,69996,136221,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,B,Enugu West,2,AWGU,96132,101160,197292,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,A,Enugu East,3,ENUGU EAST,131214,145905,277119,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,A,Enugu East,4,ENUGU NORTH,118895,123245,242140,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,A,Enugu East,5,ENUGU SOUTH,93758,104274,198032,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,B,Enugu West,6,EZEAGU,84466,86137,170603,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,C,Enugu North,7,IGBO-ETITI,105262,103071,208333,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,C,Enugu North,8,IGBO-EZE NORTH,126069,132760,258829,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,C,Enugu North,9,IGBO-EZE SOUTH,72619,74745,147364,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,A,Enugu East,10,ISI-UZO,72497,76100,148597,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,A,Enugu East,11,NKANU EAST,75008,78583,153591,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,A,Enugu East,12,NKANU WEST,72706,74679,147385,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,C,Enugu North,13,NSUKKA,149418,160030,309448,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,B,Enugu West,14,OJI-RIVER,61719,67022,128741,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,C,Enugu North,15,UDENU,88381,90306,178687,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,B,Enugu West,16,UDI,117914,120391,238305,2006 Census population distribution by LGA,53
+lga,ENUGU STATE,C,Enugu North,17,UZO-UWANI,63759,63391,127150,2006 Census population distribution by LGA,53
+lga,IMO STATE,A,Imo East,1,ABOH-MBAISE,98480,96299,194779,2006 Census population distribution by LGA,54
+lga,IMO STATE,A,Imo East,2,AHIAZU-MBAISE,86326,84498,170824,2006 Census population distribution by LGA,54
+lga,IMO STATE,C,Imo North,3,EHIME-MBANO,65237,65338,130575,2006 Census population distribution by LGA,54
+lga,IMO STATE,A,Imo East,4,EZINIHITTE,84725,84042,168767,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,5,IDEATO NORTH,78753,77408,156161,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,6,IDEATO SOUTH,81125,78529,159654,2006 Census population distribution by LGA,54
+lga,IMO STATE,C,Imo North,7,IHITTE/UBOMA,60492,58927,119419,2006 Census population distribution by LGA,54
+lga,IMO STATE,A,Imo East,8,IKEDURU,75025,74712,149737,2006 Census population distribution by LGA,54
+lga,IMO STATE,C,Imo North,9,ISIALA MBANO,100835,97086,197921,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,10,ISU,84299,80029,164328,2006 Census population distribution by LGA,54
+lga,IMO STATE,A,Imo East,11,MBAITOLI,118959,118515,237474,2006 Census population distribution by LGA,54
+lga,IMO STATE,A,Imo East,12,NGOR-OKPALA,78829,79029,157858,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,13,NJABA,72401,71084,143485,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,14,NKWERRE,40845,39425,80270,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,15,NWANGELE,65022,62669,127691,2006 Census population distribution by LGA,54
+lga,IMO STATE,C,Imo North,16,OBOWO,58204,59228,117432,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,17,OGUTA,72549,69791,142340,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,18,OHAJI/EGBEMA,92604,90287,182891,2006 Census population distribution by LGA,54
+lga,IMO STATE,C,Imo North,19,OKIGWE,67660,65041,132701,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,20,ORLU,69632,73160,142792,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,21,ORSU,60490,59734,120224,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,22,ORU EAST,56148,55595,111743,2006 Census population distribution by LGA,54
+lga,IMO STATE,B,Imo West,23,ORU WEST,59108,56596,115704,2006 Census population distribution by LGA,54
+lga,IMO STATE,A,Imo East,24,OWERRI NORTH,87094,89240,176334,2006 Census population distribution by LGA,54
+lga,IMO STATE,A,Imo East,25,OWERRI WEST,49968,51786,101754,2006 Census population distribution by LGA,54
+lga,IMO STATE,A,Imo East,26,OWERRI-MUNICIPAL,60882,64455,125337,2006 Census population distribution by LGA,54
+lga,IMO STATE,C,Imo North,27,UNUIMO,50779,48589,99368,2006 Census population distribution by LGA,54
+lga,AKWA IBOM STATE,B,Akwa Ibom North West,1,ABAK,70305,68764,139069,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,2,EASTERN OBOLO,30229,29741,59970,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,3,EKET,89006,83850,172856,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,4,ESIT-EKET,32189,31169,63358,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,B,Akwa Ibom North West,5,ESSIEN UDIM,97888,95369,193257,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,B,Akwa Ibom North West,6,ETIM EKPO,53514,52408,105922,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,A,Akwa Ibom North East,7,ETINAN,85760,83164,168924,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,8,IBENO,40006,34834,74840,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,A,Akwa Ibom North East,9,IBESIKPO ASUTAN,69681,67446,137127,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,A,Akwa Ibom North East,10,IBIONO IBOM,96106,92499,188605,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,B,Akwa Ibom North West,11,IKA,36996,35776,72772,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,B,Akwa Ibom North West,12,IKONO,66080,65593,131673,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,13,IKOT ABASI,67806,64802,132608,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,B,Akwa Ibom North West,14,IKOT EKPENE,71738,69670,141408,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,B,Akwa Ibom North West,15,INI,50108,48976,99084,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,A,Akwa Ibom North East,16,ITU,65410,62446,127856,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,17,MBO,52351,49822,102173,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,18,MKPAT ENIN,89283,88010,177293,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,A,Akwa Ibom North East,19,NSIT ATAI,37186,36209,73395,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,A,Akwa Ibom North East,20,NSIT IBOM,55197,52898,108095,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,A,Akwa Ibom North East,21,NSIT UBIUM,64674,62409,127083,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,B,Akwa Ibom North West,22,OBOT AKARA,74392,72894,147286,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,234,OKOBO,52395,50358,102753,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,24,ONNA,61413,61780,123193,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,256,ORON,44545,42664,87209,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,B,Akwa Ibom North West,27,ORUK ANAM,86863,84976,171839,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,28,UDUNG UKO,27613,25447,53060,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,B,Akwa Ibom North West,29,UKANAFUN,63308,62165,125473,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,A,Akwa Ibom North East,30,URUAN,59254,57915,117169,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,C,,31,URUE-OFFONG/ORUKO,36208,34532,70740,2006 Census population distribution by LGA,56
+lga,AKWA IBOM STATE,A,Akwa Ibom North East,32,UYO,155698,150263,305961,2006 Census population distribution by LGA,56
+lga,BAYELSA STATE,A,Bayelsa East,1,BRASS,94359,89768,184127,2006 Census population distribution by LGA,57
+lga,BAYELSA STATE,C,Bayelsa West,2,EKEREMOR,137753,131835,269588,2006 Census population distribution by LGA,57
+lga,BAYELSA STATE,B,Bayelsa Central,3,KOLOKUMA/OPOKUMA,39952,39314,79266,2006 Census population distribution by LGA,57
+lga,BAYELSA STATE,A,Bayelsa East,4,NEMBE,66768,64198,130966,2006 Census population distribution by LGA,57
+lga,BAYELSA STATE,A,Bayelsa East,5,OGBIA,92015,87591,179606,2006 Census population distribution by LGA,57
+lga,BAYELSA STATE,C,Bayelsa West,6,SAGBAMA,95667,91202,186869,2006 Census population distribution by LGA,57
+lga,BAYELSA STATE,B,Bayelsa Central,7,SOUTHERN IJAW,165329,156479,321808,2006 Census population distribution by LGA,57
+lga,BAYELSA STATE,B,Bayelsa Central,8,YENEGOA,182240,170045,352285,2006 Census population distribution by LGA,57
+lga,CROSS RIVER STATE,B,Cross River Central,1,ABI,73077,71240,144317,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,C,Cross River,2,AKAMKPA,76921,72784,149705,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,C,Cross River,3,AKPABUYO,141602,130660,272262,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,C,Cross River,4,BAKASSI,18175,13466,31641,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,A,Cross River North,5,BEKWARA,52914,52583,105497,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,C,Cross River,6,BIASE,85625,82488,168113,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,B,Cross River Central,7,BOKI,95154,91457,186611,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,C,Cross River,8,CALABAR-MUNICIPAL,93092,90589,183681,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,C,Cross River,9,CALABAR SOUTH,94584,96931,191515,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,B,Cross River Central,10,ETUNG,41089,38947,80036,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,B,Cross River Central,11,IKOM,82646,81045,163691,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,A,Cross River North,12,OBANLIKU,55998,53635,109633,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,B,Cross River Central,13,OBUBRA,87153,85390,172543,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,A,Cross River North,14,OBUDU,81537,79920,161457,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,C,Cross River,15,ODUKPANI,100697,92187,192884,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,A,Cross River North,16,OGOJA,86802,84772,171574,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,B,Cross River Central,17,YAKURR,99485,96786,196271,2006 Census population distribution by LGA,58
+lga,CROSS RIVER STATE,A,Cross River North,18,YALA,105416,106141,211557,2006 Census population distribution by LGA,58
+lga,DELTA STATE,B,Delta North,1,ANIOCHA NORTH,52448,51614,104062,2006 Census population distribution by LGA,59
+lga,DELTA STATE,B,Delta North,2,ANIOCHA SOUTH,69224,72821,142045,2006 Census population distribution by LGA,59
+lga,DELTA STATE,C,Delta South,3,BOMADI,43435,42581,86016,2006 Census population distribution by LGA,59
+lga,DELTA STATE,C,Delta South,4,BURUTU,106169,101808,207977,2006 Census population distribution by LGA,59
+lga,DELTA STATE,A,Delta Central,5,ETHIOPE EAST,101596,99346,200942,2006 Census population distribution by LGA,59
+lga,DELTA STATE,A,Delta Central,6,ETHIOPE WEST,102750,99962,202712,2006 Census population distribution by LGA,59
+lga,DELTA STATE,B,Delta North,7,IKA NORTH EAST,91431,91388,182819,2006 Census population distribution by LGA,59
+lga,DELTA STATE,B,Delta North,8,IKA SOUTH,82214,84846,167060,2006 Census population distribution by LGA,59
+lga,DELTA STATE,C,Delta South,9,ISOKO NORTH,71948,71611,143559,2006 Census population distribution by LGA,59
+lga,DELTA STATE,C,Delta South,10,ISOKO SOUTH,119167,115980,235147,2006 Census population distribution by LGA,59
+lga,DELTA STATE,B,Delta North,11,NDOKWA EAST,52306,50918,103224,2006 Census population distribution by LGA,59
+lga,DELTA STATE,B,Delta North,12,NDOKWA WEST,73842,76182,150024,2006 Census population distribution by LGA,59
+lga,DELTA STATE,A,Delta Central,13,OKPE,65270,63128,128398,2006 Census population distribution by LGA,59
+lga,DELTA STATE,B,Delta North,14,OSHIMILI NORTH,58101,60439,118540,2006 Census population distribution by LGA,59
+lga,DELTA STATE,B,Delta North,15,OSHIMILI SOUTH,76078,73954,150032,2006 Census population distribution by LGA,59
+lga,DELTA STATE,C,Delta South,16,PATANI,34307,33084,67391,2006 Census population distribution by LGA,59
+lga,DELTA STATE,A,Delta Central,17,SAPELE,86167,88106,174273,2006 Census population distribution by LGA,59
+lga,DELTA STATE,A,Delta Central,18,UDU,71813,70667,142480,2006 Census population distribution by LGA,59
+lga,DELTA STATE,A,Delta Central,19,UGHELLI NORTH,160550,160137,320687,2006 Census population distribution by LGA,59
+lga,DELTA STATE,A,Delta Central,20,UGHELLI SOUTH,107730,104908,212638,2006 Census population distribution by LGA,59
+lga,DELTA STATE,B,Delta North,21,UKWUANI,58890,60144,119034,2006 Census population distribution by LGA,59
+lga,DELTA STATE,A,Delta Central,22,UVWIE,93999,94729,188728,2006 Census population distribution by LGA,59
+lga,DELTA STATE,C,Delta South,23,WARRI NORTH,70446,65703,136149,2006 Census population distribution by LGA,59
+lga,DELTA STATE,C,Delta South,24,WARRI SOUTH,158402,153568,311970,2006 Census population distribution by LGA,59
+lga,DELTA STATE,C,Delta South,25,WARRI SOUTH WEST,61026,55512,116538,2006 Census population distribution by LGA,59
+lga,EDO STATE,B,Edo North,1,AKOKO-EDO,132184,129383,261567,2006 Census population distribution by LGA,60
+lga,EDO STATE,C,Edo South,2,EGOR,168925,171362,340287,2006 Census population distribution by LGA,60
+lga,EDO STATE,A,Edo Central,3,ESAN CENTRAL,53017,52225,105242,2006 Census population distribution by LGA,60
+lga,EDO STATE,A,Edo Central,4,ESAN NORTH EAST,61647,60342,121989,2006 Census population distribution by LGA,60
+lga,EDO STATE,A,Edo Central,5,ESAN SOUTH EAST,84587,81722,166309,2006 Census population distribution by LGA,60
+lga,EDO STATE,A,Edo Central,6,ESAN WEST,65312,62406,127718,2006 Census population distribution by LGA,60
+lga,EDO STATE,B,Edo North,7,ETSAKO CENTRAL,47708,46520,94228,2006 Census population distribution by LGA,60
+lga,EDO STATE,B,Edo North,8,ETSAKO EAST,72477,74858,147335,2006 Census population distribution by LGA,60
+lga,EDO STATE,B,Edo North,9,ETSAKO WEST,100986,97989,198975,2006 Census population distribution by LGA,60
+lga,EDO STATE,A,Edo Central,10,IGUEBEN,35132,35144,70276,2006 Census population distribution by LGA,60
+lga,EDO STATE,C,Edo South,11,IKPOBA-OKHA,184725,187355,372080,2006 Census population distribution by LGA,60
+lga,EDO STATE,C,Edo South,12,OREDO,188895,185620,374515,2006 Census population distribution by LGA,60
+lga,EDO STATE,C,Edo South,13,ORHIONMWON,92433,91561,183994,2006 Census population distribution by LGA,60
+lga,EDO STATE,C,Edo South,14,OVIA NORTH EAST,80433,74911,155344,2006 Census population distribution by LGA,60
+lga,EDO STATE,C,Edo South,15,OVIA SOUTH WEST,72113,65959,138072,2006 Census population distribution by LGA,60
+lga,EDO STATE,B,Edo North,16,OWAN EAST,78890,75740,154630,2006 Census population distribution by LGA,60
+lga,EDO STATE,B,Edo North,17,OWAN WEST,50755,48301,99056,2006 Census population distribution by LGA,60
+lga,EDO STATE,C,Edo South,18,UHUNMWONDE,63727,58022,121749,2006 Census population distribution by LGA,60
+lga,RIVERS STATE,C,Rivers West,1,ABUA/ODUAL,145243,137167,282410,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,C,Rivers West,2,AHOADA EAST,85467,80857,166324,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,C,Rivers West,3,AHOADA WEST,127906,121326,249232,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,C,Rivers West,4,AKUKU TORU,82949,78154,161103,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,B,Rivers South East,5,ANDONI,111946,105978,217924,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,C,Rivers West,6,ASARI-TORU,112283,107504,219787,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,C,Rivers West,7,BONNY,116340,98643,214983,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,C,Rivers West,8,DEGEMA,128041,121426,249467,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,B,Rivers South East,9,ELEME,98345,91849,190194,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,A,Rivers East,10,EMOHUA,102634,98423,201057,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,A,Rivers East,11,ETCHE,127869,122070,249939,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,B,Rivers South East,12,GOKANA,118222,115591,233813,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,A,Rivers East,13,IKWERRE,97575,91355,188930,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,B,Rivers South East,14,KHANA,147315,145609,292924,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,A,Rivers East,15,OBIA/AKPOR,238951,223399,462350,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,C,Rivers West,16,OGBA/EGBEMA/NDONI,145326,137968,283294,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,A,Rivers East,17,OGU/BOLO,38552,36730,75282,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,A,Rivers East,18,OKRIKA,113962,108323,222285,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,C,Rivers West,19,OMUMMA,50853,49535,100388,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,B,Rivers South East,20,OPOBO/NKORO,77556,75277,152833,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,B,Rivers South East,21,OYIGBO,63434,61897,125331,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,A,Rivers East,22,PORT-HARCOURT,280703,257855,538558,2006 Census population distribution by LGA,61
+lga,RIVERS STATE,B,Rivers South East,23,TAI,61554,58754,120308,2006 Census population distribution by LGA,61

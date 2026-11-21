@@ -1,0 +1,13 @@
+variable,label,unit,description
+level,Level,,"country, county or sub-county (the workbook's own words: County, Sub County)"
+county,County,,The county a sub-county lies in (column A as the workbook writes it); empty for the country and the counties
+unit,Unit,,"The unit's name as the workbook writes it (column B for sub-counties, column A for counties); a double space inside 13 names written as one"
+men,Men,persons,"Male population, August 2019 census (column D, Male)"
+women,Women,persons,"Female population, August 2019 census (column E, Female)"
+total,Total,persons,"Population, all persons, August 2019 census (column C, Total)"
+total_less_men_and_women,Total less men and women,persons,"Computed here: total minus men minus women. The workbook has no intersex column; the 2019 census counted intersex persons, which this difference may hold, but the workbook does not say so"
+land_area,Land area,square kilometres,"Column F, SQ.Km; for counties and the country, the sum of their sub-county rows"
+population_density,Population density,persons per square kilometre,"Column G, Pop density, as printed; empty where printed as - or .., and for the derived county and country rows"
+table,Table,,The workbook sheet the row was read from; empty for a derived row
+cells,Cells,,The workbook cells the row was read from; empty for a derived row
+read_from,Read from,,"cells, or what is unusual about the row: a derived sum, a value printed as - or .., a name respaced, or a row read from text"

@@ -1,0 +1,351 @@
+level,county,unit,men,women,total,total_less_men_and_women,land_area,population_density,table,cells,read_from
+sub-county,Mombasa,CHANGAMWE,68761,63121,131882,0,18,7457,Sheet1,A3:G3,cells
+sub-county,Mombasa,JOMVU,83002,80410,163415,3,37,4432,Sheet1,A4:G4,cells
+sub-county,Mombasa,KISAUNI,146748,145176,291930,6,88,3328,Sheet1,A5:G5,cells
+sub-county,Mombasa,LIKONI,126962,123392,250358,4,40,6187,Sheet1,A6:G6,cells
+sub-county,Mombasa,MVITA,75565,78601,154171,5,15,10543,Sheet1,A7:G7,cells
+sub-county,Mombasa,NYALI,109219,107346,216577,12,23,9610,Sheet1,A8:G8,cells
+sub-county,Kwale,KINANGO,45413,48806,94220,1,1612,58,Sheet1,A9:G9,cells
+sub-county,Kwale,LUNGA LUNGA,97174,101245,198423,4,2765,72,Sheet1,A10:G10,cells
+sub-county,Kwale,MATUGA,95831,98419,194252,2,1034,188,Sheet1,A11:G11,cells
+sub-county,Kwale,MSAMBWENI,89206,88480,177690,4,412,432,Sheet1,A12:G12,cells
+sub-county,Kwale,SAMBURU,97497,104731,202235,7,2430,83,Sheet1,A13:G13,cells
+sub-county,Kilifi,CHONYI,29527,32807,62335,1,193,324,Sheet1,A14:G14,cells
+sub-county,Kilifi,GANZE,66921,76981,143906,4,3218,45,Sheet1,A15:G15,cells
+sub-county,Kilifi,KALOLENI,92614,101063,193682,5,706,274,Sheet1,A16:G16,cells
+sub-county,Kilifi,KAUMA,10965,11673,22638,0,181,125,Sheet1,A17:G17,cells
+sub-county,Kilifi,KILIFI NORTH,86986,91836,178824,2,264,676,Sheet1,A18:G18,cells
+sub-county,Kilifi,KILIFI SOUTH,101852,104897,206753,4,290,712,Sheet1,A19:G19,cells
+sub-county,Kilifi,MAGARINI,93302,98308,191610,0,5229,37,Sheet1,A20:G20,cells
+sub-county,Kilifi,MALINDI,163351,169866,333226,9,2263,147,Sheet1,A21:G21,cells
+sub-county,Kilifi,RABAI,58571,62242,120813,0,208,581,Sheet1,A22:G22,cells
+sub-county,Tana River,TANA DELTA,55716,54924,110640,0,15432,7,Sheet1,A23:G23,cells
+sub-county,Tana River,TANA NORTH,59123,57632,116757,2,13305,9,Sheet1,A24:G24,cells
+sub-county,Tana River,TANA RIVER,43711,44835,88546,0,9167,10,Sheet1,A25:G25,cells
+sub-county,Lamu,LAMU EAST,11675,10583,22258,0,2338,10,Sheet1,A26:G26,cells
+sub-county,Lamu,LAMU WEST,64428,57230,121662,4,3945,31,Sheet1,A27:G27,cells
+sub-county,Taita Taveta,MWATATE,41426,40231,81659,2,2723,30,Sheet1,A28:G28,cells
+sub-county,Taita Taveta,TAITA,28386,27573,55959,0,478,117,Sheet1,A29:G29,cells
+sub-county,Taita Taveta,TAVETA,47410,43812,91222,0,6399,14,Sheet1,A30:G30,cells
+sub-county,Taita Taveta,VOI,56115,55711,111831,5,7553,15,Sheet1,A31:G31,cells
+sub-county,Garissa,BALAMBALA,20277,11979,32257,1,3684,9,Sheet1,A32:G32,cells
+sub-county,Garissa,DADAAB,99059,86185,185252,8,6415,29,Sheet1,A33:G33,cells
+sub-county,Garissa,FAFI,72617,61413,134040,10,15050,9,Sheet1,A34:G34,cells
+sub-county,Garissa,GARISSA,83460,80449,163914,5,3318,49,Sheet1,A35:G35,cells
+sub-county,Garissa,HULUGHO,78081,55898,133984,5,7737,17,Sheet1,A36:G36,cells
+sub-county,Garissa,IJARA,80458,61129,141591,4,2453,58,Sheet1,A37:G37,cells
+sub-county,Garissa,LAGDERA,25023,25291,50315,1,6096,8,Sheet1,A38:G38,cells
+sub-county,Wajir,BUNA,26796,23088,49886,2,3888,13,Sheet1,A39:G39,cells
+sub-county,Wajir,ELDAS,45028,44069,89104,7,4492,20,Sheet1,A40:G40,cells
+sub-county,Wajir,HABASWEIN,94613,79505,174134,16,10912,16,Sheet1,A41:G41,cells
+sub-county,Wajir,TARBAJ,26856,29776,56637,5,9608,6,Sheet1,A42:G42,cells
+sub-county,Wajir,WAJIR EAST,59359,51292,110654,3,4053,27,Sheet1,A43:G43,cells
+sub-county,Wajir,WAJIR NORTH,31990,30209,62206,7,4042,15,Sheet1,A44:G44,cells
+sub-county,Wajir,WAJIR SOUTH,64947,51864,116814,3,10734,11,Sheet1,A45:G45,cells
+sub-county,Wajir,WAJIR WEST,65785,56037,121828,6,9044,13,Sheet1,A46:G46,cells
+sub-county,Mandera,MANDERA WEST,48166,50130,98300,4,4018,24,Sheet1,A47:G47,cells
+sub-county,Mandera,BANISA,78301,74288,152598,9,3944,39,Sheet1,A48:G48,cells
+sub-county,Mandera,KOTULO,35799,36593,72394,2,2509,29,Sheet1,A49:G49,cells
+sub-county,Mandera,LAFEY,40476,42976,83457,5,3795,22,Sheet1,A50:G50,cells
+sub-county,Mandera,MANDERA CENTRAL,71688,85527,157220,5,4032,39,Sheet1,A51:G51,"name printed with a double space (""MANDERA  CENTRAL"")"
+sub-county,Mandera,MANDERA EAST,83538,76095,159638,5,2506,64,Sheet1,A52:G52,cells
+sub-county,Mandera,MANDERA NORTH,77008,66835,143850,7,5138,28,Sheet1,A53:G53,cells
+sub-county,Marsabit,LOIYANGALANI,17659,18051,35713,3,11789,3,Sheet1,A54:G54,cells
+sub-county,Marsabit,MARSABIT CENTRAL,40956,38214,79181,11,2143,37,Sheet1,A55:G55,"name printed with a double space (""MARSABIT  CENTRAL"")"
+sub-county,Marsabit,MARSABIT NORTH,30091,24205,54297,1,19837,3,Sheet1,A56:G56,cells
+sub-county,Marsabit,MARSABIT SOUTH,33215,32161,65376,0,8447,8,Sheet1,A57:G57,cells
+sub-county,Marsabit,MOYALE,56440,52508,108949,1,3327,33,Sheet1,A58:G58,cells
+sub-county,Marsabit,NORTH HORR,41719,29726,71447,2,19337,4,Sheet1,A59:G59,cells
+sub-county,Marsabit,SOLOLO,23468,21354,44822,0,6064,7,Sheet1,A60:G60,cells
+sub-county,Isiolo,GARBATULLA,54661,45068,99730,1,9902,10,Sheet1,A61:G61,cells
+sub-county,Isiolo,ISIOLO,60414,60647,121066,5,2691,45,Sheet1,A62:G62,cells
+sub-county,Isiolo,MERTI,24435,22768,47206,3,12756,4,Sheet1,A63:G63,cells
+sub-county,Meru,BUURI EAST,38101,38497,76598,0,333,230,Sheet1,A64:G64,cells
+sub-county,Meru,BUURI WEST,40496,40264,80762,2,639,126,Sheet1,A65:G65,cells
+sub-county,Meru,IGEMBE CENTRAL,111208,110200,221412,4,603,367,Sheet1,A66:G66,cells
+sub-county,Meru,IGEMBE NORTH,83364,85949,169317,4,1113,152,Sheet1,A67:G67,cells
+sub-county,Meru,IGEMBE SOUTH,80192,81446,161646,8,255,633,Sheet1,A68:G68,cells
+sub-county,Meru,IMENTI NORTH,88506,89056,177567,5,232,767,Sheet1,A69:G69,cells
+sub-county,Meru,IMENTI SOUTH,103338,103162,206506,6,418,494,Sheet1,A70:G70,cells
+sub-county,Meru,MERU CENTRAL,66920,66894,133818,4,377,355,Sheet1,A71:G71,cells
+sub-county,Meru,TIGANIA CENTRAL,51814,52916,104730,0,237,441,Sheet1,A72:G72,cells
+sub-county,Meru,TIGANIA EAST,35352,37194,72549,3,511,142,Sheet1,A73:G73,cells
+sub-county,Meru,TIGANIA WEST,67715,72241,139961,5,399,351,Sheet1,A74:G74,cells
+sub-county,Meru,MERU NATIONAL PARK,283,102,385,0,838,,Sheet1,A75:G75,density printed as ..
+sub-county,Meru,MT. KENYA FOREST,409,54,463,0,1060,,Sheet1,A76:G76,density printed as ..
+county,,THARAKA-NITHI,193764,199406,393177,7,2564,153,Sheet1,A77:G77,"printed among the sub-counties, tagged #admin2+name; it is the county total: it equals the sum of the six rows below it in total, men, women and land area"
+sub-county,Tharaka Nithi,IGAMBANG'OMBE,26464,26745,53210,1,323,165,Sheet1,A78:G78,cells
+sub-county,Tharaka Nithi,MAARA,57689,57205,114894,0,266,431,Sheet1,A79:G79,cells
+sub-county,Tharaka Nithi,MERU SOUTH,44923,46155,91080,2,139,656,Sheet1,A80:G80,cells
+sub-county,Tharaka Nithi,THARAKA NORTH,28290,30053,58345,2,839,70,Sheet1,A81:G81,cells
+sub-county,Tharaka Nithi,THARAKA SOUTH,36190,39058,75250,2,637,118,Sheet1,A82:G82,cells
+sub-county,Tharaka Nithi,MOUNT KENYA FOREST,208,190,398,0,360,1,Sheet1,A83:G83,cells
+sub-county,Embu,EMBU EAST,64571,64991,129564,2,253,512,Sheet1,A84:G84,cells
+sub-county,Embu,EMBU NORTH,39665,39888,79556,3,111,719,Sheet1,A85:G85,cells
+sub-county,Embu,EMBU WEST,63125,63966,127100,9,158,804,Sheet1,A86:G86,cells
+sub-county,Embu,MBEERE SOUTH,83311,80159,163476,6,1312,125,Sheet1,A87:G87,cells
+sub-county,Embu,MBEERE NORTH,53517,55360,108881,4,784,139,Sheet1,A88:G88,cells
+sub-county,Embu,MOUNT KENYA FOREST,19,3,22,0,203,,Sheet1,A89:G89,density printed as ..
+sub-county,Kitui,IKUTHA,39986,42976,82964,2,9033,9,Sheet1,A90:G90,cells
+sub-county,Kitui,KATULANI,23150,23957,47108,1,324,146,Sheet1,A91:G91,cells
+sub-county,Kitui,KISASI,22646,23496,46142,0,295,157,Sheet1,A92:G92,cells
+sub-county,Kitui,KITUI CENTRAL,52123,53863,105991,5,422,251,Sheet1,A93:G93,cells
+sub-county,Kitui,KITUI WEST,33887,36983,70871,1,416,170,Sheet1,A94:G94,cells
+sub-county,Kitui,KYUSO,36789,40077,76867,1,2525,30,Sheet1,A95:G95,cells
+sub-county,Kitui,LOWER YATTA,31701,31628,63329,0,1191,53,Sheet1,A96:G96,cells
+sub-county,Kitui,MATINYANI,23362,24448,47811,1,264,181,Sheet1,A97:G97,cells
+sub-county,Kitui,MIGWANI,37525,41726,79255,4,635,125,Sheet1,A98:G98,cells
+sub-county,Kitui,MUMONI,13748,15596,29344,0,611,48,Sheet1,A99:G99,cells
+sub-county,Kitui,MUTITU,26388,28896,55287,3,4710,12,Sheet1,A100:G100,cells
+sub-county,Kitui,MUTITU NORTH,10337,10877,21215,1,548,39,Sheet1,A101:G101,cells
+sub-county,Kitui,MUTOMO,54819,58531,113356,6,2853,40,Sheet1,A102:G102,cells
+sub-county,Kitui,MWINGI CENTRAL,52539,56174,108713,0,1146,95,Sheet1,A103:G103,cells
+sub-county,Kitui,MWINGI EAST,40314,44820,85139,5,3418,25,Sheet1,A104:G104,cells
+sub-county,Kitui,NZAMBANI,22929,23857,46788,2,320,146,Sheet1,A105:G105,cells
+sub-county,Kitui,THAGICU,7141,7994,15136,1,363,42,Sheet1,A106:G106,cells
+sub-county,Kitui,TSEIKURU,19619,21252,40871,0,1356,30,Sheet1,A107:G107,cells
+sub-county,Machakos,ATHI RIVER,164322,158172,322499,5,835,386,Sheet1,A108:G108,cells
+sub-county,Machakos,KALAMA,26764,27692,54462,6,480,113,Sheet1,A109:G109,cells
+sub-county,Machakos,KANGUNDO,48697,49219,97917,1,173,565,Sheet1,A110:G110,cells
+sub-county,Machakos,KATHIANI,54910,56976,111890,4,204,548,Sheet1,A111:G111,cells
+sub-county,Machakos,MACHAKOS,85486,85114,170606,6,280,609,Sheet1,A112:G112,cells
+sub-county,Machakos,MASINGA,73519,75001,148522,2,1407,106,Sheet1,A113:G113,cells
+sub-county,Machakos,MATUNGULU,81145,80407,161557,5,581,278,Sheet1,A114:G114,cells
+sub-county,Machakos,MWALA,90427,91466,181896,3,1013,179,Sheet1,A115:G115,cells
+sub-county,Machakos,YATTA,85437,87144,172583,2,1062,162,Sheet1,A116:G116,cells
+sub-county,Makueni,KATHONZWENI,39335,40442,79780,3,881,91,Sheet1,A117:G117,cells
+sub-county,Makueni,KIBWEZI,98477,98517,197000,6,3137,63,Sheet1,A118:G118,cells
+sub-county,Makueni,KILUNGU,29019,31932,60952,1,154,395,Sheet1,A119:G119,cells
+sub-county,Makueni,MAKINDU,42204,42742,84946,0,852,100,Sheet1,A120:G120,cells
+sub-county,Makueni,MAKUENI,65418,64955,130375,2,609,214,Sheet1,A121:G121,cells
+sub-county,Makueni,MBOONI EAST,48152,49601,97756,3,693,141,Sheet1,A122:G122,cells
+sub-county,Makueni,MBOONI WEST,49434,53159,102594,1,271,379,Sheet1,A123:G123,cells
+sub-county,Makueni,MUKAA,54481,53068,107549,0,804,134,Sheet1,A124:G124,cells
+sub-county,Makueni,NZAUI,63171,63526,126701,4,775,163,Sheet1,A125:G125,cells
+sub-county,Nyandarua,KINANGOP,54727,56679,111410,4,294,379,Sheet1,A126:G126,cells
+sub-county,Nyandarua,NYANDARUA SOUTH,46157,47708,93870,5,314,299,Sheet1,A127:G127,"name printed with a double space (""NYANDARUA  SOUTH"")"
+sub-county,Nyandarua,MIRANGINE,33447,33766,67214,1,246,274,Sheet1,A128:G128,cells
+sub-county,Nyandarua,KIPIPIRI,46113,47740,93855,2,456,206,Sheet1,A129:G129,cells
+sub-county,Nyandarua,NYANDARUA CENTRAL,37329,37931,75262,2,347,217,Sheet1,A130:G130,"name printed with a double space (""NYANDARUA  CENTRAL"")"
+sub-county,Nyandarua,NYANDARUA WEST,48752,49209,97965,4,385,255,Sheet1,A131:G131,"name printed with a double space (""NYANDARUA  WEST"")"
+sub-county,Nyandarua,NYANDARUA NORTH,48486,50210,98698,2,528,187,Sheet1,A132:G132,"name printed with a double space (""NYANDARUA  NORTH"")"
+sub-county,Nyandarua,ABERDARE NATIONAL PARK,11,4,15,0,717,,Sheet1,A133:G133,density printed as ..
+sub-county,Nyeri,TETU,39293,41155,80453,5,217,372,Sheet1,A134:G134,cells
+sub-county,Nyeri,KIENI EAST,55360,55012,110376,4,449,246,Sheet1,A135:G135,cells
+sub-county,Nyeri,KIENI WEST,43843,44677,88525,5,518,171,Sheet1,A136:G136,cells
+sub-county,Nyeri,MATHIRA EAST,48070,50992,99065,3,130,760,Sheet1,A137:G137,cells
+sub-county,Nyeri,MATHIRA WEST,29480,30412,59895,3,162,369,Sheet1,A138:G138,cells
+sub-county,Nyeri,NYERI SOUTH,44115,46964,91081,2,169,538,Sheet1,A139:G139,cells
+sub-county,Nyeri,MUKURWE-INI,43975,45156,89137,6,179,498,Sheet1,A140:G140,cells
+sub-county,Nyeri,NYERI CENTRAL,69955,70380,140338,3,168,837,Sheet1,A141:G141,cells
+sub-county,Nyeri,MT. KENYA FOREST,123,65,188,0,611,,Sheet1,A142:G142,density printed as ..
+sub-county,Nyeri,ABERDARE FOREST,74,32,106,0,722,,Sheet1,A143:G143,density printed as ..
+sub-county,Kirinyaga,KIRINYAGA CENTRAL,60118,62617,122740,5,153,800,Sheet1,A144:G144,"name printed with a double space (""KIRINYAGA  CENTRAL"")"
+sub-county,Kirinyaga,KIRINYAGA EAST,67037,68514,135559,8,232,585,Sheet1,A145:G145,cells
+sub-county,Kirinyaga,KIRINYAGA WEST,56154,58502,114660,4,208,552,Sheet1,A146:G146,cells
+sub-county,Kirinyaga,MWEA EAST,66432,66114,132554,8,303,437,Sheet1,A147:G147,cells
+sub-county,Kirinyaga,MWEA WEST,52228,52594,104828,6,239,438,Sheet1,A148:G148,cells
+sub-county,Kirinyaga,MOUNT KENYA FOREST,42,28,70,0,343,,Sheet1,A149:G149,density printed as ..
+sub-county,Murang'a,MURANG'A EAST,54665,55645,110311,1,241,458,Sheet1,A150:G150,cells
+sub-county,Murang'a,KANGEMA,39582,40862,80447,3,174,463,Sheet1,A151:G151,cells
+sub-county,Murang'a,MATHIOYA,45454,47359,92814,1,178,523,Sheet1,A152:G152,cells
+sub-county,Murang'a,KAHURO,43352,44834,88193,7,169,521,Sheet1,A153:G153,cells
+sub-county,Murang'a,MURANG'A SOUTH,91732,93087,184824,5,457,405,Sheet1,A154:G154,cells
+sub-county,Murang'a,GATANGA,94437,93548,187989,4,531,354,Sheet1,A155:G155,cells
+sub-county,Murang'a,KIGUMO,67989,68929,136921,3,244,561,Sheet1,A156:G156,cells
+sub-county,Murang'a,KANDARA,86698,88393,175098,7,235,746,Sheet1,A157:G157,cells
+sub-county,Murang'a,ABERDARE FOREST,31,12,43,0,295,,Sheet1,A158:G158,density printed as ..
+sub-county,Kiambu,GATUNDU NORTH,54189,55678,109870,3,286,384,Sheet1,A159:G159,cells
+sub-county,Kiambu,GATUNDU SOUTH,60384,61714,122103,5,194,631,Sheet1,A160:G160,cells
+sub-county,Kiambu,GITHUNGURI,82037,83187,165232,8,174,948,Sheet1,A161:G161,cells
+sub-county,Kiambu,JUJA,148446,152480,300948,22,342,880,Sheet1,A162:G162,cells
+sub-county,Kiambu,KABETE,97794,101845,199653,14,61,3289,Sheet1,A163:G163,cells
+sub-county,Kiambu,KIAMBAA,115690,120695,236400,15,91,2595,Sheet1,A164:G164,cells
+sub-county,Kiambu,KIAMBU,69661,76225,145903,17,98,1483,Sheet1,A165:G165,cells
+sub-county,Kiambu,KIKUYU,90919,96198,187122,5,173,1082,Sheet1,A166:G166,cells
+sub-county,Kiambu,LARI,67061,68238,135303,4,432,313,Sheet1,A167:G167,cells
+sub-county,Kiambu,LIMURU,79632,79682,159314,0,285,559,Sheet1,A168:G168,cells
+sub-county,Kiambu,RUIRU,180947,190144,371111,20,201,1846,Sheet1,A169:G169,cells
+sub-county,Kiambu,THIKA EAST,19688,19264,38956,4,110,354,Sheet1,A170:G170,cells
+sub-county,Kiambu,THIKA WEST,120698,125104,245820,18,91,2689,Sheet1,A171:G171,cells
+sub-county,Turkana,KIBISH,18651,18117,36769,1,10466,4,Sheet1,A172:G172,cells
+sub-county,Turkana,LOIMA,54341,53453,107795,1,9120,12,Sheet1,A173:G173,cells
+sub-county,Turkana,TURKANA CENTRAL,93145,92160,185305,0,6415,29,Sheet1,A174:G174,"name printed with a double space (""TURKANA  CENTRAL"")"
+sub-county,Turkana,TURKANA EAST,76871,61643,138526,12,11396,12,Sheet1,A175:G175,cells
+sub-county,Turkana,TURKANA NORTH,32810,32408,65218,0,7012,9,Sheet1,A176:G176,cells
+sub-county,Turkana,TURKANA SOUTH,78402,75329,153736,5,7045,22,Sheet1,A177:G177,cells
+sub-county,Turkana,TURKANA WEST,123867,115758,239627,2,16779,14,Sheet1,A178:G178,cells
+sub-county,West Pokot,KIPKOMO,50923,51703,102633,7,766,134,Sheet1,A179:G179,cells
+sub-county,West Pokot,POKOT CENTRAL,59682,59331,119016,3,2055,58,Sheet1,A180:G180,cells
+sub-county,West Pokot,POKOT NORTH,64780,69702,134485,3,3911,34,Sheet1,A181:G181,cells
+sub-county,West Pokot,POKOT SOUTH,39808,40851,80661,2,537,150,Sheet1,A182:G182,cells
+sub-county,West Pokot,WEST POKOT,91820,92626,184446,0,1855,99,Sheet1,A183:G183,cells
+sub-county,Samburu,SAMBURU CENTRAL,83633,81307,164942,2,3699,45,Sheet1,A184:G184,"name printed with a double space (""SAMBURU  CENTRAL"")"
+sub-county,Samburu,SAMBURU EAST,38211,39782,77994,1,10016,8,Sheet1,A185:G185,cells
+sub-county,Samburu,SAMBURU NORTH,34930,32457,67391,4,7375,9,Sheet1,A186:G186,cells
+sub-county,Trans Nzoia,TRANS NZOIA WEST,101198,101174,202377,5,355,569,Sheet1,A187:G187,cells
+sub-county,Trans Nzoia,TRANS NZOIA EAST,113498,116029,229538,11,629,365,Sheet1,A188:G188,cells
+sub-county,Trans Nzoia,KWANZA,100234,103584,203821,3,465,438,Sheet1,A189:G189,cells
+sub-county,Trans Nzoia,ENDEBESS,56090,55689,111782,3,678,165,Sheet1,A190:G190,cells
+sub-county,Trans Nzoia,KIMININI,118087,124730,242823,6,367,662,Sheet1,A191:G191,cells
+sub-county,Uasin Gishu,AINABKOI,68348,69835,138184,1,483,286,Sheet1,A192:G192,cells
+sub-county,Uasin Gishu,KAPSERET,99650,98845,198499,4,299,663,Sheet1,A193:G193,cells
+sub-county,Uasin Gishu,KESSES,74301,74493,148798,4,748,199,Sheet1,A194:G194,cells
+sub-county,Uasin Gishu,MOIBEN,90309,91027,181338,2,770,236,Sheet1,A195:G195,cells
+sub-county,Uasin Gishu,SOY,114082,115007,229094,5,668,343,Sheet1,A196:G196,cells
+sub-county,Uasin Gishu,TURBO,133579,133682,267273,12,431,620,Sheet1,A197:G197,cells
+sub-county,Elgeyo Marakwet,KEIYO NORTH,49601,49574,99176,1,543,183,Sheet1,A198:G198,cells
+sub-county,Elgeyo Marakwet,KEIYO SOUTH,60919,59827,120750,4,898,134,Sheet1,A199:G199,cells
+sub-county,Elgeyo Marakwet,MARAKWET EAST,47849,49190,97041,2,853,114,Sheet1,A200:G200,cells
+sub-county,Elgeyo Marakwet,MARAKWET WEST,68948,68560,137513,5,738,186,Sheet1,A201:G201,cells
+sub-county,Nandi,CHESUMEI,80949,83180,164133,4,475,346,Sheet1,A202:G202,cells
+sub-county,Nandi,NANDI CENTRAL,73291,74255,147553,7,362,407,Sheet1,A203:G203,cells
+sub-county,Nandi,NANDI EAST,59899,59271,119173,3,392,304,Sheet1,A204:G204,cells
+sub-county,Nandi,NANDI NORTH,82512,83656,166171,3,606,274,Sheet1,A205:G205,cells
+sub-county,Nandi,NANDI SOUTH,85718,87029,172750,3,457,378,Sheet1,A206:G206,cells
+sub-county,Nandi,TINDERET,58890,57039,115931,2,557,208,Sheet1,A207:G207,cells
+sub-county,Baringo,BARINGO CENTRAL,48120,48829,96951,2,786,123,Sheet1,A208:G208,cells
+sub-county,Baringo,BARINGO NORTH,52369,52500,104871,2,1629,64,Sheet1,A209:G209,cells
+sub-county,Baringo,EAST POKOT,40462,39459,79923,2,2500,32,Sheet1,A210:G210,cells
+sub-county,Baringo,KOIBATEK,65295,64238,129535,2,939,138,Sheet1,A211:G211,cells
+sub-county,Baringo,MARIGAT,45706,45246,90955,3,1405,65,Sheet1,A212:G212,cells
+sub-county,Baringo,MOGOTIO,46014,45088,91104,2,1375,66,Sheet1,A213:G213,cells
+sub-county,Baringo,TIATY EAST,38356,35068,73424,0,2163,34,Sheet1,A214:G214,cells
+sub-county,Baringo,LAKE BARINGO,,,,,186,,Sheet1,A215:G215,total printed as -; men printed as -; women printed as -; density printed as -
+sub-county,Laikipia,LAIKIPIA CENTRAL,47888,47705,95594,1,1233,78,Sheet1,A216:G216,cells
+sub-county,Laikipia,LAIKIPIA EAST,52078,50732,102815,5,1539,67,Sheet1,A217:G217,cells
+sub-county,Laikipia,LAIKIPIA NORTH,18067,18116,36184,1,2550,14,Sheet1,A218:G218,cells
+sub-county,Laikipia,LAIKIPIA WEST,65158,64102,129263,3,3372,38,Sheet1,A219:G219,cells
+sub-county,Laikipia,NYAHURURU,76249,78447,154704,8,813,190,Sheet1,A220:G220,cells
+sub-county,Nakuru,GILGIL,92955,92247,185209,7,1075,172,Sheet1,A221:G221,cells
+sub-county,Nakuru,KURESOI NORTH,87472,87599,175074,3,618,283,Sheet1,A222:G222,cells
+sub-county,Nakuru,KURESOI SOUTH,78204,77117,155324,3,591,263,Sheet1,A223:G223,cells
+sub-county,Nakuru,MOLO,78129,78598,156732,5,483,324,Sheet1,A224:G224,cells
+sub-county,Nakuru,NAIVASHA,179222,176132,355383,29,1958,181,Sheet1,A225:G225,cells
+sub-county,Nakuru,NAKURU EAST,92956,100960,193926,10,231,840,Sheet1,A226:G226,cells
+sub-county,Nakuru,NAKURU NORTH,106155,111880,218050,15,387,563,Sheet1,A227:G227,cells
+sub-county,Nakuru,NAKURU WEST,101797,96854,198661,10,72,2764,Sheet1,A228:G228,cells
+sub-county,Nakuru,NJORO,118361,120408,238773,4,699,341,Sheet1,A229:G229,cells
+sub-county,Nakuru,RONGAI,99976,99922,199906,8,988,202,Sheet1,A230:G230,cells
+sub-county,Nakuru,SUBUKIA,42045,43118,85164,1,402,212,Sheet1,A231:G231,cells
+sub-county,Narok,NAROK EAST,58699,56617,115323,7,2042,56,Sheet1,A232:G232,cells
+sub-county,Narok,NAROK NORTH,128024,123829,251862,9,2159,117,Sheet1,A233:G233,cells
+sub-county,Narok,NAROK SOUTH,118441,120029,238472,2,4577,52,Sheet1,A234:G234,cells
+sub-county,Narok,NAROK WEST,97085,98198,195287,4,5563,35,Sheet1,A235:G235,cells
+sub-county,Narok,TRANS MARA EAST,54545,56637,111183,1,310,359,Sheet1,A236:G236,cells
+sub-county,Narok,TRANS MARA WEST,122220,123491,245714,3,2546,97,Sheet1,A237:G237,cells
+sub-county,Narok,MAU FOREST,28,4,32,0,734,,Sheet1,A238:G238,density printed as ..
+sub-county,Kajiado,ISINYA,105607,104860,210473,6,1072,196,Sheet1,A239:G239,cells
+sub-county,Kajiado,KAJIADO CENTRAL,81514,80343,161862,5,4239,38,Sheet1,A240:G240,cells
+sub-county,Kajiado,KAJIADO NORTH,150675,155908,306596,13,111,2773,Sheet1,A241:G241,cells
+sub-county,Kajiado,KAJIADO WEST,91607,91237,182849,5,7862,23,Sheet1,A242:G242,cells
+sub-county,Kajiado,LOITOKITOK,94613,97225,191846,8,6337,30,Sheet1,A243:G243,cells
+sub-county,Kajiado,MASHUURU,33082,31131,64214,1,2251,29,Sheet1,A244:G244,cells
+sub-county,Kericho,BELGUT,72508,72564,145072,0,264,549,Sheet1,A245:G245,cells
+sub-county,Kericho,BURETI,98823,100642,199470,5,321,622,Sheet1,A246:G246,cells
+sub-county,Kericho,KERICHO EAST,86671,83947,170625,7,241,709,Sheet1,A247:G247,cells
+sub-county,Kericho,KIPKELION,61066,61460,122530,4,350,350,Sheet1,A248:G248,cells
+sub-county,Kericho,LONDIANI,68570,69000,137580,10,400,344,Sheet1,A249:G249,cells
+sub-county,Kericho,SOIN SIGOWET,63103,63395,126500,2,466,271,Sheet1,A250:G250,cells
+sub-county,Kericho,MAU FOREST,,,,,201,,Sheet1,A251:G251,total printed as -; men printed as -; women printed as -; density printed as -
+sub-county,Kericho,TINDERET FOREST,,,,,194,,Sheet1,A252:G252,the whole row is text in cell B252; unit name and land area 194 read from that text; population and density printed as -
+sub-county,Bomet,BOMET EAST,71095,73172,144275,8,305,473,Sheet1,A253:G253,cells
+sub-county,Bomet,CHEPALUNGU,79921,84912,164837,4,461,358,Sheet1,A254:G254,cells
+sub-county,Bomet,KONOIN,83120,80384,163507,3,393,417,Sheet1,A255:G255,cells
+sub-county,Bomet,SOTIK,112369,115482,227855,4,544,419,Sheet1,A256:G256,cells
+sub-county,Bomet,BOMET CENTRAL,87782,87429,175215,4,286,613,Sheet1,A257:G257,cells
+sub-county,Bomet,MAU FOREST,,,,,519,,Sheet1,A258:G258,total printed as -; men printed as -; women printed as -; density printed as -
+sub-county,Kakamega,BUTERE,73634,80463,154100,3,210,734,Sheet1,A259:G259,cells
+sub-county,Kakamega,KAKAMEGA CENTRAL,92774,95432,188212,6,155,1212,Sheet1,A260:G260,cells
+sub-county,Kakamega,KAKAMEGA EAST,80853,86784,167641,4,417,402,Sheet1,A261:G261,cells
+sub-county,Kakamega,KAKAMEGA NORTH,115511,122814,238330,5,421,566,Sheet1,A262:G262,cells
+sub-county,Kakamega,KAKAMEGA SOUTH,53219,58524,111743,0,146,764,Sheet1,A263:G263,cells
+sub-county,Kakamega,KHWISERO,53670,59803,113476,3,146,779,Sheet1,A264:G264,cells
+sub-county,Kakamega,LIKUYANI,73710,78341,152055,4,316,481,Sheet1,A265:G265,cells
+sub-county,Kakamega,LUGARI,59135,63593,122728,0,254,483,Sheet1,A266:G266,cells
+sub-county,Kakamega,MATETE,31749,34423,66172,0,103,644,Sheet1,A267:G267,cells
+sub-county,Kakamega,MATUNGU,78793,88143,166940,4,276,606,Sheet1,A268:G268,cells
+sub-county,Kakamega,MUMIAS EAST,55895,60953,116851,3,150,778,Sheet1,A269:G269,cells
+sub-county,Kakamega,MUMIAS WEST,54915,60438,115354,1,163,706,Sheet1,A270:G270,cells
+sub-county,Kakamega,NAVAKHOLO,73275,80695,153977,7,259,594,Sheet1,A271:G271,cells
+sub-county,Vihiga,EMUHAYA,46507,50633,97141,1,89,1091,Sheet1,A272:G272,cells
+sub-county,Vihiga,VIHIGA,45788,49501,95292,3,90,1058,Sheet1,A273:G273,cells
+sub-county,Vihiga,SABATIA,62944,68683,131628,1,111,1181,Sheet1,A274:G274,cells
+sub-county,Vihiga,LUANDA,51525,55165,106694,4,84,1265,Sheet1,A275:G275,cells
+sub-county,Vihiga,HAMISI,76901,82337,159241,3,157,1013,Sheet1,A276:G276,cells
+sub-county,Vihiga,KAKAMEGA FOREST,13,4,17,0,32,1,Sheet1,A277:G277,cells
+sub-county,Bungoma,BUMULA,103368,112523,215892,1,345,625,Sheet1,A278:G278,cells
+sub-county,Bungoma,BUNGOMA CENTRAL,86302,91438,177748,8,233,764,Sheet1,A279:G279,"name printed with a double space (""BUNGOMA  CENTRAL"")"
+sub-county,Bungoma,BUNGOMA EAST,55775,58771,114548,2,163,702,Sheet1,A280:G280,cells
+sub-county,Bungoma,BUNGOMA NORTH,58790,62526,121317,1,192,633,Sheet1,A281:G281,cells
+sub-county,Bungoma,BUNGOMA SOUTH,139705,148055,287765,5,321,896,Sheet1,A282:G282,cells
+sub-county,Bungoma,CHEPTAIS,67717,68312,136035,6,223,610,Sheet1,A283:G283,cells
+sub-county,Bungoma,KIMILILI,78560,83475,162038,3,180,902,Sheet1,A284:G284,cells
+sub-county,Bungoma,MT ELGON,38977,39893,78873,3,126,624,Sheet1,A285:G285,cells
+sub-county,Bungoma,BUNGOMA WEST,58225,61649,119875,1,211,568,Sheet1,A286:G286,cells
+sub-county,Bungoma,TONGAREN,48685,51657,100343,1,185,542,Sheet1,A287:G287,cells
+sub-county,Bungoma,WEBUYE WEST,74180,78331,152515,4,239,638,Sheet1,A288:G288,cells
+sub-county,Bungoma,MT ELGON FOREST,1862,1759,3621,0,606,6,Sheet1,A289:G289,cells
+sub-county,Busia,BUNYALA,41465,44511,85977,1,192,447,Sheet1,A290:G290,cells
+sub-county,Busia,BUSIA,69034,73373,142408,1,196,727,Sheet1,A291:G291,cells
+sub-county,Busia,BUTULA,65136,75195,140334,3,247,568,Sheet1,A292:G292,cells
+sub-county,Busia,NAMBALE,52900,58732,111636,4,238,469,Sheet1,A293:G293,cells
+sub-county,Busia,SAMIA,50821,56341,107176,14,262,408,Sheet1,A294:G294,cells
+sub-county,Busia,TESO NORTH,66412,71619,138034,3,261,529,Sheet1,A295:G295,cells
+sub-county,Busia,TESO SOUTH,80484,87630,168116,2,303,555,Sheet1,A296:G296,cells
+sub-county,Siaya,SIAYA,105906,118433,224343,4,599,375,Sheet1,A297:G297,cells
+sub-county,Siaya,GEM,85696,94092,179792,4,405,444,Sheet1,A298:G298,cells
+sub-county,Siaya,UGENYA,62624,71726,134354,4,324,415,Sheet1,A299:G299,cells
+sub-county,Siaya,UGUNJA,48912,55329,104241,0,201,519,Sheet1,A300:G300,cells
+sub-county,Siaya,BONDO,95962,101917,197883,4,599,330,Sheet1,A301:G301,cells
+sub-county,Siaya,RARIEDA,72569,79999,152570,2,402,379,Sheet1,A302:G302,cells
+sub-county,Kisumu,KISUMU EAST,108304,112689,220997,4,142,1560,Sheet1,A303:G303,cells
+sub-county,Kisumu,KISUMU CENTRAL,84155,89985,174145,5,37,4737,Sheet1,A304:G304,cells
+sub-county,Kisumu,KISUMU WEST,85697,87121,172821,3,209,827,Sheet1,A305:G305,cells
+sub-county,Kisumu,SEME,57658,64007,121667,2,268,454,Sheet1,A306:G306,cells
+sub-county,Kisumu,MUHORONI,76770,77345,154116,1,658,234,Sheet1,A307:G307,cells
+sub-county,Kisumu,NYANDO,77121,84380,161508,7,446,362,Sheet1,A308:G308,cells
+sub-county,Kisumu,NYAKACH,71237,79082,150320,1,327,460,Sheet1,A309:G309,cells
+sub-county,Homa Bay,HOMA BAY,55756,61681,117439,2,182,645,Sheet1,A310:G310,cells
+sub-county,Homa Bay,NDHIWA,103706,114422,218136,8,713,306,Sheet1,A311:G311,cells
+sub-county,Homa Bay,RACHUONYO NORTH,85409,93273,178686,4,435,410,Sheet1,A312:G312,"name printed with a double space (""RACHUONYO  NORTH"")"
+sub-county,Homa Bay,RACHUONYO EAST,57709,64111,121822,2,251,486,Sheet1,A313:G313,"name printed with a double space (""RACHUONYO  EAST"")"
+sub-county,Homa Bay,RACHUONYO SOUTH,61663,69151,130814,0,256,511,Sheet1,A314:G314,"name printed with a double space (""RACHUONYO  SOUTH"")"
+sub-county,Homa Bay,RANGWE,55404,62325,117732,3,274,429,Sheet1,A315:G315,cells
+sub-county,Homa Bay,SUBA NORTH,60530,64406,124938,2,406,307,Sheet1,A316:G316,cells
+sub-county,Homa Bay,SUBA SOUTH,59383,62998,122383,2,634,193,Sheet1,A317:G317,cells
+sub-county,Migori,AWENDO,56348,60939,117290,3,255,459,Sheet1,A318:G318,cells
+sub-county,Migori,KURIA EAST,46969,49894,96872,9,188,516,Sheet1,A319:G319,cells
+sub-county,Migori,KURIA WEST,101090,107417,208513,6,396,527,Sheet1,A320:G320,cells
+sub-county,Migori,NYATIKE,83989,92164,176162,9,677,260,Sheet1,A321:G321,cells
+sub-county,Migori,RONGO,59257,65329,124587,1,213,584,Sheet1,A322:G322,cells
+sub-county,Migori,SUNA EAST,58977,63694,122674,3,205,598,Sheet1,A323:G323,cells
+sub-county,Migori,SUNA WEST,61430,67459,128890,1,288,448,Sheet1,A324:G324,cells
+sub-county,Migori,URIRI,68127,73318,141448,3,392,361,Sheet1,A325:G325,cells
+sub-county,Kisii,ETAGO,40137,43647,83787,3,108,773,Sheet1,A326:G326,cells
+sub-county,Kisii,GUCHA,39631,44108,83740,1,82,1020,Sheet1,A327:G327,cells
+sub-county,Kisii,GUCHA SOUTH,40022,43598,83623,3,95,878,Sheet1,A328:G328,cells
+sub-county,Kisii,KENYENYA,62859,68878,131740,3,142,930,Sheet1,A329:G329,cells
+sub-county,Kisii,KISII CENTRAL,81330,85573,166906,3,136,1229,Sheet1,A330:G330,cells
+sub-county,Kisii,KISII SOUTH,64514,70615,135134,5,128,1054,Sheet1,A331:G331,cells
+sub-county,Kisii,KITUTU CENTRAL,74608,79561,154175,6,100,1537,Sheet1,A332:G332,cells
+sub-county,Kisii,MARANI,50598,56864,107464,2,128,837,Sheet1,A333:G333,cells
+sub-county,Kisii,MASABA SOUTH,58143,64248,122396,5,161,759,Sheet1,A334:G334,cells
+sub-county,Kisii,NYAMACHE,62113,68782,130898,3,163,805,Sheet1,A335:G335,cells
+sub-county,Kisii,SAMETA,31829,35164,66997,4,79,847,Sheet1,A336:G336,cells
+sub-county,Nyamira,BORABU,36736,36431,73167,0,247,296,Sheet1,A337:G337,cells
+sub-county,Nyamira,MANGA,44868,49339,94209,2,111,845,Sheet1,A338:G338,cells
+sub-county,Nyamira,MASABA NORTH,52884,58974,111860,2,142,789,Sheet1,A339:G339,cells
+sub-county,Nyamira,NYAMIRA NORTH,80314,86947,167267,6,216,775,Sheet1,A340:G340,cells
+sub-county,Nyamira,NYAMIRA SOUTH,76105,82965,159073,3,182,876,Sheet1,A341:G341,cells
+sub-county,Nairobi,DAGORETTI,217651,216526,434208,31,29,14908,Sheet1,A342:G342,cells
+sub-county,Nairobi,EMBAKASI,492476,496270,988808,62,86,11460,Sheet1,A343:G343,cells
+sub-county,Nairobi,KAMUKUNJI,136670,131599,268276,7,11,25455,Sheet1,A344:G344,cells
+sub-county,Nairobi,KASARANI,381234,399385,780656,37,86,9063,Sheet1,A345:G345,cells
+sub-county,Nairobi,KIBRA,94199,91569,185777,9,12,15311,Sheet1,A346:G346,cells
+sub-county,Nairobi,LANG'ATA,96698,100774,197489,17,217,911,Sheet1,A347:G347,cells
+sub-county,Nairobi,MAKADARA,96369,93157,189536,10,12,16150,Sheet1,A348:G348,cells
+sub-county,Nairobi,MATHARE,106522,100028,206564,14,3,68940,Sheet1,A349:G349,cells
+sub-county,Nairobi,NJIRU,307642,318809,626482,31,130,4821,Sheet1,A350:G350,cells
+sub-county,Nairobi,STAREHE,109173,101238,210423,12,21,10205,Sheet1,A351:G351,cells
+sub-county,Nairobi,WESTLANDS,153818,155021,308854,15,98,3167,Sheet1,A352:G352,cells

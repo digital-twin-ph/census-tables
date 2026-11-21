@@ -1,0 +1,44 @@
+{
+  "country": "Brazil",
+  "iso3": "BRA",
+  "census": "Censo Demográfico 2022",
+  "reference_date": "2022-07-31",
+  "reference_date_note": "Unconfirmed on an IBGE page read: every ibge.gov.br page tried answered HTTP 403 on 2026-11-20. A web search excerpt of IBGE's guide for journalists (censo2022.ibge.gov.br/np_download/censo2022/divulgacao/guia_jornalistas_censo2022.pdf, not downloaded) gives \"meia-noite de 31 de julho para 1º de agosto de 2022\".",
+  "source": {
+    "title": "Censo Demográfico 2022: População e Domicílios - Primeiros Resultados (22 de dezembro de 2023). População coletada e imputada no Censo Demográfico 2022, por Município e UF",
+    "publisher": "Instituto Brasileiro de Geografia e Estatística (IBGE), Diretoria de Pesquisas, Coordenação Técnica do Censo Demográfico",
+    "page": "https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/Populacao_e_domicilios_Primeiros_resultados/Resultados_da_2a_apuracao_20231027/",
+    "copy_read": {
+      "url": "https://ftp.ibge.gov.br/Censos/Censo_Demografico_2022/Populacao_e_domicilios_Primeiros_resultados/Resultados_da_2a_apuracao_20231027/CD2022_Populacao_Coletada_Imputada_e_Total_Municipio_e_UF_20231222.xlsx",
+      "bytes": 323975,
+      "sha256": "0233c1b78c77a1789a05559e03cc86d8b7812584cb9483a588b098169cfef356",
+      "retrieved": "2026-11-20",
+      "held_by": "research_notes/census-downloads/BRA/",
+      "form": "Excel workbook; sheets 'Municípios' (B3:H5573) and 'Unidados da Federação' (B3:F31)"
+    },
+    "release": "The Primeiros Resultados of 22 December 2023, from the second count (Resultados da 2ª apuração, 27 October 2023). Collected, imputed and total population only: not by sex or age.",
+    "sheet_dates": "The 'Municípios' sheet is headed '(22 de dezembro de 2023)'; the 'Unidados da Federação' sheet is headed 'Primeiros Resultados de População do Censo Demográfico 2022 (27 de outubro de 2023)'. Their figures agree exactly (see checks)."
+  },
+  "licence": {
+    "stated": "none found",
+    "where": "Tried 2026-11-20: https://www.ibge.gov.br/acesso-informacao/institucional/termos-de-uso.html, https://censo2022.ibge.gov.br/sobre/conhecendo-o-censo.html and an agenciadenoticias.ibge.gov.br article: each answered HTTP 403, so no IBGE terms could be read. The workbook itself carries no rights notice, only 'Fonte: IBGE. Diretoria de Pesquisas - DPE - Coordenação Técnica do Censo Demográfico - CTD'. A web search turned up IBGE notices for other products only (magazines: 'Permitida a reprodução ... desde que citada a fonte'; cartographic bases: credit to IBGE), none for census tables.",
+    "redistributed": "the counts only, read and cited with IBGE as source; the workbook is not redistributed"
+  },
+  "transcription": {
+    "by": "read from the workbook's cells with Fieldwork's xlsx reader, not typed; cell rows confirmed against the sheet XML",
+    "as_published": "names as the workbook writes them (no leading, trailing or doubled spaces found). The UFs appear only by abbreviation (RO, AC, ...), so unit is the abbreviation. ibge_code is COD. UF followed by COD. MUNIC, as IBGE writes the full 7-digit code; all 5570 are distinct. The sheet name 'Unidados da Federação' is IBGE's spelling.",
+    "corrections": [],
+    "checks": {
+      "collected_plus_imputed_equals_total": "5598 of 5598 rows",
+      "municipios_sum_to_their_uf": "27 of 27 UFs, in collected, imputed and total",
+      "every_municipio_in_a_listed_uf": "5570 of 5570, with COD. UF matching its UF's",
+      "ufs_sum_to_brasil": "195101203 collected, 7979553 imputed, 203080756 total: equal to the sheet's Brasil row"
+    }
+  },
+  "units": "counts.csv: Brasil, its 27 Unidades da Federação (26 states and the Distrito Federal), and 5570 municípios, each UF followed by its municípios in the workbook's order. The Distrito Federal has one município, Brasília.",
+  "reviewed": {
+    "last": "2026-11-20",
+    "next_due": "2027-05-20",
+    "found": "First transcription. The Censo Demográfico 2022 is the latest census; these are its Primeiros Resultados of 22 December 2023, total 203080756."
+  }
+}

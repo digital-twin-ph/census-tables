@@ -1,0 +1,52 @@
+{
+  "country": "Kenya",
+  "iso3": "KEN",
+  "census": "2019 Kenya Population and Housing Census (KPHC)",
+  "reference_date": "2019-08",
+  "source": {
+    "title": "Distribution of Population by Sex, Number of Households, Land Area, Population Density and Sub County",
+    "publisher": "Kenya National Bureau of Statistics (KNBS)",
+    "volume": "Not named by the HDX page. KNBS's census reports page (https://www.knbs.or.ke/2019-kenya-population-and-housing-census-reports/, read 2026-11-20) describes Volume II, Distribution of Population by Administrative Units (released 21 February 2020), as giving each administrative unit 'by sex, number of households, land area and population density', and Volume I, Population by County and Sub-County (released 4 November 2019), as giving county and sub-county population, households and density. HDX's time period for the dataset is 4 November 2019, Volume I's release date; the workbook itself was created 2020-03-03 and last saved 2020-03-20, after Volume II. Which volume the table is from is not established.",
+    "page": "https://data.humdata.org/dataset/kenya-population-per-county-from-census-report-2019",
+    "copy_read": {
+      "url": "https://data.humdata.org/dataset/fa58ed8d-1daa-48b6-bae1-19746c32c85f/resource/742b08fe-c53d-4538-81fc-b30a41a1280a/download/distribution-of-population-by-sex-number-of-households-land-area-population-density-and-sub-cou.xlsx",
+      "held_by": "HDX (Humanitarian Data Exchange, OCHA): not read from KNBS's own site",
+      "uploaded_by": "the HDX organisation account 'Kenya National Bureau of Statistics (inactive)' (kenya-national-bureau-of-statistics), named for KNBS; HDX lists it as both contributor and publisher, with 'Source: Kenya National Bureau of statistics'",
+      "hdx_dataset": "'Kenya: Population Per County  and sub county from Census Report', ID fa58ed8d-1daa-48b6-bae1-19746c32c85f, marked Archived; added to HDX 2019-11-05, modified 2020-03-20 (the resource: last modified 2020-03-20); expected update frequency: Never. Its other resource, '2019 Population_Census report per county.csv', was not read",
+      "bytes": 107979,
+      "sha256": "56a6bf3ca8e3a049cc2314b354fd1442f8b53be2ca56edcc0189bfe876c13711",
+      "retrieved": "2026-11-20",
+      "form": "Excel workbook, one sheet 'Sheet1' (A1:CB352): headers in row 1, HXL tags in row 2 (#admin1+name, #admin2+name, #population+total, #population+m, #population+f), 350 rows of data in A3:G352. Document properties: creator MARINDI, created 2020-03-03, modified 2020-03-20"
+    }
+  },
+  "licence": {
+    "stated": "Public Domain / No restrictions (CC0): HDX's licence label, chosen by the uploading account, not a KNBS statement",
+    "where": "https://data.humdata.org/dataset/fa58ed8d-1daa-48b6-bae1-19746c32c85f (HTML, read 2026-11-20): the dataset's License field. KNBS's own site: the census reports page carries the footer 'All Rights Reserved'; https://www.knbs.or.ke/terms-and-conditions/ returned 404, and no KNBS terms of use were found",
+    "redistributed": "the counts of the workbook, with attribution to the Kenya National Bureau of Statistics and to the HDX copy; the workbook itself is not redistributed"
+  },
+  "transcription": {
+    "by": "read from the workbook's cells (A3:G352) with Fieldwork's xlsx reader, not typed",
+    "as_published": "sub-county names as column B writes them (upper case), county names as column A writes them, with these changes:",
+    "corrections": [
+      "A double space inside 13 sub-county names written as one: MANDERA CENTRAL, MARSABIT CENTRAL, NYANDARUA SOUTH, NYANDARUA CENTRAL, NYANDARUA WEST, NYANDARUA NORTH, KIRINYAGA CENTRAL, TURKANA CENTRAL, SAMBURU CENTRAL, BUNGOMA CENTRAL, RACHUONYO NORTH, RACHUONYO EAST, RACHUONYO SOUTH (rows 51, 55, 127, 130, 131, 132, 144, 174, 184, 279, 312, 313, 314); each row's read_from gives the name as printed. Reason: an artefact of the conversion, which breaks matching by name.",
+      "Row 252 (Kericho, TINDERET FOREST): the whole row is one text in cell B252, 'TINDERET FOREST' followed by six dashes, 194, and a dash. The unit name and land area 194 are read from that text. Reason: the row was not split into cells.",
+      "Row 77 (Tharaka Nithi, THARAKA-NITHI) is written as a county row, not a sub-county. It is printed among the sub-counties and tagged #admin2+name, but it is the county's total: its men, women, total and land area (193764, 199406, 393177, 2564) equal the sums of the six sub-county rows that follow it. Summing all 350 rows as sub-counties counts Tharaka Nithi twice and gives 47957473.",
+      "The 46 other county rows and the country row are derived: the workbook prints no county or national rows. Each is the sum of its rows' men, women, total and land area; density is left empty."
+    ],
+    "not_counts": "Values printed as '-' (no population: LAKE BARINGO, both MAU FOREST rows of Kericho and Bomet, TINDERET FOREST) or '..' (density of 9 forest and national park rows) are left empty.",
+    "households": "The workbook's title names households, and row 1 holds header fragments of the source table (cell B1: 'Sub County / Total Male Female Total Conventional'; AY1 'Quarters'; BG1 and BO1 'Sq. Km'), but no cell holds a household count or an intersex count. Neither is in counts.csv.",
+    "checks": {
+      "men_plus_women_equals_total": "45 of 346 rows with all three. The other 301 have a total larger than men plus women by 1 to 62; none smaller. The difference is in total_less_men_and_women, summing to 1524 over the sub-county rows (and 1524 for the country).",
+      "sub_counties_sum_to_their_county": "Tharaka Nithi, the one county printed: equal in men, women, total and land area. The 46 other county rows are those sums, so this check cannot fail for them.",
+      "counties_sum_to_the_country": "47564296, equal to the national total 47,564,296 given with the brief. That figure is not in this workbook; the country row here is derived.",
+      "derived_country": "men 23548056, women 24014716, total 47564296, land area 580892 square kilometres"
+    },
+    "printed_rows_only": "ONLY PRINTED ROWS (the coordinator, 2026-11-20): census-tables holds counts as printed. The workbook prints no national row and only one county row, Tharaka Nithi's, so the derived country and 46 county rows first written were removed. Summing the sub-counties gives men 23548056, women 24014716, total 47564296, the figure KNBS reports for the country, but that sum is a check, not a printed count."
+  },
+  "units": "counts.csv: 349 sub-county rows as printed, among them forests, national parks and a lake, and Tharaka Nithi's county row, printed among them (row 77); no national row and no other county rows, which the workbook does not print.",
+  "reviewed": {
+    "last": "2026-11-20",
+    "next_due": "2027-05-20",
+    "found": "First transcription, from an archived HDX copy uploaded by an account named for KNBS."
+  }
+}
